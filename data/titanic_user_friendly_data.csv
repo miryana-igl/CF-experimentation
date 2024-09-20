@@ -1,0 +1,1310 @@
+Name,Sex,Embarked,Passenger Class,Age,Siblings / Spouse,Parents / Children,Fare,Survived
+Miss Elisabeth Walton Allen,female,England,1,29.0,0,0,£20165.82,Yes
+Master Hudson Trevor Allison,male,England,1,0.9167,1,2,£14460.90,Yes
+Miss Helen Loraine Allison,female,England,1,2.0,1,2,£14460.90,No
+Mr Hudson Joshua Creighton Allison,male,England,1,30.0,1,2,£14460.90,No
+Mrs Hudson J C (Bessie Waldo Daniels) Allison,female,England,1,25.0,1,2,£14460.90,No
+Mr Harry Anderson,male,England,1,48.0,0,0,£2533.40,Yes
+Miss Kornelia Theodosia Andrews,female,England,1,63.0,1,0,£7438.78,Yes
+Mr Thomas Jr Andrews,male,England,1,39.0,0,0,£0.00,No
+Mrs Edward Dale (Charlotte Lamson) Appleton,female,England,1,53.0,2,0,£4912.15,Yes
+Mr Ramon Artagaveytia,male,France,1,71.0,0,0,£4723.69,No
+Col John Jacob Astor,male,France,1,47.0,1,0,£21710.44,No
+Mrs John Jacob (Madeleine Talmadge Force) Astor,female,France,1,18.0,1,0,£21710.44,Yes
+Mme Leontine Pauline Aubart,female,France,1,24.0,0,0,£6612.61,Yes
+"Miss Ellen ""Nellie"" Barber",female,England,1,26.0,0,0,£7523.87,Yes
+Mr Algernon Henry Wilson Barkworth,male,England,1,80.0,0,0,£2862.60,Yes
+Mr John D Baumann,male,England,1,,0,0,£2473.76,No
+Mr Quigg Edmond Baxter,male,France,1,24.0,0,1,£23618.43,No
+Mrs James (Helene DeLaudeniere Chaput) Baxter,female,France,1,50.0,0,1,£23618.43,Yes
+Miss Albina Bazzani,female,France,1,32.0,0,0,£7279.75,Yes
+Mr Thomson Beattie,male,France,1,36.0,0,0,£7179.56,No
+Mr Richard Leonard Beckwith,male,England,1,37.0,1,1,£5014.72,Yes
+Mrs Richard Leonard (Sallie Monypeny) Beckwith,female,England,1,47.0,1,1,£5014.72,Yes
+Mr Karl Howell Behr,male,France,1,26.0,0,0,£2862.60,Yes
+Miss Rosalie Bidois,female,France,1,42.0,0,0,£21710.44,Yes
+Miss Ellen Bird,female,England,1,29.0,0,0,£21162.17,Yes
+Mr Jakob Birnbaum,male,France,1,25.0,0,0,£2480.92,No
+Mr Dickinson H Bishop,male,France,1,25.0,1,0,£8690.78,Yes
+Mrs Dickinson H (Helen Walton) Bishop,female,France,1,19.0,1,0,£8690.78,Yes
+Miss Amelia Bissette,female,England,1,35.0,0,0,£12942.13,Yes
+Mr Mauritz Hakan Bjornstrom-Steffansson,male,England,1,28.0,0,0,£2533.40,Yes
+Mr Stephen Weart Blackwell,male,England,1,45.0,0,0,£3387.41,No
+Mr Henry Blank,male,France,1,40.0,0,0,£2958.02,Yes
+Miss Caroline Bonnell,female,England,1,30.0,0,0,£15731.58,Yes
+Miss Elizabeth Bonnell,female,England,1,58.0,0,0,£2533.40,Yes
+Mr John James Borebank,male,England,1,42.0,0,0,£2533.40,No
+Miss Grace Scott Bowen,female,France,1,45.0,0,0,£25035.82,Yes
+Miss Elsie Edith Bowerman,female,England,1,22.0,0,1,£5248.10,Yes
+"Mr George (""George Arthur Brayton"") Bradley",male,England,1,,0,0,£2533.40,Yes
+Mr John Bertram Brady,male,England,1,41.0,0,0,£2910.31,No
+Mr Emil Brandeis,male,France,1,48.0,0,0,£4818.31,No
+Dr Arthur Jackson Brewe,male,France,1,,0,0,£3778.63,No
+Mrs James Joseph (Margaret Tobin) Brown,female,France,1,44.0,0,0,£2645.12,Yes
+Mrs John Murray (Caroline Lane Lamson) Brown,female,England,1,59.0,2,0,£4912.15,Yes
+Mrs William Robert (Emma Eliza Ward) Bucknell,female,France,1,60.0,0,0,£7279.75,Yes
+Miss Elizabeth Margaret Burns,female,France,1,41.0,0,0,£12833.99,Yes
+Major Archibald Willingham Butt,male,England,1,45.0,0,0,£2533.40,No
+Mr Alexander Cairns,male,England,1,,0,0,£2958.02,No
+Mr Edward Pennington Calderhead,male,England,1,42.0,0,0,£2508.35,Yes
+Mrs Edward (Helen Churchill Hungerford) Candee,female,France,1,53.0,0,0,£2618.88,Yes
+Mr Thomas Drake Martinez Cardeza,male,France,1,36.0,0,1,£48886.45,Yes
+Mrs James Warburton Martinez (Charlotte Wardle Drake) Cardeza,female,France,1,58.0,0,1,£48886.45,Yes
+Mr Frans Olof Carlsson,male,England,1,33.0,0,0,£477.10,No
+Mr Francisco M Carrau,male,England,1,28.0,0,0,£4494.28,No
+Mr Jose Pedro Carrau,male,England,1,17.0,0,0,£4494.28,No
+Master William Thornton II Carter,male,England,1,11.0,1,2,£11450.40,Yes
+Miss Lucile Polk Carter,female,England,1,14.0,1,2,£11450.40,Yes
+Mr William Ernest Carter,male,England,1,36.0,1,2,£11450.40,Yes
+Mrs William Ernest (Lucile Polk) Carter,female,England,1,36.0,1,2,£11450.40,Yes
+Mr Howard Brown Case,male,England,1,49.0,0,0,£2480.92,No
+Mrs Henry Arthur Jr (Eleanor Genevieve Fosdick) Cassebeer,female,France,1,,0,0,£2645.12,Yes
+Mr Tyrell William Cavendish,male,England,1,36.0,1,0,£7523.87,No
+Mrs Tyrell William (Julia Florence Siegel) Cavendish,female,England,1,76.0,1,0,£7523.87,Yes
+Mr Herbert Fuller Chaffee,male,England,1,46.0,1,0,£5837.32,No
+Mrs Herbert Fuller (Carrie Constance Toogood) Chaffee,female,England,1,47.0,1,0,£5837.32,Yes
+Mr Norman Campbell Chambers,male,England,1,27.0,1,0,£5066.80,Yes
+Mrs Norman Campbell (Bertha Griggs) Chambers,female,England,1,33.0,1,0,£5066.80,Yes
+Miss Victorine Chaudanson,female,France,1,36.0,0,0,£25035.82,Yes
+Miss Gladys Cherry,female,England,1,30.0,0,0,£8253.83,Yes
+Mr Paul Romaine Chevre,male,France,1,45.0,0,0,£2833.97,Yes
+Mrs (Edith Martha Bowerman) Chibnall,female,England,1,,0,1,£5248.10,Yes
+Mr Roderick Robert Crispin Chisholm,male,England,1,,0,0,£0.00,No
+Mr Walter Miller Clark,male,France,1,27.0,1,0,£13051.47,No
+Mrs Walter Miller (Virginia McDowell) Clark,female,France,1,26.0,1,0,£13051.47,Yes
+Miss Alice Cleaver,female,England,1,22.0,0,0,£14460.90,Yes
+Mr George Quincy Clifford,male,England,1,,0,0,£4961.84,No
+Mr Edward Pomeroy Colley,male,England,1,47.0,0,0,£2441.56,No
+Miss Sara Rebecca Compton,female,France,1,39.0,1,1,£7934.96,Yes
+Mr Alexander Taylor Jr Compton,male,France,1,37.0,1,1,£7934.96,No
+Mrs Alexander Taylor (Mary Eliza Ingersoll) Compton,female,France,1,64.0,0,2,£7934.96,Yes
+Mrs Robert Clifford (Malvina Helen Lamson) Cornell,female,England,1,55.0,2,0,£2452.29,Yes
+Mr John Bertram Crafton,male,England,1,,0,0,£2533.40,No
+Capt Edward Gifford Crosby,male,England,1,70.0,1,1,£6774.82,No
+Miss Harriet R Crosby,female,England,1,36.0,0,2,£6774.82,Yes
+Mrs Edward Gifford (Catherine Elizabeth Halstead) Crosby,female,England,1,64.0,1,1,£2533.40,Yes
+Mr John Bradley Cumings,male,France,1,39.0,1,0,£6801.85,No
+Mrs John Bradley (Florence Briggs Thayer) Cumings,female,France,1,38.0,1,0,£6801.85,Yes
+Mr Peter Denis Daly,male,England,1,51.0,0,0,£2533.40,Yes
+Mr Robert Williams Daniel,male,England,1,27.0,0,0,£2910.31,Yes
+Miss Sarah Daniels,female,England,1,33.0,0,0,£14460.90,Yes
+Mr Thornton Davidson,male,England,1,31.0,1,0,£4961.84,No
+Mrs Thornton (Orian Hays) Davidson,female,England,1,27.0,1,2,£4961.84,Yes
+Mr Albert Adrian Dick,male,England,1,31.0,1,0,£5438.94,Yes
+Mrs Albert Adrian (Vera Gillespie) Dick,female,England,1,17.0,1,0,£5438.94,Yes
+Dr Washington Dodge,male,England,1,53.0,1,1,£7810.92,Yes
+Master Washington Dodge,male,England,1,4.0,0,2,£7810.92,Yes
+Mrs Washington (Ruth Vidaver) Dodge,female,England,1,54.0,1,1,£7810.92,Yes
+Mr Walter Donald Douglas,male,France,1,50.0,1,0,£10155.07,No
+Mrs Frederick Charles (Mary Helene Baxter) Douglas,female,France,1,27.0,1,1,£23618.43,Yes
+Mrs Walter Donald (Mahala Dutton) Douglas,female,France,1,48.0,1,0,£10155.07,Yes
+"Lady (Lucille Christiana Sutherland) (""Mrs Morgan"") Duff Gordon",female,France,1,48.0,1,0,£3778.63,Yes
+"Sir Cosmo Edmund (""Mr Morgan"") Duff Gordon",male,France,1,49.0,1,0,£5432.18,Yes
+Mr William Crothers Dulles,male,France,1,39.0,0,0,£2833.97,No
+Mrs Boulton (Olive Potter) Earnshaw,female,France,1,23.0,0,1,£7934.96,Yes
+Miss Caroline Louise Endres,female,France,1,38.0,0,0,£21710.44,Yes
+Miss Elizabeth Mussey Eustis,female,France,1,54.0,1,0,£7468.21,Yes
+Miss Edith Corse Evans,female,France,1,36.0,0,0,£3022.83,No
+Mr John Farthing,male,England,1,,0,0,£21162.17,No
+Mrs Alfred (Antoinette) Flegenheim,female,England,1,,0,0,£3023.22,Yes
+Miss Margaret Fleming,female,France,1,,0,0,£10580.48,Yes
+"Mr John Irwin (""Irving"") Flynn",male,England,1,36.0,0,0,£2517.90,Yes
+Mr Benjamin Laventall Foreman,male,France,1,30.0,0,0,£2647.91,No
+Miss Alice Elizabeth Fortune,female,England,1,24.0,3,2,£25095.46,Yes
+Miss Ethel Flora Fortune,female,England,1,28.0,3,2,£25095.46,Yes
+Miss Mabel Helen Fortune,female,England,1,23.0,3,2,£25095.46,Yes
+Mr Charles Alexander Fortune,male,England,1,19.0,3,2,£25095.46,No
+Mr Mark Fortune,male,England,1,64.0,1,4,£25095.46,No
+Mrs Mark (Mary McDougald) Fortune,female,England,1,60.0,1,4,£25095.46,Yes
+Miss Laura Mabel Francatelli,female,France,1,30.0,0,0,£5432.18,Yes
+Mr Thomas Parham Franklin,male,England,1,,0,0,£2533.40,No
+Dr Henry William Frauenthal,male,England,1,50.0,2,0,£12752.88,Yes
+Mr Isaac Gerald Frauenthal,male,France,1,43.0,1,0,£2645.12,Yes
+Mrs Henry William (Clara Heinsheimer) Frauenthal,female,England,1,,1,0,£12752.88,Yes
+Miss Hedwig Margaritha Frolicher,female,France,1,22.0,0,2,£4723.29,Yes
+Mr Maxmillian Frolicher-Stehli,male,France,1,60.0,1,1,£7557.26,Yes
+Mrs Maxmillian (Margaretha Emerentia Stehli) Frolicher-Stehli,female,France,1,48.0,1,1,£7557.26,Yes
+Mr Richard Fry,male,England,1,,0,0,£0.00,No
+Mr Jacques Heath Futrelle,male,England,1,37.0,1,0,£5066.80,No
+Mrs Jacques Heath (Lily May Peel) Futrelle,female,England,1,35.0,1,0,£5066.80,Yes
+Mr Arthur H Gee,male,England,1,47.0,0,0,£3673.67,No
+Miss Amalie Geiger,female,France,1,35.0,0,0,£20181.33,Yes
+Miss Dorothy Winifred Gibson,female,France,1,22.0,0,1,£5667.95,Yes
+Mrs Leonard (Pauline C Boeson) Gibson,female,France,1,45.0,0,1,£5667.95,Yes
+Mr Victor Giglio,male,France,1,24.0,0,0,£7557.26,No
+Mr Samuel L Goldenberg,male,France,1,49.0,1,0,£8502.32,Yes
+Mrs Samuel L (Edwiga Grabowska) Goldenberg,female,France,1,,1,0,£8502.32,Yes
+Mr George B Goldschmidt,male,France,1,71.0,0,0,£3306.70,No
+Col Archibald IV Gracie,male,France,1,53.0,0,0,£2719.47,Yes
+Miss Margaret Edith Graham,female,England,1,19.0,0,0,£2862.60,Yes
+Mr George Edward Graham,male,England,1,38.0,0,1,£14643.39,No
+Mrs William Thompson (Edith Junkins) Graham,female,England,1,58.0,0,1,£14643.39,Yes
+Mr William Bertram Greenfield,male,France,1,23.0,0,1,£6045.65,Yes
+Mrs Leo David (Blanche Strouse) Greenfield,female,France,1,45.0,0,1,£6045.65,Yes
+Mr Benjamin Guggenheim,male,France,1,46.0,0,0,£7557.26,No
+Mr George Achilles Harder,male,France,1,25.0,1,0,£5290.25,Yes
+Mrs George Achilles (Dorothy Annan) Harder,female,France,1,25.0,1,0,£5290.25,Yes
+Mr Henry Sleeper Harper,male,France,1,48.0,1,0,£7321.50,Yes
+Mrs Henry Sleeper (Myna Haxtun) Harper,female,France,1,49.0,1,0,£7321.50,Yes
+Mr Charles H Harrington,male,England,1,,0,0,£4045.81,No
+Mr Henry Birkhardt Harris,male,England,1,45.0,1,0,£7965.18,No
+Mrs Henry Birkhardt (Irene Wallach) Harris,female,England,1,35.0,1,0,£7965.18,Yes
+Mr William Harrison,male,England,1,40.0,0,0,£0.00,No
+Mr Hammad Hassab,male,France,1,27.0,0,0,£7321.50,Yes
+Mr Walter James Hawksford,male,England,1,,0,0,£2862.60,Yes
+Miss Margaret Bechstein Hays,female,France,1,24.0,0,0,£7934.96,Yes
+Mr Charles Melville Hays,male,England,1,55.0,1,1,£8921.77,No
+Mrs Charles Melville (Clara Jennings Gregg) Hays,female,England,1,52.0,1,1,£8921.77,Yes
+Mr Christopher Head,male,England,1,42.0,0,0,£4055.35,No
+Mr Herbert Henry Hilliard,male,England,1,,0,0,£4948.72,No
+Mr William Edward Hipkins,male,England,1,55.0,0,0,£4771.00,No
+Miss Jean Gertrude Hippach,female,France,1,16.0,0,1,£5532.38,Yes
+Mrs Louis Albert (Ida Sophia Fischer) Hippach,female,France,1,44.0,0,1,£5532.38,Yes
+Mrs John C (Anna Andrews) Hogeboom,female,England,1,51.0,1,0,£7438.78,Yes
+Mr Alexander Oskar Holverson,male,England,1,42.0,1,0,£4961.84,No
+Mrs Alexander Oskar (Mary Aline Towner) Holverson,female,England,1,35.0,1,0,£4961.84,Yes
+"Mr Harry (""Mr E Haven"") Homer",male,France,1,35.0,0,0,£2533.40,Yes
+Mr Frederick Maxfield Hoyt,male,England,1,38.0,1,0,£8587.80,Yes
+Mr William Fisher Hoyt,male,France,1,,0,0,£2928.99,No
+Mrs Frederick Maxfield (Jane Anne Forby) Hoyt,female,England,1,35.0,1,0,£8587.80,Yes
+Miss Amelie Icard,female,,1,38.0,0,0,£7633.60,Yes
+Miss Ann Elizabeth Isham,female,France,1,50.0,0,0,£2739.75,No
+Mr Joseph Bruce Ismay,male,England,1,49.0,0,0,£0.00,Yes
+Mr Charles Cresson Jones,male,England,1,46.0,0,0,£2480.92,No
+Mr Henry Forbes Julian,male,England,1,50.0,0,0,£2480.92,No
+Mr Edwin Keeping,male,France,1,32.5,0,0,£20181.33,No
+Mr Edward Austin Kent,male,France,1,58.0,0,0,£2833.97,No
+Mr Frederick R Kenyon,male,England,1,41.0,1,0,£4948.72,No
+Mrs Frederick R (Marion) Kenyon,female,England,1,,1,0,£4948.72,Yes
+Mr Edwin Nelson Jr Kimball,male,England,1,42.0,1,0,£5014.72,Yes
+Mrs Edwin Nelson Jr (Gertrude Parsons) Kimball,female,England,1,45.0,1,0,£5014.72,Yes
+Mr Herman Klaber,male,England,1,,0,0,£2533.40,No
+Miss Emilie Kreuchen,female,England,1,39.0,0,0,£20165.82,Yes
+Dr Alice (Farnham) Leader,female,England,1,49.0,0,0,£2474.16,Yes
+Miss Bertha LeRoy,female,France,1,30.0,0,0,£10155.07,Yes
+Mr Gustave J Lesurer,male,France,1,35.0,0,0,£48886.45,Yes
+Mr Ervin G Lewy,male,France,1,,0,0,£2645.12,No
+"Mr Erik Gustaf (""Mr Edward Lingrey"") Lindeberg-Lind",male,England,1,42.0,0,0,£2533.40,No
+Mrs Carl Johan (Sigrid Posse) Lindstrom,female,France,1,55.0,0,0,£2645.12,Yes
+Miss Mary Conover Lines,female,England,1,16.0,0,1,£3759.55,Yes
+Mrs Ernest H (Elizabeth Lindsey James) Lines,female,England,1,51.0,0,1,£3759.55,Yes
+Mr Milton Clyde Long,male,England,1,29.0,0,0,£2862.60,No
+Miss Gretchen Fiske Longley,female,England,1,21.0,0,0,£7438.78,Yes
+Mr Joseph Holland Loring,male,England,1,30.0,0,0,£4341.61,No
+Miss Elise Lurette,female,France,1,58.0,0,0,£13981.01,Yes
+Miss Georgette Alexandra Madill,female,England,1,15.0,0,1,£20165.82,Yes
+Mr John Edward Maguire,male,England,1,30.0,0,0,£2480.92,No
+Miss Roberta Maioni,female,England,1,16.0,0,0,£8253.83,Yes
+Mr Pierre Marechal,male,France,1,,0,0,£2833.97,Yes
+Mr Daniel Warner Marvin,male,England,1,19.0,1,0,£5066.80,No
+Mrs Daniel Warner (Mary Graham Carmichael Farquarson) Marvin,female,England,1,18.0,1,0,£5066.80,Yes
+"Mlle Berthe Antonine (""Mrs de Villiers"") Mayne",female,France,1,24.0,0,0,£4723.69,Yes
+Mr Thomas Francis McCaffry,male,France,1,46.0,0,0,£7179.56,No
+Mr Timothy J McCarthy,male,England,1,54.0,0,0,£4948.72,No
+Mr James Robert McGough,male,England,1,36.0,0,0,£2508.35,Yes
+Mr Edgar Joseph Meyer,male,France,1,28.0,1,0,£7840.74,No
+Mrs Edgar Joseph (Leila Saks) Meyer,female,France,1,,1,0,£7840.74,Yes
+Mr Francis Davis Millet,male,England,1,65.0,0,0,£2533.40,No
+Dr William Edward Minahan,male,Ireland,1,44.0,2,0,£8587.80,No
+Miss Daisy E Minahan,female,Ireland,1,33.0,1,0,£8587.80,Yes
+Mrs William Edward (Lillian E Thorpe) Minahan,female,Ireland,1,37.0,1,0,£8587.80,Yes
+Mr Philipp Edmund Mock,male,France,1,30.0,1,0,£5510.51,Yes
+Mr Harry Markland Molson,male,England,1,55.0,0,0,£2910.31,No
+Mr Clarence Bloomfield Moore,male,England,1,47.0,0,0,£4045.81,No
+Mr Charles H Natsch,male,France,1,37.0,0,1,£2833.97,No
+Miss Madeleine Newell,female,France,1,31.0,1,0,£10808.70,Yes
+Miss Marjorie Newell,female,France,1,23.0,1,0,£10808.70,Yes
+Mr Arthur Webster Newell,male,France,1,58.0,0,2,£10808.70,No
+Miss Helen Monypeny Newsom,female,England,1,19.0,0,2,£2507.95,Yes
+Mr Arthur Ernest Nicholson,male,England,1,64.0,0,0,£2480.92,No
+Dona Fermina Oliva y Ocana,female,France,1,39.0,0,0,£10391.24,Yes
+Mr Alfred Fernand Omont,male,France,1,,0,0,£2456.27,Yes
+Miss Helene Ragnhild Ostby,female,France,1,22.0,0,1,£5914.06,Yes
+Mr Engelhart Cornelius Ostby,male,France,1,65.0,0,1,£5914.06,No
+Mr Servando Ovies y Rodriguez,male,France,1,28.5,0,0,£2645.12,No
+Mr William Henry Marsh Parr,male,England,1,,0,0,£0.00,No
+Mr Austen Partner,male,England,1,45.5,0,0,£2719.47,No
+Mr Vivian Ponsonby Payne,male,England,1,23.0,0,0,£8921.77,No
+Mr Thomas Clinton Pears,male,England,1,29.0,1,0,£6354.97,No
+Mrs Thomas (Edith Wearne) Pears,female,England,1,22.0,1,0,£6354.97,Yes
+Mr Victor de Satode Penasco y Castellana,male,France,1,18.0,1,0,£10391.24,No
+Mrs Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,female,France,1,17.0,1,0,£10391.24,Yes
+Miss Anne Perreault,female,England,1,30.0,0,0,£8921.77,Yes
+Major Arthur Godfrey Peuchen,male,England,1,52.0,0,0,£2910.31,Yes
+Mr Walter Chamberlain Porter,male,England,1,47.0,0,0,£4961.84,No
+Mrs Thomas Jr (Lily Alexenia Wilson) Potter,female,France,1,56.0,0,1,£7934.96,Yes
+Jonkheer John George Reuchlin,male,England,1,38.0,0,0,£0.00,No
+Mr George Alexander Lucien Rheims,male,England,1,,0,0,£3778.63,Yes
+Mr Sante Ringhini,male,France,1,22.0,0,0,£12942.13,No
+Mr Victor Robbins,male,France,1,,0,0,£21710.44,No
+Mrs Edward Scott (Elisabeth Walton McMillan) Robert,female,England,1,43.0,0,1,£20165.82,Yes
+Mr Washington Augustus II Roebling,male,England,1,31.0,0,0,£4818.31,No
+"Mr Charles Hallace (""Mr C Rolmane"") Romaine",male,England,1,45.0,0,0,£2533.40,Yes
+Mr Hugh Roscoe Rood,male,England,1,,0,0,£4771.00,No
+Miss Edith Louise Rosenbaum,female,France,1,33.0,0,0,£2645.12,Yes
+"Mr George (""Mr George Thorne"") Rosenshine",male,France,1,46.0,0,0,£7557.26,No
+Mr John Hugo Ross,male,France,1,36.0,0,0,£3828.73,No
+the Countess of (Lucy Noel Martha Dyer-Edwards) Rothes,female,England,1,33.0,0,0,£8253.83,Yes
+Mr Martin Rothschild,male,France,1,55.0,1,0,£5667.95,No
+Mrs Martin (Elizabeth L Rothschild,female,France,1,54.0,1,0,£5667.95,Yes
+Mr Alfred G Rowe,male,England,1,33.0,0,0,£2533.40,No
+Master John Borie Ryerson,male,France,1,13.0,2,2,£25035.82,Yes
+Miss Emily Borie Ryerson,female,France,1,18.0,2,2,£25035.82,Yes
+"Miss Susan Parker ""Suzette"" Ryerson",female,France,1,21.0,2,2,£25035.82,Yes
+Mr Arthur Larned Ryerson,male,France,1,61.0,1,3,£25035.82,No
+Mrs Arthur Larned (Emily Maria Borie) Ryerson,female,France,1,48.0,1,3,£25035.82,Yes
+Mr Adolphe Saalfeld,male,England,1,,0,0,£2910.31,Yes
+Mlle Emma Sagesser,female,France,1,24.0,0,0,£6612.61,Yes
+Mr Abraham L Salomon,male,England,1,,0,0,£2480.92,Yes
+Mrs Paul (Emma Mock) Schabert,female,France,1,35.0,1,0,£5510.51,Yes
+Miss Augusta Serepeca,female,France,1,30.0,0,0,£2958.02,Yes
+Mr Frederic Kimber Seward,male,England,1,34.0,0,0,£2533.40,Yes
+Miss Elizabeth W Shutes,female,England,1,40.0,0,0,£14643.39,Yes
+Mr Spencer Victor Silverthorne,male,England,1,35.0,0,0,£2508.35,Yes
+Mr William Baird Silvey,male,England,1,50.0,1,0,£5333.98,No
+Mrs William Baird (Alice Munger) Silvey,female,England,1,39.0,1,0,£5333.98,Yes
+Col Oberst Alfons Simonius-Blumer,male,France,1,56.0,0,0,£3387.41,Yes
+Mr William Thompson Sloper,male,England,1,28.0,0,0,£3387.41,Yes
+Mr John Montgomery Smart,male,England,1,56.0,0,0,£2533.40,No
+Mr James Clinch Smith,male,France,1,56.0,0,0,£2928.99,No
+Mr Lucien Philip Smith,male,England,1,24.0,1,0,£5725.20,No
+Mr Richard William Smith,male,England,1,,0,0,£2480.92,No
+Mrs Lucien Philip (Mary Eloise Hughes) Smith,female,England,1,18.0,1,0,£5725.20,Yes
+Mr John Pillsbury Snyder,male,England,1,24.0,1,0,£7849.89,Yes
+Mrs John Pillsbury (Nelle Stevenson) Snyder,female,England,1,23.0,1,0,£7849.89,Yes
+Master Robert Douglas Spedden,male,France,1,6.0,0,2,£12833.99,Yes
+Mr Frederic Oakley Spedden,male,France,1,45.0,1,1,£12833.99,Yes
+Mrs Frederic Oakley (Margaretta Corning Stone) Spedden,female,France,1,40.0,1,1,£12833.99,Yes
+Mr William Augustus Spencer,male,France,1,57.0,1,0,£13981.01,No
+Mrs William Augustus (Marie Eugenie) Spencer,female,France,1,,1,0,£13981.01,Yes
+Dr Max Stahelin-Maeglin,male,France,1,32.0,0,0,£2910.31,Yes
+Mr William Thomas Stead,male,England,1,62.0,0,0,£2533.40,No
+Mr Charles Emil Henry Stengel,male,France,1,54.0,1,0,£5290.25,Yes
+Mrs Charles Emil Henry (Annie May Morris) Stengel,female,France,1,43.0,1,0,£5290.25,Yes
+Mrs Walter Bertram (Martha Eustis) Stephenson,female,France,1,52.0,1,0,£7468.21,Yes
+Mr Albert A Stewart,male,France,1,,0,0,£2645.12,No
+Mrs George Nelson (Martha Evelyn) Stone,female,,1,62.0,0,0,£7633.60,Yes
+Mr Isidor Straus,male,England,1,67.0,1,0,£21162.17,No
+Mrs Isidor (Rosalie Ida Blun) Straus,female,England,1,63.0,1,0,£21162.17,No
+Mr Frederick Sutton,male,England,1,61.0,0,0,£3084.05,No
+Mrs Frederick Joel (Margaret Welles Barron) Swift,female,England,1,48.0,0,0,£2474.16,Yes
+Miss Ruth Taussig,female,England,1,18.0,0,2,£7600.20,Yes
+Mr Emil Taussig,male,England,1,52.0,1,1,£7600.20,No
+Mrs Emil (Tillie Mandelbaum) Taussig,female,England,1,39.0,1,1,£7600.20,Yes
+Mr Elmer Zebley Taylor,male,England,1,48.0,1,0,£4961.84,Yes
+Mrs Elmer Zebley (Juliet Cummins Wright) Taylor,female,England,1,,1,0,£4961.84,Yes
+Mr John Borland Thayer,male,France,1,49.0,1,1,£10580.48,No
+Mr John Borland Jr Thayer,male,France,1,17.0,0,2,£10580.48,Yes
+Mrs John Borland (Marian Longstreth Morris) Thayer,female,France,1,39.0,1,1,£10580.48,Yes
+Mrs Gertrude Maybelle Thorne,female,France,1,,0,0,£7557.26,Yes
+Mr Gilbert Milligan Jr Tucker,male,France,1,31.0,0,0,£2723.05,Yes
+Don Manuel E Uruchurtu,male,France,1,40.0,0,0,£2645.12,No
+Mr Wyckoff Van der hoef,male,England,1,61.0,0,0,£3196.57,No
+Mr William Anderson Walker,male,England,1,47.0,0,0,£3246.26,No
+Miss Anna Ward,female,France,1,35.0,0,0,£48886.45,Yes
+Mr Frank Manley Warren,male,France,1,64.0,1,0,£7180.35,No
+Mrs Frank Manley (Anna Sophia Atkinson) Warren,female,France,1,60.0,1,0,£7180.35,Yes
+Col John Weir,male,England,1,60.0,0,0,£2533.40,No
+Mr Percival Wayland White,male,England,1,54.0,0,1,£7374.77,No
+Mr Richard Frasar White,male,England,1,21.0,0,1,£7374.77,No
+Mrs John Stuart (Ella Holmes) White,female,France,1,55.0,0,0,£12942.13,Yes
+Miss Mary Natalie Wick,female,England,1,31.0,0,2,£15731.58,Yes
+Mr George Dennick Wick,male,England,1,57.0,1,1,£15731.58,No
+Mrs George Dennick (Mary Hitchcock) Wick,female,England,1,45.0,1,1,£15731.58,Yes
+Mr George Dunton Widener,male,France,1,50.0,1,1,£20181.33,No
+Mr Harry Elkins Widener,male,France,1,27.0,0,2,£20181.33,No
+Mrs George Dunton (Eleanor Elkins) Widener,female,France,1,50.0,1,1,£20181.33,Yes
+Miss Constance Willard,female,England,1,21.0,0,0,£2533.40,Yes
+Mr Charles Duane Williams,male,France,1,51.0,0,1,£5856.80,No
+Mr Richard Norris II Williams,male,France,1,21.0,0,1,£5856.80,Yes
+Mr Fletcher Fellows Williams-Lambert,male,England,1,,0,0,£3339.70,No
+Miss Helen Alice Wilson,female,France,1,31.0,0,0,£12833.99,Yes
+Mr Hugh Woolner,male,England,1,,0,0,£3387.41,Yes
+Mr George Wright,male,England,1,62.0,0,0,£2533.40,No
+Miss Marie Grice Young,female,France,1,36.0,0,0,£12942.13,Yes
+Mr Samuel Abelson,male,France,2,30.0,1,0,£2290.08,No
+Mrs Samuel (Hannah Wizosky) Abelson,female,France,2,28.0,1,0,£2290.08,Yes
+Mr Charles Augustus Aldworth,male,England,2,30.0,0,0,£1240.46,No
+Mr Edgardo Samuel Andrew,male,England,2,18.0,0,0,£1097.33,No
+Mr Frank Thomas Andrew,male,England,2,25.0,0,0,£1001.91,No
+Mr William A Angle,male,England,2,34.0,1,0,£2480.92,No
+"Mrs William A (Florence ""Mary"" Agnes Hughes) Angle",female,England,2,36.0,1,0,£2480.92,Yes
+Mr John Ashby,male,England,2,57.0,0,0,£1240.46,No
+Mr Percy Andrew Bailey,male,England,2,18.0,0,0,£1097.33,No
+Mr Charles Robert Baimbrigge,male,England,2,23.0,0,0,£1001.91,No
+Mrs (Ada E Hall) Ball,female,England,2,36.0,0,0,£1240.46,Yes
+Mr Frederick James Banfield,male,England,2,28.0,0,0,£1001.91,No
+Rev Robert James Bateman,male,England,2,51.0,0,0,£1195.14,No
+Mr Edward Beane,male,England,2,32.0,1,0,£2480.92,Yes
+Mrs Edward (Ethel Clarke) Beane,female,England,2,19.0,1,0,£2480.92,Yes
+Mr Henry James Beauchamp,male,England,2,28.0,0,0,£2480.92,No
+Master Richard F Becker,male,England,2,1.0,2,1,£3721.38,Yes
+Miss Marion Louise Becker,female,England,2,4.0,2,1,£3721.38,Yes
+Miss Ruth Elizabeth Becker,female,England,2,12.0,2,1,£3721.38,Yes
+Mrs Allen Oliver (Nellie E Baumgardner) Becker,female,England,2,36.0,0,3,£3721.38,Yes
+Mr Lawrence Beesley,male,England,2,34.0,0,0,£1240.46,Yes
+Miss Lilian W Bentham,female,England,2,19.0,0,0,£1240.46,Yes
+Mr William John Berriman,male,England,2,23.0,0,0,£1240.46,No
+Mr William Hull Botsford,male,England,2,26.0,0,0,£1240.46,No
+Mr Solomon Bowenur,male,England,2,42.0,0,0,£1240.46,No
+Mr James H Bracken,male,England,2,27.0,0,0,£1240.46,No
+"Miss Amelia ""Mildred"" Brown",female,England,2,24.0,0,0,£1240.46,Yes
+Miss Edith Eileen Brown,female,England,2,15.0,0,2,£3721.38,Yes
+Mr Thomas William Solomon Brown,male,England,2,60.0,1,1,£3721.38,No
+Mrs Thomas William Solomon (Elizabeth Catherine Ford) Brown,female,England,2,40.0,1,1,£3721.38,Yes
+Miss Dagmar Jenny Ingeborg Bryhl,female,England,2,20.0,1,0,£2480.92,Yes
+Mr Kurt Arnold Gottfrid Bryhl,male,England,2,25.0,1,0,£2480.92,No
+Miss Kate Buss,female,England,2,36.0,0,0,£1240.46,Yes
+Mr Reginald Fenton Butler,male,England,2,25.0,0,0,£1240.46,No
+Rev Thomas Roussel Davids Byles,male,England,2,42.0,0,0,£1240.46,No
+Mrs (Karolina) Bystrom,female,England,2,42.0,0,0,£1240.46,Yes
+Master Alden Gates Caldwell,male,England,2,0.8333,0,2,£2767.18,Yes
+Mr Albert Francis Caldwell,male,England,2,26.0,1,1,£2767.18,Yes
+Mrs Albert Francis (Sylvia Mae Harbaugh) Caldwell,female,England,2,22.0,1,1,£2767.18,Yes
+Miss Clear Annie Cameron,female,England,2,35.0,0,0,£2003.82,Yes
+Mr William Campbell,male,England,2,,0,0,£0.00,No
+Mr William Carbines,male,England,2,19.0,0,0,£1240.46,No
+Mrs Ernest Courtenay (Lilian Hughes) Carter,female,England,2,44.0,1,0,£2480.92,No
+Rev Ernest Courtenay Carter,male,England,2,54.0,1,0,£2480.92,No
+Mr Charles Henry Chapman,male,England,2,52.0,0,0,£1288.17,No
+Mr John Henry Chapman,male,England,2,37.0,1,0,£2480.92,No
+Mrs John Henry (Sara Elizabeth Lawry) Chapman,female,England,2,29.0,1,0,£2480.92,No
+Miss Julie Rachel Christy,female,England,2,25.0,1,1,£2862.60,Yes
+Mrs (Alice Frances) Christy,female,England,2,45.0,0,2,£2862.60,Yes
+Mr Charles Valentine Clarke,male,England,2,29.0,1,0,£2480.92,No
+Mrs Charles V (Ada Maria Winfield) Clarke,female,England,2,28.0,1,0,£2480.92,Yes
+Mr Reginald Charles Coleridge,male,England,2,29.0,0,0,£1001.91,No
+Mr Erik Gustaf Collander,male,England,2,28.0,0,0,£1240.46,No
+Mr Sidney C Stuart Collett,male,England,2,24.0,0,0,£1001.91,Yes
+"Miss Marjorie ""Lottie"" Collyer",female,England,2,8.0,0,2,£2504.78,Yes
+Mr Harvey Collyer,male,England,2,31.0,1,1,£2504.78,No
+Mrs Harvey (Charlotte Annie Tate) Collyer,female,England,2,31.0,1,1,£2504.78,Yes
+Mrs (Selena Rogers) Cook,female,England,2,22.0,0,0,£1001.91,Yes
+Mrs Walter H (Irene Colvin) Corbett,female,England,2,30.0,0,0,£1240.46,No
+Mrs Percy C (Mary Phyllis Elizabeth Miller) Corey,female,England,2,,0,0,£2003.82,No
+"Mr Henry ""Harry"" Cotterill",male,England,2,21.0,0,0,£1097.33,No
+Mr Alfred Fleming Cunningham,male,England,2,,0,0,£0.00,No
+Master John Morgan Jr Davies,male,England,2,8.0,1,1,£3506.68,Yes
+Mr Charles Henry Davies,male,England,2,18.0,0,0,£7013.37,No
+Mrs John Morgan (Elizabeth Agnes Mary White) Davies,female,England,2,48.0,0,2,£3506.68,Yes
+Miss Mary Davis,female,England,2,28.0,0,0,£1240.46,Yes
+Mr Jose Joaquim de Brito,male,England,2,32.0,0,0,£1240.46,No
+Mr Percy William Deacon,male,England,2,17.0,0,0,£7013.37,No
+Mr Sebastiano del Carlo,male,France,2,29.0,1,0,£2645.12,No
+Mrs Sebastiano (Argenia Genovesi) del Carlo,female,France,2,24.0,1,0,£2645.12,Yes
+Mr Herbert Denbury,male,England,2,25.0,0,0,£3005.73,No
+Mr William Dibden,male,England,2,18.0,0,0,£7013.37,No
+Miss Elsie Doling,female,England,2,18.0,0,1,£2194.66,Yes
+Mrs John T (Ada Julia Bone) Doling,female,England,2,34.0,0,1,£2194.66,Yes
+Mr William James Downton,male,England,2,54.0,0,0,£2480.92,No
+Master Marshall Brines Drew,male,England,2,8.0,0,2,£3101.15,Yes
+Mr James Vivian Drew,male,England,2,42.0,1,1,£3101.15,No
+Mrs James Vivian (Lulu Thorne Christian) Drew,female,England,2,34.0,1,1,£3101.15,Yes
+Miss Asuncion Duran y More,female,France,2,27.0,1,0,£1322.36,Yes
+Miss Florentina Duran y More,female,France,2,30.0,1,0,£1322.36,Yes
+Mr George Floyd Eitemiller,male,England,2,23.0,0,0,£1240.46,No
+Mr Ingvar Enander,male,England,2,21.0,0,0,£1240.46,No
+Mr Arne Jonas Fahlstrom,male,England,2,18.0,0,0,£1240.46,No
+Mr Harry Faunthorpe,male,England,2,40.0,1,0,£2480.92,No
+Mrs Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,female,England,2,29.0,1,0,£2480.92,Yes
+Mr Joseph Charles Fillbrook,male,England,2,18.0,0,0,£1001.91,No
+Mr Stanley Hubert Fox,male,England,2,36.0,0,0,£1240.46,No
+"Mr Anthony Wood ""Archie"" Frost",male,England,2,,0,0,£0.00,No
+Miss Annie Clemmer Funk,female,England,2,38.0,0,0,£1240.46,No
+Mr Joseph J Fynney,male,England,2,35.0,0,0,£2480.92,No
+Mr Harry Gale,male,England,2,38.0,1,0,£2003.82,No
+Mr Shadrach Gale,male,England,2,34.0,1,0,£2003.82,No
+Miss Ethel Garside,female,England,2,34.0,0,0,£1240.46,Yes
+Mr Alfred Gaskell,male,England,2,16.0,0,0,£2480.92,No
+Mr Lawrence Gavey,male,England,2,26.0,0,0,£1001.91,No
+Mr William Gilbert,male,England,2,47.0,0,0,£1001.91,No
+Mr Edgar Giles,male,England,2,21.0,1,0,£1097.33,No
+Mr Frederick Edward Giles,male,England,2,21.0,1,0,£1097.33,No
+Mr Ralph Giles,male,England,2,24.0,0,0,£1288.17,No
+Mr John William Gill,male,England,2,24.0,0,0,£1240.46,No
+Mr William Henry Gillespie,male,England,2,34.0,0,0,£1240.46,No
+Mr Hans Kristensen Givard,male,England,2,30.0,0,0,£1240.46,No
+Mr Samuel Greenberg,male,England,2,52.0,0,0,£1240.46,No
+Mr Reginald Hale,male,England,2,30.0,0,0,£1240.46,No
+Master Viljo Hamalainen,male,England,2,0.6667,1,1,£1383.59,Yes
+Mrs William (Anna) Hamalainen,female,England,2,24.0,0,2,£1383.59,Yes
+Mr William H Harbeck,male,England,2,44.0,0,0,£1240.46,No
+"Miss Annie Jessie ""Nina"" Harper",female,England,2,6.0,0,1,£3148.86,Yes
+Rev John Harper,male,England,2,28.0,0,1,£3148.86,No
+Mr George Harris,male,England,2,62.0,0,0,£1001.91,Yes
+Mr Walter Harris,male,England,2,30.0,0,0,£1001.91,No
+Miss Eva Miriam Hart,female,England,2,7.0,0,2,£2504.78,Yes
+Mr Benjamin Hart,male,England,2,43.0,1,1,£2504.78,No
+Mrs Benjamin (Esther Ada Bloomfield) Hart,female,England,2,45.0,1,1,£2504.78,Yes
+Miss Alice Herman,female,England,2,24.0,1,2,£6202.30,Yes
+Miss Kate Herman,female,England,2,24.0,1,2,£6202.30,Yes
+Mr Samuel Herman,male,England,2,49.0,1,2,£6202.30,No
+Mrs Samuel (Jane Laver) Herman,female,England,2,48.0,1,2,£6202.30,Yes
+Mrs (Mary D Kingcome) Hewlett,female,England,2,55.0,0,0,£1526.72,Yes
+Mr Leonard Mark Hickman,male,England,2,24.0,2,0,£7013.37,No
+Mr Lewis Hickman,male,England,2,32.0,2,0,£7013.37,No
+Mr Stanley George Hickman,male,England,2,21.0,2,0,£7013.37,No
+Miss Marta Hiltunen,female,England,2,18.0,1,1,£1240.46,No
+"Miss Ellen ""Nellie"" Hocking",female,England,2,20.0,2,1,£2194.66,Yes
+Mr Richard George Hocking,male,England,2,23.0,2,1,£1097.33,No
+Mr Samuel James Metcalfe Hocking,male,England,2,36.0,0,0,£1240.46,No
+Mrs Elizabeth (Eliza Needs) Hocking,female,England,2,54.0,1,3,£2194.66,Yes
+Mr Henry Price Hodges,male,England,2,50.0,0,0,£1240.46,No
+Mr Stephen Hold,male,England,2,44.0,1,0,£2480.92,No
+Mrs Stephen (Annie Margaret Hill) Hold,female,England,2,29.0,1,0,£2480.92,Yes
+Mr Ambrose Jr Hood,male,England,2,21.0,0,0,£7013.37,No
+Mr Masabumi Hosono,male,England,2,42.0,0,0,£1240.46,Yes
+Mr Benjamin Howard,male,England,2,63.0,1,0,£2480.92,No
+Mrs Benjamin (Ellen Truelove Arman) Howard,female,England,2,60.0,1,0,£2480.92,No
+Mr George Henry Hunt,male,England,2,33.0,0,0,£1171.28,No
+Miss Bertha Ilett,female,England,2,17.0,0,0,£1001.91,Yes
+Mr Sidney Samuel Jacobsohn,male,England,2,42.0,1,0,£2576.34,No
+Mrs Sidney Samuel (Amy Frances Christy) Jacobsohn,female,England,2,24.0,2,1,£2576.34,Yes
+Mr John Denzil Jarvis,male,England,2,47.0,0,0,£1431.30,No
+Mr Clifford Thomas Jefferys,male,England,2,24.0,2,0,£3005.73,No
+Mr Ernest Wilfred Jefferys,male,England,2,22.0,2,0,£3005.73,No
+Mr Stephen Curnow Jenkin,male,England,2,32.0,0,0,£1001.91,No
+Mrs Amin S (Marie Marthe Thuillard) Jerwan,female,France,2,23.0,0,0,£1316.00,Yes
+Mr Sinai Kantor,male,England,2,34.0,1,0,£2480.92,No
+Mrs Sinai (Miriam Sternin) Kantor,female,England,2,24.0,1,0,£2480.92,Yes
+Mrs J Frank (Claire Bennett) Karnes,female,England,2,22.0,0,0,£2003.82,No
+Miss Nora A Keane,female,Ireland,2,,0,0,£1178.44,Yes
+Mr Daniel Keane,male,Ireland,2,35.0,0,0,£1178.44,No
+"Mrs Florence ""Fannie"" Kelly",female,England,2,45.0,0,0,£1288.17,Yes
+Rev Charles Leonard Kirkland,male,Ireland,2,57.0,0,0,£1178.44,No
+Mr Robert J Knight,male,England,2,,0,0,£0.00,No
+Mr Johan Henrik Johannesson Kvillner,male,England,2,31.0,0,0,£1001.91,No
+Mrs William (Anna Sylfven) Lahtinen,female,England,2,26.0,1,1,£2480.92,No
+Rev William Lahtinen,male,England,2,30.0,1,1,£2480.92,No
+Mr John Joseph Lamb,male,Ireland,2,,0,0,£1021.79,No
+Miss Louise Laroche,female,France,2,1.0,1,2,£3967.49,Yes
+Miss Simonne Marie Anne Andree Laroche,female,France,2,3.0,1,2,£3967.49,Yes
+Mr Joseph Philippe Lemercier Laroche,male,France,2,25.0,1,2,£3967.49,No
+Mrs Joseph (Juliette Marie Louise Lafargue) Laroche,female,France,2,22.0,1,2,£3967.49,Yes
+Miss Bertha Lehmann,female,France,2,17.0,0,0,£1145.04,Yes
+Miss Jessie Wills Leitch,female,England,2,,0,0,£3148.86,Yes
+Mrs (Amelia Milley) Lemore,female,England,2,34.0,0,0,£1001.91,Yes
+Mr Rene Jacques Levy,male,France,2,36.0,0,0,£1228.53,No
+Mr Robert William Norman Leyson,male,England,2,24.0,0,0,£1001.91,No
+Mr John Lingane,male,Ireland,2,61.0,0,0,£1178.44,No
+Mr Charles Alexander Louch,male,England,2,50.0,1,0,£2480.92,No
+Mrs Charles Alexander (Alice Adelaide Slow) Louch,female,England,2,42.0,1,0,£2480.92,Yes
+Mrs (Mary) Mack,female,England,2,57.0,0,0,£1001.91,No
+Mr Noel Malachard,male,France,2,,0,0,£1435.67,No
+Master Andre Mallet,male,France,2,1.0,0,2,£3530.94,Yes
+Mr Albert Mallet,male,France,2,31.0,1,1,£3530.94,No
+Mrs Albert (Antoinette Magnin) Mallet,female,France,2,24.0,1,1,£3530.94,Yes
+Mr Serafino Emilio Mangiavacchi,male,France,2,,0,0,£1486.57,No
+Mr William John Matthews,male,England,2,30.0,0,0,£1240.46,No
+Mr Frank Hubert Maybery,male,England,2,40.0,0,0,£1526.72,No
+Mr Arthur Gordon McCrae,male,England,2,32.0,0,0,£1288.17,No
+Mr James Matthew McCrie,male,England,2,30.0,0,0,£1240.46,No
+Mr Peter David McKane,male,England,2,46.0,0,0,£2480.92,No
+Miss Madeleine Violet Mellinger,female,England,2,13.0,0,1,£1860.69,Yes
+Mrs (Elizabeth Anne Maidment) Mellinger,female,England,2,41.0,0,1,£1860.69,Yes
+Mr William John Mellors,male,England,2,19.0,0,0,£1001.91,Yes
+Mr August Meyer,male,England,2,39.0,0,0,£1240.46,No
+Mr Jacob Christian Milling,male,England,2,48.0,0,0,£1240.46,No
+Mr Henry Michael Mitchell,male,England,2,70.0,0,0,£1001.91,No
+Rev Juozas Montvila,male,England,2,27.0,0,0,£1240.46,No
+Dr Ernest Moraweck,male,England,2,54.0,0,0,£1335.88,No
+"Mr Henry Samuel (""Mr Henry Marshall"") Morley",male,England,2,39.0,0,0,£2480.92,No
+Mr Thomas Charles Mudd,male,England,2,16.0,0,0,£1001.91,No
+Mr Thomas Francis Myles,male,Ireland,2,62.0,0,0,£924.38,No
+Mr Nicholas Nasser,male,France,2,32.5,1,0,£2869.36,No
+Mrs Nicholas (Adele Achem) Nasser,female,France,2,14.0,1,0,£2869.36,Yes
+Master Edmond Roger Navratil,male,England,2,2.0,1,1,£2480.92,Yes
+Master Michel M Navratil,male,England,2,3.0,1,1,£2480.92,Yes
+"Mr Michel (""Louis M Hoffman"") Navratil",male,England,2,36.5,0,2,£2480.92,No
+Mr Israel Nesson,male,England,2,26.0,0,0,£1240.46,No
+Mr Joseph Charles Nicholls,male,England,2,19.0,1,1,£3506.68,No
+Mr Robert Douglas Norman,male,England,2,28.0,0,0,£1288.17,No
+"Mr Alfred (""Baron von Drachstedt"") Nourney",male,France,2,20.0,0,0,£1322.76,Yes
+Mrs (Elizabeth Ramell) Nye,female,England,2,29.0,0,0,£1001.91,Yes
+Mr Richard Otter,male,England,2,39.0,0,0,£1240.46,No
+Mr Percy Thomas Oxenham,male,England,2,22.0,0,0,£1001.91,Yes
+Mr Julian Padro y Manent,male,France,2,,0,0,£1322.76,Yes
+Dr Alfred Pain,male,England,2,23.0,0,0,£1001.91,No
+Mr Emilio Pallas y Castello,male,France,2,29.0,0,0,£1322.36,Yes
+Mr Clifford Richard Parker,male,England,2,28.0,0,0,£1001.91,No
+"Mr Francis ""Frank"" Parkes",male,England,2,,0,0,£0.00,No
+Mrs (Lutie Davis) Parrish,female,England,2,50.0,0,1,£2480.92,Yes
+Mr Frederick William Pengelly,male,England,2,19.0,0,0,£1001.91,No
+Mr Rene Pernot,male,France,2,,0,0,£1436.07,No
+Rev Joseph Maria Peruschitz,male,England,2,41.0,0,0,£1240.46,No
+Miss Alice Frances Louisa Phillips,female,England,2,21.0,0,1,£2003.82,Yes
+"Miss Kate Florence (""Mrs Kate Louise Phillips Marshall"") Phillips",female,England,2,19.0,0,0,£2480.92,Yes
+Mr Escott Robert Phillips,male,England,2,43.0,0,1,£2003.82,No
+Mrs (Rosa) Pinsky,female,England,2,32.0,0,0,£1240.46,Yes
+Mr Martin Ponesell,male,England,2,34.0,0,0,£1240.46,No
+Mr Emilio Ilario Giuseppe Portaluppi,male,France,2,30.0,0,0,£1215.41,Yes
+Mr Franz Pulbaum,male,France,2,27.0,0,0,£1434.48,No
+Miss Phyllis May Quick,female,England,2,2.0,1,1,£2480.92,Yes
+Miss Winifred Vera Quick,female,England,2,8.0,1,1,£2480.92,Yes
+Mrs Frederick Charles (Jane Richards) Quick,female,England,2,33.0,0,2,£2480.92,Yes
+Mr David Reeves,male,England,2,36.0,0,0,£1001.91,No
+Mr Peter Henry Renouf,male,England,2,34.0,1,0,£2003.82,No
+Mrs Peter Henry (Lillian Jefferys) Renouf,female,England,2,30.0,3,0,£2003.82,Yes
+Ms Encarnacion Reynaldo,female,England,2,28.0,0,0,£1240.46,Yes
+Mr Emile Richard,male,France,2,23.0,0,0,£1435.67,No
+Master George Sibley Richards,male,England,2,0.8333,1,1,£1789.12,Yes
+Master William Rowe Richards,male,England,2,3.0,1,1,£1789.12,Yes
+Mrs Sidney (Emily Hocking) Richards,female,England,2,24.0,2,3,£1789.12,Yes
+Miss Lucy Ridsdale,female,England,2,50.0,0,0,£1001.91,Yes
+Mr Reginald Harry Rogers,male,England,2,19.0,0,0,£1001.91,No
+Miss Emily Rugg,female,England,2,21.0,0,0,£1001.91,Yes
+Mr August Schmidt,male,England,2,26.0,0,0,£1240.46,No
+Mr Charles Frederick Waddington Sedgwick,male,England,2,25.0,0,0,£1240.46,No
+Mr Percival James R Sharp,male,England,2,27.0,0,0,£2480.92,No
+Mrs William (Imanita Parrish Hall) Shelley,female,England,2,25.0,0,1,£2480.92,Yes
+Miss Lyyli Karoliina Silven,female,England,2,18.0,0,2,£1240.46,Yes
+Miss Maude Sincock,female,England,2,20.0,0,0,£3506.68,Yes
+Miss Anna Sinkkonen,female,England,2,30.0,0,0,£1240.46,Yes
+Mr Ernst Adolf Sjostedt,male,England,2,59.0,0,0,£1288.17,No
+Miss Hilda Mary Slayter,female,Ireland,2,30.0,0,0,£1178.44,Yes
+Mr Richard James Slemen,male,England,2,35.0,0,0,£1001.91,No
+Miss Marion Elsie Smith,female,England,2,40.0,0,0,£1240.46,Yes
+Mr Samuel James Hayden Sobey,male,England,2,25.0,0,0,£1240.46,No
+Mr Samuel Ward Stanton,male,France,2,41.0,0,0,£1435.67,No
+Mr Philip Joseph Stokes,male,England,2,25.0,0,0,£1001.91,No
+Mr George Swane,male,England,2,18.5,0,0,£1240.46,No
+Mr George Frederick Sweet,male,England,2,14.0,0,0,£6202.30,No
+Miss Ellen Toomey,female,England,2,50.0,0,0,£1001.91,Yes
+Mr Moses Aaron Troupiansky,male,England,2,23.0,0,0,£1240.46,No
+Mrs William H (Jessie L) Trout,female,England,2,28.0,0,0,£1207.06,Yes
+"Miss Edwina Celia ""Winnie"" Troutt",female,England,2,27.0,0,0,£1001.91,Yes
+Mr William John Robert Turpin,male,England,2,29.0,1,0,£2003.82,No
+Mrs William John Robert (Dorothy Ann Wonnacott) Turpin,female,England,2,27.0,1,0,£2003.82,No
+Mr James Veal,male,England,2,40.0,0,0,£1240.46,No
+Miss Nellie Walcroft,female,England,2,31.0,0,0,£2003.82,Yes
+Mr John James Ware,male,England,2,30.0,1,0,£2003.82,No
+Mr William Jeffery Ware,male,England,2,23.0,1,0,£1001.91,No
+Mrs John James (Florence Louise Long) Ware,female,England,2,31.0,0,0,£2003.82,Yes
+Mr Ennis Hastings Watson,male,England,2,,0,0,£0.00,No
+Miss Bertha J Watt,female,England,2,12.0,0,0,£1502.87,Yes
+"Mrs James (Elizabeth ""Bessie"" Inglis Milne) Watt",female,England,2,40.0,0,0,£1502.87,Yes
+Miss Susan Webber,female,England,2,32.5,0,0,£1240.46,Yes
+Mr Leopold Weisz,male,England,2,27.0,1,0,£2480.92,No
+Mrs Leopold (Mathilde Francoise Pede) Weisz,female,England,2,29.0,1,0,£2480.92,Yes
+Master Ralph Lester Wells,male,England,2,2.0,1,1,£2194.66,Yes
+Miss Joan Wells,female,England,2,4.0,1,1,£2194.66,Yes
+"Mrs Arthur Henry (""Addie"" Dart Trevaskis) Wells",female,England,2,29.0,0,2,£2194.66,Yes
+Miss Barbara J West,female,England,2,0.9167,1,2,£2647.91,Yes
+Miss Constance Mirium West,female,England,2,5.0,1,2,£2647.91,Yes
+Mr Edwy Arthur West,male,England,2,36.0,1,2,£2647.91,No
+Mrs Edwy Arthur (Ada Mary Worth) West,female,England,2,33.0,1,2,£2647.91,Yes
+Mr Edward H Wheadon,male,England,2,66.0,0,0,£1001.91,No
+"Mr Edwin ""Frederick"" Wheeler",male,England,2,,0,0,£1228.53,No
+Mr Charles Wilhelms,male,England,2,31.0,0,0,£1240.46,Yes
+Mr Charles Eugene Williams,male,England,2,,0,0,£1240.46,Yes
+Miss Marion Wright,female,England,2,26.0,0,0,£1288.17,Yes
+"Miss Henriette (""Mrs Harbeck"") Yrois",female,England,2,24.0,0,0,£1240.46,No
+Mr Anthony Abbing,male,England,3,42.0,0,0,£720.42,No
+Master Eugene Joseph Abbott,male,England,3,13.0,0,2,£1932.26,No
+Mr Rossmore Edward Abbott,male,England,3,16.0,1,1,£1932.26,No
+Mrs Stanton (Rosa Hunt) Abbott,female,England,3,35.0,1,1,£1932.26,Yes
+Miss Karen Marie Abelseth,female,England,3,16.0,0,0,£729.96,Yes
+Mr Olaus Jorgensen Abelseth,male,England,3,25.0,0,0,£729.96,Yes
+Mr Abraham August Johannes Abrahamsson,male,England,3,20.0,0,0,£756.20,Yes
+Mrs Joseph (Sophie Halaut Easu) Abrahim,female,France,3,18.0,0,0,£689.81,Yes
+Mr Mauritz Nils Martin Adahl,male,England,3,30.0,0,0,£691.79,No
+Mr John Adams,male,England,3,26.0,0,0,£768.13,No
+Mrs Johan (Johanna Persdotter Larsson) Ahlin,female,England,3,40.0,1,0,£904.10,No
+Master Philip Frank Aks,male,England,3,0.8333,0,1,£892.18,Yes
+Mrs Sam (Leah Rosen) Aks,female,England,3,18.0,0,1,£892.18,Yes
+Mr Nassef Cassem Albimona,male,France,3,26.0,0,0,£1792.70,Yes
+Mr William Alexander,male,England,3,26.0,0,0,£752.63,No
+Mr Ilmari Rudolf Alhomaki,male,England,3,20.0,0,0,£756.20,No
+Mr Ahmed Ali,male,England,3,24.0,0,0,£672.71,No
+Mr William Ali,male,England,3,25.0,0,0,£672.71,No
+Mr William Henry Allen,male,England,3,35.0,0,0,£768.13,No
+Mr Owen George Allum,male,England,3,18.0,0,0,£791.99,No
+Mr Albert Karvin Andersen,male,England,3,32.0,0,0,£2149.34,No
+Miss Carla Christine Nielsine Andersen-Jensen,female,England,3,19.0,1,0,£749.45,Yes
+Master Sigvard Harald Elias Andersson,male,England,3,4.0,4,2,£2984.26,No
+Miss Ebba Iris Alfrida Andersson,female,England,3,6.0,4,2,£2984.26,No
+Miss Ellis Anna Maria Andersson,female,England,3,2.0,4,2,£2984.26,No
+Miss Erna Alexandra Andersson,female,England,3,17.0,4,2,£756.20,Yes
+Miss Ida Augusta Margareta Andersson,female,England,3,38.0,4,2,£741.89,No
+Miss Ingeborg Constanzia Andersson,female,England,3,9.0,4,2,£2984.26,No
+Miss Sigrid Elisabeth Andersson,female,England,3,11.0,4,2,£2984.26,No
+Mr Anders Johan Andersson,male,England,3,39.0,1,5,£2984.26,No
+"Mr August Edvard (""Wennerstrom"") Andersson",male,England,3,27.0,0,0,£743.88,Yes
+Mr Johan Samuel Andersson,male,England,3,26.0,0,0,£741.89,No
+Mrs Anders Johan (Alfrida Konstantia Brogren) Andersson,female,England,3,39.0,1,5,£2984.26,No
+Mr Paul Edvin Andreasson,male,England,3,20.0,0,0,£749.45,No
+Mr Minko Angheloff,male,England,3,26.0,0,0,£753.42,No
+Mr Josef Arnold-Franchi,male,England,3,25.0,1,0,£1698.48,No
+Mrs Josef (Josefine Franchi) Arnold-Franchi,female,England,3,18.0,1,0,£1698.48,No
+Mr Ernst Axel Algot Aronsson,male,England,3,24.0,0,0,£741.89,No
+Mr Adola Asim,male,England,3,35.0,0,0,£672.71,No
+Master Carl Edgar Asplund,male,England,3,5.0,4,2,£2995.00,No
+Master Clarence Gustaf Hugo Asplund,male,England,3,9.0,4,2,£2995.00,No
+Master Edvin Rojj Felix Asplund,male,England,3,3.0,4,2,£2995.00,Yes
+Master Filip Oscar Asplund,male,England,3,13.0,4,2,£2995.00,No
+Miss Lillian Gertrud Asplund,female,England,3,5.0,4,2,£2995.00,Yes
+Mr Carl Oscar Vilhelm Gustafsson Asplund,male,England,3,40.0,1,5,£2995.00,No
+Mr Johan Charles Asplund,male,England,3,23.0,0,0,£743.88,Yes
+Mrs Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,England,3,38.0,1,5,£2995.00,Yes
+"Mrs Mariana (""Miriam"") Assaf Khalil",female,France,3,45.0,0,0,£689.41,Yes
+Mr Gerios Assaf,male,France,3,21.0,0,0,£689.41,No
+Mr Ali Assam,male,England,3,23.0,0,0,£672.71,No
+Miss Malake Attalah,female,France,3,17.0,0,0,£1379.61,No
+Mr Sleiman Attalah,male,France,3,30.0,0,0,£689.41,No
+Mr Albert Augustsson,male,England,3,23.0,0,0,£749.45,No
+Miss Banoura Ayoub,female,France,3,13.0,0,0,£689.81,Yes
+Mr Raffull Baccos,male,France,3,20.0,0,0,£689.41,No
+Mr Karl Alfred Backstrom,male,England,3,32.0,1,0,£1512.41,No
+Mrs Karl Alfred (Maria Mathilda Gustafsson) Backstrom,female,England,3,33.0,3,0,£1512.41,Yes
+Miss Eugenie Baclini,female,France,3,0.75,2,1,£1837.63,Yes
+Miss Helene Barbara Baclini,female,France,3,0.75,2,1,£1837.63,Yes
+Miss Marie Catherine Baclini,female,France,3,5.0,2,1,£1837.63,Yes
+Mrs Solomon (Latifa Qurban) Baclini,female,France,3,24.0,0,3,£1837.63,Yes
+Miss Emily Louisa Badman,female,England,3,18.0,0,0,£768.13,Yes
+Mr Mohamed Badt,male,France,3,40.0,0,0,£689.41,No
+Mr Cerin Balkic,male,England,3,26.0,0,0,£753.42,No
+Mr Hanna Assi Barah,male,France,3,20.0,0,0,£689.81,Yes
+Miss Saiide Barbara,female,France,3,18.0,0,1,£1379.22,No
+Mrs (Catherine David) Barbara,female,France,3,45.0,0,1,£1379.22,No
+Miss Julia Barry,female,Ireland,3,27.0,0,0,£751.83,No
+Mr David John Barton,male,England,3,22.0,0,0,£768.13,No
+Mr William Thomas Beavan,male,England,3,19.0,0,0,£768.13,No
+Mr John Viktor Bengtsson,male,England,3,26.0,0,0,£741.89,No
+Mr Karl Ivar Sven Berglund,male,England,3,22.0,0,0,£892.18,No
+Master Seman Betros,male,France,3,,0,0,£689.81,No
+Mr Tannous Betros,male,France,3,20.0,0,0,£382.87,No
+Mr Lee Bing,male,England,3,32.0,0,0,£5390.83,Yes
+Mr Hans Martin Monsen Birkeland,male,England,3,21.0,0,0,£741.89,No
+Mr Ernst Herbert Bjorklund,male,England,3,18.0,0,0,£739.50,No
+Mr Guentcho Bostandyeff,male,England,3,26.0,0,0,£753.42,No
+Master Akar Boulos,male,France,3,6.0,1,1,£1454.75,No
+Miss Nourelain Boulos,female,France,3,9.0,1,1,£1454.75,No
+Mr Hanna Boulos,male,France,3,,0,0,£689.41,No
+Mrs Joseph (Sultana) Boulos,female,France,3,,0,2,£1454.75,No
+Miss Mary Bourke,female,Ireland,3,,0,2,£739.50,No
+Mr John Bourke,male,Ireland,3,40.0,1,1,£1479.01,No
+Mrs John (Catherine) Bourke,female,Ireland,3,32.0,1,1,£1479.01,No
+"Mr David John ""Dai"" Bowen",male,England,3,21.0,0,0,£1536.26,No
+Miss Bridget Delia Bradley,female,Ireland,3,22.0,0,0,£737.12,Yes
+Miss Elin Ester Maria Braf,female,England,3,20.0,0,0,£749.45,No
+Mr Lewis Richard Braund,male,England,3,29.0,1,0,£672.31,No
+Mr Owen Harris Braund,male,England,3,22.0,1,0,£691.79,No
+Mr Karl Rudolf Brobeck,male,England,3,22.0,0,0,£743.88,No
+Mr William Alfred Brocklebank,male,England,3,35.0,0,0,£768.13,No
+Miss Katherine Buckley,female,Ireland,3,18.5,0,0,£694.97,No
+Mr Daniel Buckley,male,Ireland,3,21.0,0,0,£746.26,Yes
+Mr Jeremiah Burke,male,Ireland,3,19.0,0,0,£644.09,No
+Miss Mary Delia Burns,female,Ireland,3,18.0,0,0,£751.83,No
+Miss Manda Cacic,female,England,3,21.0,0,0,£826.58,No
+Miss Marija Cacic,female,England,3,30.0,0,0,£826.58,No
+Mr Jego Grga Cacic,male,England,3,18.0,0,0,£826.58,No
+Mr Luka Cacic,male,England,3,38.0,0,0,£826.58,No
+Mr Jovo Calic,male,England,3,17.0,0,0,£826.58,No
+Mr Petar Calic,male,England,3,17.0,0,0,£826.58,No
+Miss Mary Canavan,female,Ireland,3,21.0,0,0,£739.50,No
+Mr Patrick Canavan,male,Ireland,3,21.0,0,0,£739.50,No
+Mr Ernest Charles Cann,male,England,3,21.0,0,0,£768.13,No
+Mr Joseph Caram,male,France,3,,1,0,£1379.61,No
+Mrs Joseph (Maria Elias) Caram,female,France,3,,1,0,£1379.61,No
+Mr August Sigfrid Carlsson,male,England,3,28.0,0,0,£743.88,No
+Mr Carl Robert Carlsson,male,England,3,24.0,0,0,£749.45,No
+"Miss Helen ""Ellen"" Carr",female,Ireland,3,16.0,0,0,£739.50,Yes
+Miss Jeannie Carr,female,Ireland,3,37.0,0,0,£739.50,No
+Mr Alfred John Carver,male,England,3,28.0,0,0,£691.79,No
+Mr Francesco Celotti,male,England,3,24.0,0,0,£768.13,No
+Mr David Charters,male,Ireland,3,21.0,0,0,£737.91,No
+Mr Chang Chip,male,England,3,32.0,0,0,£5390.83,Yes
+Mr Emil Christmann,male,England,3,29.0,0,0,£768.13,No
+Mr Apostolos Chronopoulos,male,France,3,26.0,1,0,£1379.22,No
+Mr Demetrios Chronopoulos,male,France,3,18.0,1,0,£1379.22,No
+Mr Domingos Fernandeo Coelho,male,England,3,20.0,0,0,£672.71,No
+"Mr Gurshon ""Gus"" Cohen",male,England,3,18.0,0,0,£768.13,Yes
+Mr Patrick Colbert,male,Ireland,3,24.0,0,0,£691.79,No
+Mr Peju Coleff,male,England,3,36.0,0,0,£715.25,No
+Mr Satio Coleff,male,England,3,24.0,0,0,£715.25,No
+Mr Thomas Henry Conlon,male,Ireland,3,31.0,0,0,£737.91,No
+Mr Michael Connaghton,male,Ireland,3,31.0,0,0,£739.50,No
+Miss Kate Connolly,female,Ireland,3,22.0,0,0,£739.50,Yes
+Miss Kate Connolly,female,Ireland,3,30.0,0,0,£727.98,No
+Mr Patrick Connors,male,Ireland,3,70.5,0,0,£739.50,No
+Mr Jacob Cook,male,England,3,43.0,0,0,£768.13,No
+Mr Bartol Cor,male,England,3,35.0,0,0,£753.42,No
+Mr Ivan Cor,male,England,3,27.0,0,0,£753.42,No
+Mr Liudevit Cor,male,England,3,19.0,0,0,£753.42,No
+Mr Harry Corn,male,England,3,30.0,0,0,£768.13,No
+"Master Eden Leslie ""Neville"" Coutts",male,England,3,9.0,1,1,£1517.18,Yes
+"Master William Loch ""William"" Coutts",male,England,3,3.0,1,1,£1517.18,Yes
+"Mrs William (Winnie ""Minnie"" Treanor) Coutts",female,England,3,36.0,0,2,£1517.18,Yes
+Mr Daniel Coxon,male,England,3,59.0,0,0,£691.79,No
+Mr Ernest James Crease,male,England,3,19.0,0,0,£778.46,No
+Miss Laura Alice Cribb,female,England,3,17.0,0,1,£1536.26,Yes
+Mr John Hatfield Cribb,male,England,3,44.0,0,1,£1536.26,No
+Mr Jeso Culumovic,male,England,3,17.0,0,0,£826.58,No
+Mr Shedid Daher,male,France,3,22.5,0,0,£689.41,No
+Mr Karl Edwart Dahl,male,England,3,45.0,0,0,£768.13,Yes
+Miss Gerda Ulrika Dahlberg,female,England,3,22.0,0,0,£1003.50,No
+Mr Branko Dakic,male,England,3,19.0,0,0,£970.50,No
+"Miss Margaret Marcella ""Maggie"" Daly",female,Ireland,3,30.0,0,0,£663.17,Yes
+Mr Eugene Patrick Daly,male,Ireland,3,29.0,0,0,£739.50,Yes
+Master Gilbert Sigvard Emanuel Danbom,male,England,3,0.3333,0,2,£1374.05,No
+Mr Ernst Gilbert Danbom,male,England,3,34.0,1,1,£1374.05,No
+Mrs Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,female,England,3,28.0,1,1,£1374.05,No
+Mr Yoto Danoff,male,England,3,27.0,0,0,£753.42,No
+Mr Ristiu Dantcheff,male,England,3,25.0,0,0,£753.42,No
+Mr Alfred J Davies,male,England,3,24.0,2,0,£2304.39,No
+Mr Evan Davies,male,England,3,22.0,0,0,£768.13,No
+Mr John Samuel Davies,male,England,3,21.0,2,0,£2304.39,No
+Mr Joseph Davies,male,England,3,17.0,2,0,£768.13,No
+Mr Thomas Henry Davison,male,England,3,,1,0,£1536.26,No
+Mrs Thomas Henry (Mary E Finck) Davison,female,England,3,,1,0,£1536.26,Yes
+Mr Guillaume Joseph de Messemaeker,male,England,3,36.5,1,0,£1660.31,Yes
+Mrs Guillaume Joseph (Emma) de Messemaeker,female,England,3,36.0,1,0,£1660.31,Yes
+Mr Theodore de Mulder,male,England,3,30.0,0,0,£906.49,Yes
+Mr Alfons de Pelsmaeker,male,England,3,16.0,0,0,£906.49,No
+Master Bertram Vere Dean,male,England,3,1.0,1,2,£1963.27,Yes
+"Miss Elizabeth Gladys ""Millvina"" Dean",female,England,3,0.1667,1,2,£1963.27,Yes
+Mr Bertram Frank Dean,male,England,3,26.0,1,2,£1963.27,No
+Mrs Bertram (Eva Georgetta Light) Dean,female,England,3,33.0,1,2,£1963.27,Yes
+Mr Redjo Delalic,male,England,3,25.0,0,0,£753.42,No
+Mr Marinko Demetri,male,England,3,,0,0,£753.42,No
+Mr Mitto Denkoff,male,England,3,,0,0,£753.42,No
+Mr Samuel Dennis,male,England,3,22.0,0,0,£691.79,No
+Mr William Dennis,male,England,3,36.0,0,0,£691.79,No
+Miss Margaret Delia Devaney,female,Ireland,3,19.0,0,0,£751.83,Yes
+Mr Mirko Dika,male,England,3,17.0,0,0,£753.42,No
+Mr Jovan Dimic,male,England,3,42.0,0,0,£826.58,No
+Mr Valtcho Dintcheff,male,England,3,43.0,0,0,£753.42,No
+Mr Tannous Doharr,male,France,3,,0,0,£689.81,No
+Mr Patrick Dooley,male,Ireland,3,32.0,0,0,£739.50,No
+Mr Edward Arthur Dorking,male,England,3,19.0,0,0,£768.13,Yes
+Miss Elizabeth Dowdell,female,England,3,30.0,0,0,£1190.36,Yes
+Miss Elizabeth Doyle,female,Ireland,3,24.0,0,0,£739.50,No
+Miss Jennie Drapkin,female,England,3,23.0,0,0,£768.13,Yes
+Mr Jozef Drazenoic,male,France,3,33.0,0,0,£753.42,No
+Mr Frank Duane,male,Ireland,3,65.0,0,0,£739.50,No
+Mr Joseph Duquemin,male,England,3,24.0,0,0,£720.42,Yes
+Mr Adolf Fredrik Dyker,male,England,3,23.0,1,0,£1326.34,No
+Mrs Adolf Fredrik (Anna Elisabeth Judith Andersson) Dyker,female,England,3,22.0,1,0,£1326.34,Yes
+Mr Gustaf Hjalmar Edvardsson,male,England,3,18.0,0,0,£741.89,No
+Mr Hans Linus Eklund,male,England,3,16.0,0,0,£741.89,No
+Mr Johan Ekstrom,male,England,3,45.0,0,0,£665.55,No
+Mr Dibo Elias,male,France,3,,0,0,£689.41,No
+Mr Joseph Elias,male,France,3,39.0,0,2,£689.81,No
+Mr Joseph Jr Elias,male,France,3,17.0,1,1,£689.81,No
+Mr Tannous Elias,male,France,3,15.0,1,1,£689.81,No
+Mr William James Elsbury,male,England,3,47.0,0,0,£691.79,No
+Miss Virginia Ethel Emanuel,female,England,3,5.0,0,0,£1190.36,Yes
+Mr Farred Chehab Emir,male,France,3,,0,0,£689.41,No
+Mr Thomas James Everett,male,England,3,40.5,0,0,£1440.84,No
+Mr James Farrell,male,Ireland,3,40.5,0,0,£739.50,No
+Mr Luigi Finoli,male,England,3,,0,0,£672.71,Yes
+Mr Eberhard Thelander Fischer,male,England,3,18.0,0,0,£743.88,No
+Miss Honora Fleming,female,Ireland,3,,0,0,£739.50,No
+Mr James Flynn,male,Ireland,3,,0,0,£739.50,No
+Mr John Flynn,male,Ireland,3,,0,0,£663.17,No
+Mr Joseph Foley,male,Ireland,3,26.0,0,0,£751.83,No
+Mr William Foley,male,Ireland,3,,0,0,£739.50,No
+Mr Choong Foo,male,England,3,,0,0,£5390.83,Yes
+"Miss Doolina Margaret ""Daisy"" Ford",female,England,3,21.0,2,2,£3280.06,No
+"Miss Robina Maggie ""Ruby"" Ford",female,England,3,9.0,2,2,£3280.06,No
+Mr Arthur Ford,male,England,3,,0,0,£768.13,No
+Mr Edward Watson Ford,male,England,3,18.0,2,2,£3280.06,No
+Mr William Neal Ford,male,England,3,16.0,1,3,£3280.06,No
+Mrs Edward (Margaret Ann Watson) Ford,female,England,3,48.0,1,3,£3280.06,No
+Mr Patrick Fox,male,Ireland,3,,0,0,£739.50,No
+Mr Charles (Charles Fardon) Franklin,male,England,3,,0,0,£691.79,No
+Mr Martin Gallagher,male,Ireland,3,25.0,0,0,£738.71,No
+Mr John Garfirth,male,England,3,,0,0,£1383.59,No
+Mr Stanio Gheorgheff,male,France,3,,0,0,£753.42,No
+Mr Eliezer Gilinski,male,England,3,22.0,0,0,£768.13,No
+"Miss Katherine ""Katie"" Gilnagh",female,Ireland,3,16.0,0,0,£737.91,Yes
+Miss Mary Agatha Glynn,female,Ireland,3,,0,0,£739.50,Yes
+"Master Frank John William ""Frankie"" Goldsmith",male,England,3,9.0,0,2,£1958.50,Yes
+Mr Frank John Goldsmith,male,England,3,33.0,1,1,£1958.50,No
+Mr Nathan Goldsmith,male,England,3,41.0,0,0,£749.05,No
+Mrs Frank John (Emily Alice Brown) Goldsmith,female,England,3,31.0,1,1,£1958.50,Yes
+Mr Manuel Estanslas Goncalves,male,England,3,38.0,0,0,£672.71,No
+Master Harold Victor Goodwin,male,England,3,9.0,5,2,£4475.20,No
+Master Sidney Leonard Goodwin,male,England,3,1.0,5,2,£4475.20,No
+Master William Frederick Goodwin,male,England,3,11.0,5,2,£4475.20,No
+Miss Jessie Allis Goodwin,female,England,3,10.0,5,2,£4475.20,No
+Miss Lillian Amy Goodwin,female,England,3,16.0,5,2,£4475.20,No
+Mr Charles Edward Goodwin,male,England,3,14.0,5,2,£4475.20,No
+Mr Charles Frederick Goodwin,male,England,3,40.0,1,6,£4475.20,No
+Mrs Frederick (Augusta Tyler) Goodwin,female,England,3,43.0,1,6,£4475.20,No
+Mr George Henry Green,male,England,3,51.0,0,0,£768.13,No
+Mr Daniel Danielsen Gronnestad,male,England,3,32.0,0,0,£797.95,No
+Mr Robert Guest,male,England,3,,0,0,£768.13,No
+Mr Alfred Ossian Gustafsson,male,England,3,20.0,0,0,£939.49,No
+Mr Anders Vilhelm Gustafsson,male,England,3,37.0,2,0,£756.20,No
+Mr Johan Birger Gustafsson,male,England,3,28.0,2,0,£756.20,No
+Mr Karl Gideon Gustafsson,male,England,3,19.0,0,0,£741.89,No
+Miss Aloisia Haas,female,England,3,24.0,0,0,£844.47,No
+Miss Kate Hagardon,female,Ireland,3,17.0,0,0,£737.91,No
+Mr Ingvald Olai Olsen Hagland,male,England,3,,1,0,£1905.22,No
+Mr Konrad Mathias Reiersen Hagland,male,England,3,,1,0,£1905.22,No
+Mr Pekka Pietari Hakkarainen,male,England,3,28.0,1,0,£1512.41,No
+Mrs Pekka Pietari (Elin Matilda Dolck) Hakkarainen,female,England,3,24.0,1,0,£1512.41,Yes
+Mr Leon Hampe,male,England,3,20.0,0,0,£906.49,No
+Mr Mansour Hanna,male,France,3,23.5,0,0,£689.81,No
+Mr Claus Peter Hansen,male,England,3,41.0,2,0,£1346.21,No
+Mr Henrik Juul Hansen,male,England,3,26.0,1,0,£749.45,No
+Mr Henry Damsgaard Hansen,male,England,3,21.0,0,0,£749.45,No
+Mrs Claus Peter (Jennie L Howard) Hansen,female,England,3,45.0,1,0,£1346.21,Yes
+Miss Alice Phoebe Harknett,female,England,3,,0,0,£720.42,No
+Mr Abraham (David Lishin) Harmer,male,England,3,25.0,0,0,£691.79,No
+Mr Henry Hart,male,Ireland,3,,0,0,£654.42,No
+Mr Houssein G N Hassan,male,France,3,11.0,0,0,£1792.70,No
+"Miss Hanora ""Nora"" Healy",female,Ireland,3,,0,0,£739.50,Yes
+Mr Oskar Arvid Hedman,male,England,3,27.0,0,0,£665.55,Yes
+Mr Ling Hee,male,England,3,,0,0,£5390.83,Yes
+"Miss Hanora ""Nora"" Hegarty",female,Ireland,3,18.0,0,0,£644.09,No
+Miss Laina Heikkinen,female,England,3,26.0,0,0,£756.20,Yes
+Miss Wendla Maria Heininen,female,England,3,23.0,0,0,£756.20,No
+Miss Hilda Maria Hellstrom,female,England,3,22.0,0,0,£855.20,Yes
+Mr Ignjac Hendekovic,male,England,3,28.0,0,0,£753.42,No
+Miss Jenny Lovisa Henriksson,female,England,3,28.0,0,0,£741.89,No
+Miss Delia Henry,female,Ireland,3,,0,0,£739.50,No
+Miss Hildur E Hirvonen,female,England,3,2.0,0,1,£1172.47,Yes
+Mrs Alexander (Helga E Lindqvist) Hirvonen,female,England,3,22.0,1,1,£1172.47,Yes
+Mr John Fredrik Alexander Holm,male,England,3,43.0,0,0,£615.46,No
+Mr Johan Martin Holthen,male,England,3,28.0,0,0,£2149.34,No
+Miss Eliina Honkanen,female,England,3,27.0,0,0,£756.20,Yes
+Mr John Horgan,male,Ireland,3,,0,0,£739.50,No
+Miss May Elizabeth Howard,female,England,3,,0,0,£768.13,Yes
+Mr Adolf Mathias Nicolai Olsen Humblen,male,England,3,42.0,0,0,£729.96,No
+Mr Abraham Hyman,male,England,3,,0,0,£752.63,Yes
+Mr Yousseff Ibrahim Shawah,male,France,3,30.0,0,0,£689.81,No
+Mr Ylio Ilieff,male,England,3,,0,0,£753.42,No
+Miss Ida Livija Ilmakangas,female,England,3,27.0,1,0,£756.20,No
+Miss Pieta Sofia Ilmakangas,female,England,3,25.0,1,0,£756.20,No
+Mr Kanio Ivanoff,male,England,3,,0,0,£753.42,No
+Mr Ivan Jalsevac,male,France,3,29.0,0,0,£753.42,Yes
+Mr Carl Olof Jansson,male,England,3,21.0,0,0,£743.88,Yes
+Mr Jose Neto Jardin,male,England,3,,0,0,£672.71,No
+Mr Hans Peder Jensen,male,England,3,20.0,0,0,£749.45,No
+Mr Niels Peder Jensen,male,England,3,48.0,0,0,£749.45,No
+Mr Svend Lauritz Jensen,male,England,3,17.0,1,0,£673.11,No
+Miss Annie Jermyn,female,Ireland,3,,0,0,£739.50,Yes
+Mr Bernt Johannesen-Bratthammer,male,England,3,,0,0,£774.09,Yes
+Mr Jakob Alfred Johanson,male,England,3,34.0,0,0,£619.83,No
+Mr Oskar Leander Johansson Palmquist,male,England,3,26.0,0,0,£741.89,Yes
+Mr Erik Johansson,male,England,3,22.0,0,0,£743.88,No
+Mr Gustaf Joel Johansson,male,England,3,33.0,0,0,£825.78,No
+Mr Karl Johan Johansson,male,England,3,31.0,0,0,£741.89,No
+Mr Nils Johansson,male,England,3,29.0,0,0,£749.45,No
+Master Harold Theodor Johnson,male,England,3,4.0,1,1,£1062.34,Yes
+Miss Eleanor Ileen Johnson,female,England,3,1.0,1,1,£1062.34,Yes
+Mr Alfred Johnson,male,England,3,49.0,0,0,£0.00,No
+Mr Malkolm Joackim Johnson,male,England,3,33.0,0,0,£741.89,No
+Mr William Cahoone Jr Johnson,male,England,3,19.0,0,0,£0.00,No
+Mrs Oscar W (Elisabeth Vilhelmina Berg) Johnson,female,England,3,27.0,0,2,£1062.34,Yes
+"Master William Arthur ""Willie"" Johnston",male,England,3,,1,2,£2237.60,No
+"Miss Catherine Helen ""Carrie"" Johnston",female,England,3,,1,2,£2237.60,No
+Mr Andrew G Johnston,male,England,3,,1,2,£2237.60,No
+"Mrs Andrew G (Elizabeth ""Lily"" Watson) Johnston",female,England,3,,1,2,£2237.60,No
+Mr Lalio Jonkoff,male,England,3,23.0,0,0,£753.42,No
+Mr Carl Jonsson,male,England,3,32.0,0,0,£749.45,Yes
+Mr Nils Hilding Jonsson,male,England,3,27.0,0,0,£749.45,No
+Miss Katriina Jussila,female,England,3,20.0,1,0,£937.50,No
+Miss Mari Aina Jussila,female,England,3,21.0,1,0,£937.50,No
+Mr Eiriik Jussila,male,England,3,32.0,0,0,£756.20,Yes
+Mr Nikolai Erland Kallio,male,England,3,17.0,0,0,£679.87,No
+Mr Johannes Halvorsen Kalvik,male,England,3,21.0,0,0,£804.71,No
+Mr Milan Karaic,male,England,3,30.0,0,0,£753.42,No
+Mr Einar Gervasius Karlsson,male,England,3,21.0,0,0,£743.88,Yes
+Mr Julius Konrad Eugen Karlsson,male,England,3,33.0,0,0,£749.45,No
+Mr Nils August Karlsson,male,England,3,22.0,0,0,£717.63,No
+Miss Manca Karun,female,France,3,4.0,0,1,£1280.22,Yes
+Mr Franz Karun,male,France,3,39.0,0,1,£1280.22,Yes
+Mr Fared Kassem,male,France,3,,0,0,£689.81,No
+"Mr Vassilios (""Catavelas Vassilios"") Katavelas",male,France,3,18.5,0,0,£689.81,No
+"Mr Andrew ""Andy"" Keane",male,Ireland,3,,0,0,£739.50,No
+Mr Arthur Keefe,male,England,3,,0,0,£691.79,No
+"Miss Anna Katherine ""Annie Kate"" Kelly",female,Ireland,3,,0,0,£739.50,Yes
+Miss Mary Kelly,female,Ireland,3,,0,0,£739.50,Yes
+Mr James Kelly,male,Ireland,3,34.5,0,0,£747.06,No
+Mr James Kelly,male,England,3,44.0,0,0,£768.13,No
+Mr John Kennedy,male,Ireland,3,,0,0,£739.50,Yes
+Mr Betros Khalil,male,France,3,,1,0,£1379.22,No
+"Mrs Betros (Zahie ""Maria"" Elias) Khalil",female,France,3,,1,0,£1379.22,No
+Mr John Kiernan,male,Ireland,3,,1,0,£739.50,No
+Mr Philip Kiernan,male,Ireland,3,,1,0,£739.50,No
+Mr Thomas J Kilgannon,male,Ireland,3,,0,0,£738.31,No
+Miss Maria Kink,female,England,3,22.0,2,0,£826.58,No
+Mr Vincenz Kink,male,England,3,26.0,2,0,£826.58,No
+Miss Luise Gretchen Kink-Heilmann,female,England,3,4.0,0,2,£2101.63,Yes
+Mr Anton Kink-Heilmann,male,England,3,29.0,3,1,£2101.63,Yes
+Mrs Anton (Luise Heilmann) Kink-Heilmann,female,England,3,26.0,1,1,£2101.63,Yes
+Miss Gertrud Emilia Klasen,female,England,3,1.0,1,1,£1162.53,No
+Mr Klas Albin Klasen,male,England,3,18.0,1,1,£749.45,No
+Mrs (Hulda Kristina Eugenia Lofqvist) Klasen,female,England,3,36.0,0,2,£1162.53,No
+Mr Theodor Kraeff,male,France,3,,0,0,£753.42,No
+Mr Neshan Krekorian,male,France,3,25.0,0,0,£689.81,Yes
+Mr Sarkis Lahoud,male,France,3,,0,0,£689.41,No
+Miss Kristina Sofia Laitinen,female,England,3,37.0,0,0,£914.84,No
+Mr Kristo Laleff,male,England,3,,0,0,£753.42,No
+Mr Ali Lam,male,England,3,,0,0,£5390.83,Yes
+Mr Len Lam,male,England,3,,0,0,£5390.83,No
+Miss Aurora Adelia Landergren,female,England,3,22.0,0,0,£691.79,Yes
+Mr Patrick Lane,male,Ireland,3,,0,0,£739.50,No
+Mr Fang Lang,male,England,3,26.0,0,0,£5390.83,Yes
+Mr August Viktor Larsson,male,England,3,29.0,0,0,£904.90,No
+Mr Bengt Edvin Larsson,male,England,3,29.0,0,0,£741.89,No
+Mr Edvard A Larsson-Rondberg,male,England,3,22.0,0,0,£741.89,No
+"Mr Fahim (""Philip Zenni"") Leeni",male,France,3,22.0,0,0,£689.41,Yes
+Master Henry Forbes Lefebre,male,England,3,,3,1,£2430.03,No
+Miss Ida Lefebre,female,England,3,,3,1,£2430.03,No
+Miss Jeannie Lefebre,female,England,3,,3,1,£2430.03,No
+Miss Mathilde Lefebre,female,England,3,,3,1,£2430.03,No
+Mrs Frank (Frances) Lefebre,female,England,3,,0,4,£2430.03,No
+Mr Antti Gustaf Leinonen,male,England,3,32.0,0,0,£756.20,No
+Mr Peter L Lemberopolous,male,France,3,34.5,0,0,£614.27,No
+Miss Mary Lennon,female,Ireland,3,,1,0,£1479.01,No
+Mr Denis Lennon,male,Ireland,3,,1,0,£1479.01,No
+Mr Lionel Leonard,male,England,3,36.0,0,0,£0.00,No
+Mr James Lester,male,England,3,39.0,0,0,£2304.39,No
+Mr Rene Aime Lievens,male,England,3,24.0,0,0,£906.49,No
+Miss Agda Thorilda Viktoria Lindahl,female,England,3,25.0,0,0,£741.89,No
+Miss Augusta Charlotta Lindblom,female,England,3,45.0,0,0,£739.50,No
+Mr Edvard Bengtsson Lindell,male,England,3,36.0,1,0,£1483.78,No
+Mrs Edvard Bengtsson (Elin Gerda Persson) Lindell,female,England,3,30.0,1,0,£1483.78,No
+Mr Eino William Lindqvist,male,England,3,20.0,1,0,£756.20,Yes
+Mr Michael Linehan,male,Ireland,3,,0,0,£751.83,No
+Mr Lee Ling,male,England,3,28.0,0,0,£5390.83,No
+Mr Simon Lithman,male,England,3,,0,0,£720.42,No
+Mr William Arthur Lobb,male,England,3,30.0,1,0,£1536.26,No
+Mrs William Arthur (Cordelia K Stanlick) Lobb,female,England,3,26.0,1,0,£1536.26,No
+Mr Edward Lockyer,male,England,3,,0,0,£751.83,No
+"Mr John Hall (""Henry"") Lovell",male,England,3,20.5,0,0,£691.79,No
+Mr Nikola Lulic,male,England,3,27.0,0,0,£826.58,Yes
+Mr Johan Svensson Lundahl,male,England,3,51.0,0,0,£673.11,No
+Miss Olga Elida Lundin,female,England,3,23.0,0,0,£749.45,Yes
+Mr Thure Edvin Lundstrom,male,England,3,32.0,0,0,£723.21,Yes
+Mr Stanko Lyntakoff,male,England,3,,0,0,£753.42,No
+Mr George William MacKay,male,England,3,,0,0,£720.42,No
+"Miss Margaret ""Maggie"" Madigan",female,Ireland,3,,0,0,£739.50,Yes
+Mr Fridtjof Arne Madsen,male,England,3,24.0,0,0,£681.46,Yes
+Mr Matti Alexanteri Maenpaa,male,England,3,22.0,0,0,£679.87,No
+Miss Bridget Delia Mahon,female,Ireland,3,,0,0,£751.83,No
+Mr John Mahon,male,Ireland,3,,0,0,£739.50,No
+Mr Simon Maisner,male,England,3,,0,0,£768.13,No
+Mr Kalle Edvard Makinen,male,England,3,29.0,0,0,£756.20,No
+Mr Hanna Mamee,male,France,3,,0,0,£689.81,Yes
+Miss Mary Mangan,female,Ireland,3,30.5,0,0,£739.50,No
+Miss Margareth Mannion,female,Ireland,3,,0,0,£738.31,Yes
+Mr Sarkis Mardirosian,male,France,3,,0,0,£689.81,No
+Mr Marin Markoff,male,France,3,35.0,0,0,£753.42,No
+Mr Johann Markun,male,England,3,33.0,0,0,£753.42,No
+Mrs Fatima Masselmani,female,France,3,,0,0,£689.41,Yes
+Mr Nicola Matinoff,male,France,3,,0,0,£753.42,No
+"Miss Catherine ""Katie"" McCarthy",female,Ireland,3,,0,0,£739.50,Yes
+Mr Thomas Joseph McCormack,male,Ireland,3,,0,0,£739.50,Yes
+Miss Agnes McCoy,female,Ireland,3,,2,0,£2218.51,Yes
+Miss Alicia McCoy,female,Ireland,3,,2,0,£2218.51,Yes
+Mr Bernard McCoy,male,Ireland,3,,2,0,£2218.51,Yes
+Miss Brigdet Delia McDermott,female,Ireland,3,,0,0,£743.08,Yes
+Mr Michael McEvoy,male,Ireland,3,,0,0,£1479.01,No
+Miss Mary McGovern,female,Ireland,3,,0,0,£751.83,Yes
+"Miss Anna ""Annie"" McGowan",female,Ireland,3,15.0,0,0,£766.15,Yes
+Miss Katherine McGowan,female,Ireland,3,35.0,0,0,£739.50,No
+Mr Martin McMahon,male,Ireland,3,,0,0,£739.50,No
+Mr Neal McNamee,male,England,3,24.0,1,0,£1536.26,No
+Mrs Neal (Eileen O'Leary) McNamee,female,England,3,19.0,1,0,£1536.26,No
+Miss Bridget McNeill,female,Ireland,3,,0,0,£739.50,No
+Miss (Marion Ogden) Meanwell,female,England,3,,0,0,£768.13,No
+Mrs Thomas (Annie Louise Rowley) Meek,female,England,3,,0,0,£768.13,No
+Mr Alfonzo Meo,male,England,3,55.5,0,0,£768.13,No
+Mr Robert Mernagh,male,Ireland,3,,0,0,£739.50,No
+Mr Karl Albert Midtsjo,male,England,3,21.0,0,0,£741.89,Yes
+Mr Frank Miles,male,England,3,,0,0,£768.13,No
+Mr Ivan Mineff,male,England,3,24.0,0,0,£753.42,No
+Mr Lazar Minkoff,male,England,3,21.0,0,0,£753.42,No
+Mr Stoytcho Mionoff,male,England,3,28.0,0,0,£753.42,No
+Mr Mito Mitkoff,male,England,3,,0,0,£753.42,No
+"Miss Helen Mary ""Ellie"" Mockler",female,Ireland,3,,0,0,£751.83,Yes
+Mr Sigurd Hansen Moen,male,England,3,25.0,0,0,£729.96,No
+Master Meier Moor,male,England,3,6.0,0,1,£1190.36,Yes
+Mrs (Beila) Moor,female,England,3,27.0,0,1,£1190.36,Yes
+Mr Leonard Charles Moore,male,England,3,,0,0,£768.13,No
+Miss Bertha Moran,female,Ireland,3,,1,0,£2304.39,Yes
+Mr Daniel J Moran,male,Ireland,3,,1,0,£2304.39,No
+Mr James Moran,male,Ireland,3,,0,0,£807.09,No
+Mr William Morley,male,England,3,34.0,0,0,£768.13,No
+Mr Thomas Rowan Morrow,male,Ireland,3,,0,0,£739.50,No
+Mr Albert Johan Moss,male,England,3,,0,0,£741.89,Yes
+Master Gerios Moubarek,male,France,3,,1,1,£1454.75,Yes
+"Master Halim Gonios (""William George"") Moubarek",male,France,3,,1,1,£1454.75,Yes
+"Mrs George (Omine ""Amenia"" Alexander) Moubarek",female,France,3,,0,2,£1454.75,Yes
+Mrs (Mantoura Boulos) Moussa,female,France,3,,0,0,£689.81,Yes
+Mr Rahamin Haim Moutal,male,England,3,,0,0,£768.13,No
+"Miss Katherine ""Katie"" Mullens",female,Ireland,3,,0,0,£737.91,Yes
+Miss Bertha E Mulvihill,female,Ireland,3,24.0,0,0,£739.50,Yes
+Mr Joseph Murdlin,male,England,3,,0,0,£768.13,No
+"Miss Katherine ""Kate"" Murphy",female,Ireland,3,,1,0,£1479.01,Yes
+Miss Margaret Jane Murphy,female,Ireland,3,,1,0,£1479.01,Yes
+Miss Nora Murphy,female,Ireland,3,,0,0,£1479.01,Yes
+Mr Pehr Fabian Oliver Malkolm Myhrman,male,England,3,18.0,0,0,£739.50,No
+Mr Penko Naidenoff,male,England,3,22.0,0,0,£753.42,No
+"Miss Adele Kiamie ""Jane"" Najib",female,France,3,15.0,0,0,£689.41,Yes
+"Miss Maria (""Mary"") Nakid",female,France,3,1.0,0,2,£1502.07,Yes
+Mr Sahid Nakid,male,France,3,20.0,1,1,£1502.07,Yes
+"Mrs Said (Waika ""Mary"" Mowad) Nakid",female,France,3,19.0,1,1,£1502.07,Yes
+Mr William Henry Nancarrow,male,England,3,33.0,0,0,£768.13,No
+Mr Minko Nankoff,male,England,3,,0,0,£753.42,No
+Mr Mustafa Nasr,male,France,3,,0,0,£689.81,No
+Miss Hannah Naughton,female,Ireland,3,,0,0,£739.50,No
+Mr Christo Nenkoff,male,England,3,,0,0,£753.42,No
+Master Elias Nicola-Yarred,male,France,3,12.0,1,0,£1072.68,Yes
+Miss Jamila Nicola-Yarred,female,France,3,14.0,1,0,£1072.68,Yes
+Miss Manta Josefina Nieminen,female,England,3,29.0,0,0,£756.20,No
+Mr Samuel Niklasson,male,England,3,28.0,0,0,£768.13,No
+Miss Berta Olivia Nilsson,female,England,3,18.0,0,0,£741.89,Yes
+Miss Helmina Josefina Nilsson,female,England,3,26.0,0,0,£749.45,Yes
+Mr August Ferdinand Nilsson,male,England,3,21.0,0,0,£749.45,No
+Mr Iisakki Antino Aijo Nirva,male,England,3,41.0,0,0,£679.87,No
+Mr Juha Niskanen,male,England,3,39.0,0,0,£756.20,Yes
+Mr Richard Cater Nosworthy,male,England,3,21.0,0,0,£744.28,No
+Mr Mansouer Novel,male,France,3,28.5,0,0,£689.81,No
+Miss Anna Sofia Nysten,female,England,3,22.0,0,0,£739.50,Yes
+Mr Johan Hansen Nysveen,male,England,3,61.0,0,0,£595.18,No
+Mr Thomas O'Brien,male,Ireland,3,,1,0,£1479.01,No
+Mr Timothy O'Brien,male,Ireland,3,,0,0,£747.06,No
+"Mrs Thomas (Johanna ""Hannah"" Godfrey) O'Brien",female,Ireland,3,,1,0,£1479.01,Yes
+Mr Patrick D O'Connell,male,Ireland,3,,0,0,£737.91,No
+Mr Maurice O'Connor,male,Ireland,3,,0,0,£739.50,No
+Mr Patrick O'Connor,male,Ireland,3,,0,0,£739.50,No
+Mr Nils Martin Odahl,male,England,3,23.0,0,0,£880.25,No
+Ms Bridget O'Donoghue,female,Ireland,3,,0,0,£739.50,No
+Miss Bridget O'Driscoll,female,Ireland,3,,0,0,£739.50,Yes
+"Miss Ellen ""Nellie"" O'Dwyer",female,Ireland,3,,0,0,£751.83,Yes
+Miss Velin Ohman,female,England,3,22.0,0,0,£741.89,Yes
+Mr Patrick O'Keefe,male,Ireland,3,,0,0,£739.50,Yes
+"Miss Hanora ""Norah"" O'Leary",female,Ireland,3,,0,0,£747.06,Yes
+Master Artur Karl Olsen,male,England,3,9.0,0,1,£302.56,Yes
+Mr Henry Margido Olsen,male,England,3,28.0,0,0,£2149.34,No
+Mr Karl Siegwart Andreas Olsen,male,England,3,42.0,0,1,£801.93,No
+Mr Ole Martin Olsen,male,England,3,,0,0,£697.76,No
+Miss Elina Olsson,female,England,3,31.0,0,0,£749.45,No
+Mr Nils Johan Goransson Olsson,male,England,3,28.0,0,0,£749.45,No
+Mr Oscar Wilhelm Olsson,male,England,3,32.0,0,0,£741.89,Yes
+Mr Thor Anderson Olsvigen,male,England,3,20.0,0,0,£880.25,No
+Miss Jelka Oreskovic,female,England,3,23.0,0,0,£826.58,No
+Miss Marija Oreskovic,female,England,3,20.0,0,0,£826.58,No
+Mr Luka Oreskovic,male,England,3,20.0,0,0,£826.58,No
+Mr Olaf Elon Osen,male,England,3,16.0,0,0,£879.46,No
+Mrs Mara Osman,female,England,3,31.0,0,0,£828.56,Yes
+Miss Bridget Mary O'Sullivan,female,Ireland,3,,0,0,£727.98,No
+Master Gosta Leonard Palsson,male,England,3,2.0,3,1,£2010.98,No
+Master Paul Folke Palsson,male,England,3,6.0,3,1,£2010.98,No
+Miss Stina Viola Palsson,female,England,3,3.0,3,1,£2010.98,No
+Miss Torborg Danira Palsson,female,England,3,8.0,3,1,£2010.98,No
+Mrs Nils (Alma Cornelia Berglund) Palsson,female,England,3,29.0,0,4,£2010.98,No
+Master Eino Viljami Panula,male,England,3,1.0,4,1,£3786.98,No
+Master Juha Niilo Panula,male,England,3,7.0,4,1,£3786.98,No
+Master Urho Abraham Panula,male,England,3,2.0,4,1,£3786.98,No
+Mr Ernesti Arvid Panula,male,England,3,16.0,4,1,£3786.98,No
+Mr Jaako Arnold Panula,male,England,3,14.0,4,1,£3786.98,No
+Mrs Juha (Maria Emilia Ojala) Panula,female,England,3,41.0,0,5,£3786.98,No
+Mr Jakob Pasic,male,England,3,21.0,0,0,£826.58,No
+Mr George Patchett,male,England,3,19.0,0,0,£1383.59,No
+Mr Uscher Paulner,male,France,3,,0,0,£831.35,No
+Mr Stefo Pavlovic,male,England,3,32.0,0,0,£753.42,No
+Master Alfred Edward Peacock,male,England,3,0.75,1,1,£1314.41,No
+Miss Treasteall Peacock,female,England,3,3.0,1,1,£1314.41,No
+Mrs Benjamin (Edith Nile) Peacock,female,England,3,26.0,0,2,£1314.41,No
+Mr Ernest Pearce,male,England,3,,0,0,£667.94,No
+Mr Olaf Pedersen,male,England,3,,0,0,£741.89,No
+Mr Joseph Peduzzi,male,England,3,,0,0,£768.13,No
+Mr Edvard Pekoniemi,male,England,3,21.0,0,0,£756.20,No
+Mr Nikolai Johannes Peltomaki,male,England,3,25.0,0,0,£756.20,No
+Mr John Henry Perkin,male,England,3,22.0,0,0,£691.79,No
+Mr Ernst Ulrik Persson,male,England,3,25.0,1,0,£741.89,Yes
+Master Michael J Peter,male,France,3,,1,1,£2133.43,Yes
+Miss Anna Peter,female,France,3,,1,1,£2133.43,Yes
+Mrs Catherine (Catherine Rizk) Peter,female,France,3,,0,2,£2133.43,Yes
+Miss Katie Peters,female,Ireland,3,,0,0,£776.48,No
+Mr Marius Petersen,male,England,3,24.0,0,0,£768.13,No
+Miss Matilda Petranec,female,England,3,28.0,0,0,£753.42,No
+Mr Nedelio Petroff,male,England,3,19.0,0,0,£753.42,No
+"Mr Pastcho (""Pentcho"") Petroff",male,England,3,,0,0,£753.42,No
+Mr Johan Emil Petterson,male,England,3,25.0,1,0,£741.89,No
+Miss Ellen Natalia Pettersson,female,England,3,18.0,0,0,£741.89,No
+Mr Berk (Berk Trembisky) Pickard,male,England,3,32.0,0,0,£768.13,Yes
+Mr Vasil Plotcharsky,male,England,3,,0,0,£753.42,No
+Mr Mate Pokrnic,male,England,3,17.0,0,0,£826.58,No
+Mr Tome Pokrnic,male,England,3,24.0,0,0,£826.58,No
+Mr Alexander Radeff,male,England,3,,0,0,£753.42,No
+Mrs (Lena Jacobsen Solvang) Rasmussen,female,England,3,,0,0,£774.09,No
+Mr Raihed Razi,male,France,3,,0,0,£689.81,No
+Mr James George Reed,male,England,3,,0,0,£691.79,No
+Mr Tido Rekic,male,England,3,38.0,0,0,£753.42,No
+Mr Harold J Reynolds,male,England,3,21.0,0,0,£768.13,No
+Master Albert Rice,male,Ireland,3,10.0,4,1,£2779.11,No
+Master Arthur Rice,male,Ireland,3,4.0,4,1,£2779.11,No
+Master Eric Rice,male,Ireland,3,7.0,4,1,£2779.11,No
+Master Eugene Rice,male,Ireland,3,2.0,4,1,£2779.11,No
+Master George Hugh Rice,male,Ireland,3,8.0,4,1,£2779.11,No
+Mrs William (Margaret Norton) Rice,female,Ireland,3,39.0,0,5,£2779.11,No
+"Miss Susanna Juhantytar ""Sanni"" Riihivouri",female,England,3,22.0,0,0,£3786.98,No
+Mr Matti Rintamaki,male,England,3,35.0,0,0,£679.87,No
+"Miss Johanna ""Hannah"" Riordan",female,Ireland,3,,0,0,£736.72,Yes
+Mr Samuel Beard Risien,male,England,3,,0,0,£1383.59,No
+Mrs Samuel (Emma) Risien,female,England,3,,0,0,£1383.59,No
+Mr Alexander A Robins,male,England,3,50.0,1,0,£1383.59,No
+Mrs Alexander A (Grace Charity Laury) Robins,female,England,3,47.0,1,0,£1383.59,No
+Mr William John Rogers,male,England,3,,0,0,£768.13,No
+Mr Knud Paust Rommetvedt,male,England,3,,0,0,£741.89,No
+Miss Salli Helena Rosblom,female,England,3,2.0,1,1,£1928.68,No
+Mr Viktor Richard Rosblom,male,England,3,18.0,1,1,£1928.68,No
+Mrs Viktor (Helena Wilhelmina) Rosblom,female,England,3,41.0,0,2,£1928.68,No
+Miss Sarah A Roth,female,England,3,,0,0,£768.13,Yes
+Mr Richard Henry Rouse,male,England,3,50.0,0,0,£768.13,No
+Mr Alfred George John Rush,male,England,3,16.0,0,0,£768.13,No
+Mr Edward Ryan,male,Ireland,3,,0,0,£739.50,Yes
+Mr Patrick Ryan,male,Ireland,3,,0,0,£2304.39,No
+Mr Amin Saad,male,France,3,,0,0,£689.81,No
+Mr Khalil Saad,male,France,3,25.0,0,0,£689.41,No
+Mr Jean Nassr Saade,male,France,3,,0,0,£689.41,No
+Mr Matthew Sadlier,male,Ireland,3,,0,0,£737.52,No
+Mr Harry Sadowitz,male,England,3,,0,0,£722.81,No
+Mr Simon Sivertsen Saether,male,England,3,38.5,0,0,£691.79,No
+Master Thomas Henry Sage,male,England,3,,8,2,£6636.46,No
+Master William Henry Sage,male,England,3,14.5,8,2,£6636.46,No
+Miss Ada Sage,female,England,3,,8,2,£6636.46,No
+Miss Constance Gladys Sage,female,England,3,,8,2,£6636.46,No
+"Miss Dorothy Edith ""Dolly"" Sage",female,England,3,,8,2,£6636.46,No
+Miss Stella Anna Sage,female,England,3,,8,2,£6636.46,No
+Mr Douglas Bullen Sage,male,England,3,,8,2,£6636.46,No
+Mr Frederick Sage,male,England,3,,8,2,£6636.46,No
+Mr George John Jr Sage,male,England,3,,8,2,£6636.46,No
+Mr John George Sage,male,England,3,,1,9,£6636.46,No
+Mrs John (Annie Bullen) Sage,female,England,3,,1,9,£6636.46,No
+Mr Karl Johan Salander,male,England,3,24.0,0,0,£889.79,No
+Miss Anna Kristine Salkjelsvik,female,England,3,21.0,0,0,£729.96,Yes
+Mr Johan Werner Salonen,male,England,3,39.0,0,0,£756.20,No
+Mr Elias Samaan,male,France,3,,2,0,£2068.63,No
+Mr Hanna Samaan,male,France,3,,2,0,£2068.63,No
+Mr Youssef Samaan,male,France,3,,2,0,£2068.63,No
+Miss Beatrice Irene Sandstrom,female,England,3,1.0,1,1,£1593.51,Yes
+Mrs Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,England,3,24.0,0,2,£1593.51,Yes
+Miss Marguerite Rut Sandstrom,female,England,3,4.0,1,1,£1593.51,Yes
+Mr Julius Sap,male,England,3,25.0,0,0,£906.49,Yes
+Mr William Henry Saundercock,male,England,3,20.0,0,0,£768.13,No
+Mr Frederick Charles Sawyer,male,England,3,24.5,0,0,£768.13,No
+Mr James Scanlan,male,Ireland,3,,0,0,£737.12,No
+Mr Todor Sdycoff,male,England,3,,0,0,£753.42,No
+Mr Patrick Shaughnessy,male,Ireland,3,,0,0,£739.50,No
+Mr Jan Baptist Sheerlinck,male,England,3,29.0,0,0,£906.49,Yes
+Mr Frederick William Shellard,male,England,3,,0,0,£1440.84,No
+Miss Ellen Natalia Shine,female,Ireland,3,,0,0,£742.29,Yes
+Mr Charles Joseph Shorney,male,England,3,,0,0,£768.13,No
+Mr John Simmons,male,England,3,,0,0,£768.13,No
+Mr Orsen Sirayanian,male,France,3,22.0,0,0,£689.81,No
+Mr Maurice Sirota,male,England,3,,0,0,£768.13,No
+Mr Husein Sivic,male,England,3,40.0,0,0,£753.42,No
+Mr Antti Wilhelm Sivola,male,England,3,21.0,0,0,£756.20,No
+Miss Anna Sofia Sjoblom,female,England,3,18.0,0,0,£715.25,Yes
+Master Harald Skoog,male,England,3,4.0,3,2,£2662.22,No
+Master Karl Thorsten Skoog,male,England,3,10.0,3,2,£2662.22,No
+Miss Mabel Skoog,female,England,3,9.0,3,2,£2662.22,No
+Miss Margit Elizabeth Skoog,female,England,3,2.0,3,2,£2662.22,No
+Mr Wilhelm Skoog,male,England,3,40.0,1,4,£2662.22,No
+Mrs William (Anna Bernhardina Karlsson) Skoog,female,England,3,45.0,1,4,£2662.22,No
+Mr Petco Slabenoff,male,England,3,,0,0,£753.42,No
+Mr Selman Francis Slocovski,male,England,3,,0,0,£768.13,No
+Mr Mile Smiljanic,male,England,3,,0,0,£826.58,No
+Mr Thomas Smith,male,Ireland,3,,0,0,£739.50,No
+Miss Julia Smyth,female,Ireland,3,,0,0,£737.91,Yes
+Mr Peter Andreas Lauritz Andersen Soholt,male,England,3,19.0,0,0,£729.96,No
+Mr Francis William Somerton,male,England,3,30.0,0,0,£768.13,No
+Mr Woolf Spector,male,England,3,,0,0,£768.13,No
+Mr Henry John Spinner,male,England,3,32.0,0,0,£768.13,No
+Mr Ivan Staneff,male,England,3,,0,0,£753.42,No
+Mr Ivan Stankovic,male,France,3,33.0,0,0,£826.58,No
+Miss Amy Zillah Elsie Stanley,female,England,3,23.0,0,0,£720.42,Yes
+Mr Edward Roland Stanley,male,England,3,21.0,0,0,£768.13,No
+Mr Thomas Storey,male,England,3,60.5,0,0,£0.00,No
+Mr Ilia Stoytcheff,male,England,3,19.0,0,0,£753.42,No
+Miss Ida Sofia Strandberg,female,England,3,22.0,0,0,£938.69,No
+Mr Juho Stranden,male,England,3,31.0,0,0,£756.20,Yes
+Mr Ivan Strilic,male,England,3,27.0,0,0,£826.58,No
+Miss Telma Matilda Strom,female,England,3,2.0,0,1,£998.33,No
+Mrs Wilhelm (Elna Matilda Persson) Strom,female,England,3,29.0,1,1,£998.33,No
+Mr Victor Francis Sunderland,male,England,3,16.0,0,0,£768.13,Yes
+Mr Johan Julian Sundman,male,England,3,44.0,0,0,£756.20,Yes
+Mr Henry Jr Sutehall,male,England,3,25.0,0,0,£672.71,No
+Mr Johan Svensson,male,England,3,74.0,0,0,£741.89,No
+Mr Johan Cervin Svensson,male,England,3,14.0,0,0,£880.25,Yes
+Mr Olof Svensson,male,England,3,24.0,0,0,£743.88,No
+Mr Gunnar Isidor Tenglin,male,England,3,25.0,0,0,£743.88,Yes
+Mr Thomas Leonard Theobald,male,England,3,34.0,0,0,£768.13,No
+Master Assad Alexander Thomas,male,France,3,0.4167,0,1,£812.66,Yes
+Mr Charles P Thomas,male,France,3,,1,0,£614.27,No
+Mr John Thomas,male,France,3,,0,0,£614.27,No
+Mr Tannous Thomas,male,France,3,,0,0,£689.41,No
+"Mrs Alexander (Thamine ""Thelma"") Thomas",female,France,3,16.0,1,1,£812.66,Yes
+Mr Alexander Morrison Thomson,male,England,3,,0,0,£768.13,No
+Mr Percival Thorneycroft,male,England,3,,1,0,£1536.26,No
+Mrs Percival (Florence Kate White) Thorneycroft,female,England,3,,1,0,£1536.26,Yes
+Mr Juho Tikkanen,male,England,3,32.0,0,0,£756.20,No
+Mr Roger Tobin,male,Ireland,3,,0,0,£739.50,No
+Mr Lalio Todoroff,male,England,3,,0,0,£753.42,No
+Mr Ernest Portage Tomlin,male,England,3,30.5,0,0,£768.13,No
+Mr Ernst William Torber,male,England,3,44.0,0,0,£768.13,No
+Mr Assad Torfa,male,France,3,,0,0,£689.81,No
+Mr William Henry Tornquist,male,England,3,25.0,0,0,£0.00,Yes
+Mr Nakli Toufik,male,France,3,,0,0,£689.81,No
+Master Georges Youssef Touma,male,France,3,7.0,1,1,£1454.75,Yes
+Miss Maria Youssef Touma,female,France,3,9.0,1,1,£1454.75,Yes
+Mrs Darwis (Hanne Youssef Razi) Touma,female,France,3,29.0,0,2,£1454.75,Yes
+Mr Stjepan Turcin,male,England,3,36.0,0,0,£753.42,No
+Miss Anna Sofia Turja,female,England,3,18.0,0,0,£939.10,Yes
+Mrs (Hedwig) Turkula,female,England,3,63.0,0,0,£914.84,Yes
+Master James William van Billiard,male,England,3,,1,1,£1383.59,No
+Master Walter John van Billiard,male,England,3,11.5,1,1,£1383.59,No
+Mr Austin Blyler van Billiard,male,England,3,40.5,0,2,£1383.59,No
+Miss Catharina Van Impe,female,England,3,10.0,0,2,£2304.39,No
+Mr Jean Baptiste Van Impe,male,England,3,36.0,1,1,£2304.39,No
+Mrs Jean Baptiste (Rosalie Paula Govaert) Van Impe,female,England,3,30.0,1,1,£2304.39,No
+Mr Philemon van Melkebeke,male,England,3,,0,0,£906.49,No
+Mr Johannes Joseph Vande Velde,male,England,3,33.0,0,0,£906.49,No
+Mr Nestor Cyriel Vande Walle,male,England,3,28.0,0,0,£906.49,No
+Mr Leo Peter Vanden Steen,male,England,3,28.0,0,0,£906.49,No
+Mr Victor Vander Cruyssen,male,England,3,47.0,0,0,£858.78,No
+Miss Augusta Maria Vander Planke,female,England,3,18.0,2,0,£1717.56,No
+Mr Julius Vander Planke,male,England,3,31.0,3,0,£1717.56,No
+Mr Leo Edmondus Vander Planke,male,England,3,16.0,2,0,£1717.56,No
+Mrs Julius (Emelia Maria Vandemoortele) Vander Planke,female,England,3,31.0,1,0,£1717.56,No
+Mr David Vartanian,male,France,3,22.0,0,0,£689.41,Yes
+Mr Olof Edvin Vendel,male,England,3,20.0,0,0,£749.45,No
+Miss Hulda Amanda Adolfina Vestrom,female,England,3,14.0,0,0,£749.45,No
+Mr Janko Vovk,male,England,3,22.0,0,0,£753.42,No
+Mr Achille Waelens,male,England,3,22.0,0,0,£858.78,No
+Mr Frederick Ware,male,England,3,,0,0,£768.13,No
+Mr Charles William Warren,male,England,3,,0,0,£720.42,No
+Mr James Webber,male,England,3,,0,0,£768.13,No
+Mr Linhart Wenzel,male,England,3,32.5,0,0,£906.49,No
+Mrs George Joseph (Shawneene Abi-Saab) Whabee,female,France,3,38.0,0,0,£689.81,Yes
+Mr Carl/Charles Peter Widegren,male,England,3,51.0,0,0,£739.50,No
+Mr Jakob Alfred Wiklund,male,England,3,18.0,1,0,£619.83,No
+Mr Karl Johan Wiklund,male,England,3,21.0,1,0,£619.83,No
+Mrs James (Ellen Needs) Wilkes,female,England,3,47.0,1,0,£667.94,Yes
+"Mr Aaron (""Abi Weller"") Willer",male,England,3,,0,0,£831.35,No
+Mr Edward Willey,male,England,3,,0,0,£720.42,No
+"Mr Howard Hugh ""Harry"" Williams",male,England,3,,0,0,£768.13,No
+Mr Leslie Williams,male,England,3,28.5,0,0,£1536.26,No
+Mr Einar Windelov,male,England,3,21.0,0,0,£691.79,No
+Mr Albert Wirz,male,England,3,27.0,0,0,£826.58,No
+Mr Phillippe Wiseman,male,England,3,,0,0,£691.79,No
+Mr Camille Wittevrongel,male,England,3,36.0,0,0,£906.49,No
+Mr Antoni Yasbeck,male,France,3,27.0,1,0,£1379.22,No
+Mrs Antoni (Selini Alexander) Yasbeck,female,France,3,15.0,1,0,£1379.22,Yes
+Mr Gerious Youseff,male,France,3,45.5,0,0,£689.41,No
+Mr Wazli Yousif,male,France,3,,0,0,£689.41,No
+Mr Gerious Yousseff,male,France,3,,0,0,£1379.61,No
+Miss Hileni Zabour,female,France,3,14.5,1,0,£1379.22,No
+Miss Thamine Zabour,female,France,3,,1,0,£1379.22,No
+Mr Mapriededer Zakarian,male,France,3,26.5,0,0,£689.41,No
+Mr Ortin Zakarian,male,France,3,27.0,0,0,£689.41,No
+Mr Leo Zimmerman,male,England,3,29.0,0,0,£751.43,No

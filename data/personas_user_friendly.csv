@@ -1,0 +1,8 @@
+id,Sex,Embarked,Passenger Class,Age,Siblings / Spouse,Parents / Children,Fare
+1,None,None,None,None,None
+2,male,England,1,9,2,2,7244
+3,female,France,2,7,3,1,2685
+4,male,Ireland,3,38,1,0,675
+5,female,England,3,27,1,4,887
+6,male,France,2,71,0,5,2555
+7,female,Ireland,1,64,1,1,8475

@@ -1,0 +1,1310 @@
+Name,Sex,Embarked,Pclass,Age,SibSp,Parch,Fare,Survived
+Miss Elisabeth Walton Allen,female,S,1,29,0,0,20165.82425,1
+Master Hudson Trevor Allison,male,S,1,0.9167,1,2,14460.901,1
+Miss Helen Loraine Allison,female,S,1,2,1,2,14460.901,0
+Mr Hudson Joshua Creighton Allison,male,S,1,30,1,2,14460.901,0
+Mrs Hudson J C (Bessie Waldo Daniels) Allison,female,S,1,25,1,2,14460.901,0
+Mr Harry Anderson,male,S,1,48,0,0,2533.401,1
+Miss Kornelia Theodosia Andrews,female,S,1,63,1,0,7438.780986,1
+Mr Thomas Jr Andrews,male,S,1,39,0,0,0,0
+Mrs Edward Dale (Charlotte Lamson) Appleton,female,S,1,53,2,0,4912.145264,1
+Mr Ramon Artagaveytia,male,C,1,71,0,0,4723.690764,0
+Col John Jacob Astor,male,C,1,47,1,0,21710.4355,0
+Mrs John Jacob (Madeleine Talmadge Force) Astor,female,C,1,18,1,0,21710.4355,1
+Mme Leontine Pauline Aubart,female,C,1,24,0,0,6612.606,1
+"Miss Ellen ""Nellie"" Barber",female,S,1,26,0,0,7523.867,1
+Mr Algernon Henry Wilson Barkworth,male,S,1,80,0,0,2862.6,1
+Mr John D Baumann,male,S,1,,0,0,2473.7635,0
+Mr Quigg Edmond Baxter,male,C,1,24,0,1,23618.43474,0
+Mrs James (Helene DeLaudeniere Chaput) Baxter,female,C,1,50,0,1,23618.43474,1
+Miss Albina Bazzani,female,C,1,32,0,0,7279.754014,1
+Mr Thomson Beattie,male,C,1,36,0,0,7179.563014,0
+Mr Richard Leonard Beckwith,male,S,1,37,1,1,5014.721764,1
+Mrs Richard Leonard (Sallie Monypeny) Beckwith,female,S,1,47,1,1,5014.721764,1
+Mr Karl Howell Behr,male,C,1,26,0,0,2862.6,1
+Miss Rosalie Bidois,female,C,1,42,0,0,21710.4355,1
+Miss Ellen Bird,female,S,1,29,0,0,21162.17126,1
+Mr Jakob Birnbaum,male,C,1,25,0,0,2480.92,0
+Mr Dickinson H Bishop,male,C,1,25,1,0,8690.777264,1
+Mrs Dickinson H (Helen Walton) Bishop,female,C,1,19,1,0,8690.777264,1
+Miss Amelia Bissette,female,S,1,35,0,0,12942.12949,1
+Mr Mauritz Hakan Bjornstrom-Steffansson,male,S,1,28,0,0,2533.401,1
+Mr Stephen Weart Blackwell,male,S,1,45,0,0,3387.41,0
+Mr Henry Blank,male,C,1,40,0,0,2958.02,1
+Miss Caroline Bonnell,female,S,1,30,0,0,15731.58051,1
+Miss Elizabeth Bonnell,female,S,1,58,0,0,2533.401,1
+Mr John James Borebank,male,S,1,42,0,0,2533.401,0
+Miss Grace Scott Bowen,female,C,1,45,0,0,25035.8225,1
+Miss Elsie Edith Bowerman,female,S,1,22,0,1,5248.1,1
+"Mr George (""George Arthur Brayton"") Bradley",male,S,1,,0,0,2533.401,1
+Mr John Bertram Brady,male,S,1,41,0,0,2910.31,0
+Mr Emil Brandeis,male,C,1,48,0,0,4818.309236,0
+Dr Arthur Jackson Brewe,male,C,1,,0,0,3778.632,0
+Mrs James Joseph (Margaret Tobin) Brown,female,C,1,44,0,0,2645.118736,1
+Mrs John Murray (Caroline Lane Lamson) Brown,female,S,1,59,2,0,4912.145264,1
+Mrs William Robert (Emma Eliza Ward) Bucknell,female,C,1,60,0,0,7279.754014,1
+Miss Elizabeth Margaret Burns,female,C,1,41,0,0,12833.99,1
+Major Archibald Willingham Butt,male,S,1,45,0,0,2533.401,0
+Mr Alexander Cairns,male,S,1,,0,0,2958.02,0
+Mr Edward Pennington Calderhead,male,S,1,42,0,0,2508.35325,1
+Mrs Edward (Helen Churchill Hungerford) Candee,female,C,1,53,0,0,2618.878236,1
+Mr Thomas Drake Martinez Cardeza,male,C,1,36,0,1,48886.45226,1
+Mrs James Warburton Martinez (Charlotte Wardle Drake) Cardeza,female,C,1,58,0,1,48886.45226,1
+Mr Frans Olof Carlsson,male,S,1,33,0,0,477.1,0
+Mr Francisco M Carrau,male,S,1,28,0,0,4494.282,0
+Mr Jose Pedro Carrau,male,S,1,17,0,0,4494.282,0
+Master William Thornton II Carter,male,S,1,11,1,2,11450.4,1
+Miss Lucile Polk Carter,female,S,1,14,1,2,11450.4,1
+Mr William Ernest Carter,male,S,1,36,1,2,11450.4,1
+Mrs William Ernest (Lucile Polk) Carter,female,S,1,36,1,2,11450.4,1
+Mr Howard Brown Case,male,S,1,49,0,0,2480.92,0
+Mrs Henry Arthur Jr (Eleanor Genevieve Fosdick) Cassebeer,female,C,1,,0,0,2645.118736,1
+Mr Tyrell William Cavendish,male,S,1,36,1,0,7523.867,0
+Mrs Tyrell William (Julia Florence Siegel) Cavendish,female,S,1,76,1,0,7523.867,1
+Mr Herbert Fuller Chaffee,male,S,1,46,1,0,5837.3185,0
+Mrs Herbert Fuller (Carrie Constance Toogood) Chaffee,female,S,1,47,1,0,5837.3185,1
+Mr Norman Campbell Chambers,male,S,1,27,1,0,5066.802,1
+Mrs Norman Campbell (Bertha Griggs) Chambers,female,S,1,33,1,0,5066.802,1
+Miss Victorine Chaudanson,female,C,1,36,0,0,25035.8225,1
+Miss Gladys Cherry,female,S,1,30,0,0,8253.83,1
+Mr Paul Romaine Chevre,male,C,1,45,0,0,2833.974,1
+Mrs (Edith Martha Bowerman) Chibnall,female,S,1,,0,1,5248.1,1
+Mr Roderick Robert Crispin Chisholm,male,S,1,,0,0,0,0
+Mr Walter Miller Clark,male,C,1,27,1,0,13051.47126,0
+Mrs Walter Miller (Virginia McDowell) Clark,female,C,1,26,1,0,13051.47126,1
+Miss Alice Cleaver,female,S,1,22,0,0,14460.901,1
+Mr George Quincy Clifford,male,S,1,,0,0,4961.84,0
+Mr Edward Pomeroy Colley,male,S,1,47,0,0,2441.55925,0
+Miss Sara Rebecca Compton,female,C,1,39,1,1,7934.964986,1
+Mr Alexander Taylor Jr Compton,male,C,1,37,1,1,7934.964986,0
+Mrs Alexander Taylor (Mary Eliza Ingersoll) Compton,female,C,1,64,0,2,7934.964986,1
+Mrs Robert Clifford (Malvina Helen Lamson) Cornell,female,S,1,55,2,0,2452.294,1
+Mr John Bertram Crafton,male,S,1,,0,0,2533.401,0
+Capt Edward Gifford Crosby,male,S,1,70,1,1,6774.82,0
+Miss Harriet R Crosby,female,S,1,36,0,2,6774.82,1
+Mrs Edward Gifford (Catherine Elizabeth Halstead) Crosby,female,S,1,64,1,1,2533.401,1
+Mr John Bradley Cumings,male,C,1,39,1,0,6801.852486,0
+Mrs John Bradley (Florence Briggs Thayer) Cumings,female,C,1,38,1,0,6801.852486,1
+Mr Peter Denis Daly,male,S,1,51,0,0,2533.401,1
+Mr Robert Williams Daniel,male,S,1,27,0,0,2910.31,1
+Miss Sarah Daniels,female,S,1,33,0,0,14460.901,1
+Mr Thornton Davidson,male,S,1,31,1,0,4961.84,0
+Mrs Thornton (Orian Hays) Davidson,female,S,1,27,1,2,4961.84,1
+Mr Albert Adrian Dick,male,S,1,31,1,0,5438.94,1
+Mrs Albert Adrian (Vera Gillespie) Dick,female,S,1,17,1,0,5438.94,1
+Dr Washington Dodge,male,S,1,53,1,1,7810.918986,1
+Master Washington Dodge,male,S,1,4,0,2,7810.918986,1
+Mrs Washington (Ruth Vidaver) Dodge,female,S,1,54,1,1,7810.918986,1
+Mr Walter Donald Douglas,male,C,1,50,1,0,10155.0735,0
+Mrs Frederick Charles (Mary Helene Baxter) Douglas,female,C,1,27,1,1,23618.43474,1
+Mrs Walter Donald (Mahala Dutton) Douglas,female,C,1,48,1,0,10155.0735,1
+"Lady (Lucille Christiana Sutherland) (""Mrs Morgan"") Duff Gordon",female,C,1,48,1,0,3778.632,1
+"Sir Cosmo Edmund (""Mr Morgan"") Duff Gordon",male,C,1,49,1,0,5432.184264,1
+Mr William Crothers Dulles,male,C,1,39,0,0,2833.974,0
+Mrs Boulton (Olive Potter) Earnshaw,female,C,1,23,0,1,7934.964986,1
+Miss Caroline Louise Endres,female,C,1,38,0,0,21710.4355,1
+Miss Elizabeth Mussey Eustis,female,C,1,54,1,0,7468.208514,1
+Miss Edith Corse Evans,female,C,1,36,0,0,3022.829264,0
+Mr John Farthing,male,S,1,,0,0,21162.17126,0
+Mrs Alfred (Antoinette) Flegenheim,female,S,1,,0,0,3023.220486,1
+Miss Margaret Fleming,female,C,1,,0,0,10580.48449,1
+"Mr John Irwin (""Irving"") Flynn",male,S,1,36,0,0,2517.89525,1
+Mr Benjamin Laventall Foreman,male,C,1,30,0,0,2647.905,0
+Miss Alice Elizabeth Fortune,female,S,1,24,3,2,25095.46,1
+Miss Ethel Flora Fortune,female,S,1,28,3,2,25095.46,1
+Miss Mabel Helen Fortune,female,S,1,23,3,2,25095.46,1
+Mr Charles Alexander Fortune,male,S,1,19,3,2,25095.46,0
+Mr Mark Fortune,male,S,1,64,1,4,25095.46,0
+Mrs Mark (Mary McDougald) Fortune,female,S,1,60,1,4,25095.46,1
+Miss Laura Mabel Francatelli,female,C,1,30,0,0,5432.184264,1
+Mr Thomas Parham Franklin,male,S,1,,0,0,2533.401,0
+Dr Henry William Frauenthal,male,S,1,50,2,0,12752.883,1
+Mr Isaac Gerald Frauenthal,male,C,1,43,1,0,2645.118736,1
+Mrs Henry William (Clara Heinsheimer) Frauenthal,female,S,1,,1,0,12752.883,1
+Miss Hedwig Margaritha Frolicher,female,C,1,22,0,2,4723.29,1
+Mr Maxmillian Frolicher-Stehli,male,C,1,60,1,1,7557.264,1
+Mrs Maxmillian (Margaretha Emerentia Stehli) Frolicher-Stehli,female,C,1,48,1,1,7557.264,1
+Mr Richard Fry,male,S,1,,0,0,0,0
+Mr Jacques Heath Futrelle,male,S,1,37,1,0,5066.802,0
+Mrs Jacques Heath (Lily May Peel) Futrelle,female,S,1,35,1,0,5066.802,1
+Mr Arthur H Gee,male,S,1,47,0,0,3673.67,0
+Miss Amalie Geiger,female,C,1,35,0,0,20181.33,1
+Miss Dorothy Winifred Gibson,female,C,1,22,0,1,5667.948,1
+Mrs Leonard (Pauline C Boeson) Gibson,female,C,1,45,0,1,5667.948,1
+Mr Victor Giglio,male,C,1,24,0,0,7557.264,0
+Mr Samuel L Goldenberg,male,C,1,49,1,0,8502.322764,1
+Mrs Samuel L (Edwiga Grabowska) Goldenberg,female,C,1,,1,0,8502.322764,1
+Mr George B Goldschmidt,male,C,1,71,0,0,3306.703764,0
+Col Archibald IV Gracie,male,C,1,53,0,0,2719.47,1
+Miss Margaret Edith Graham,female,S,1,19,0,0,2862.6,1
+Mr George Edward Graham,male,S,1,38,0,1,14643.39175,0
+Mrs William Thompson (Edith Junkins) Graham,female,S,1,58,0,1,14643.39175,1
+Mr William Bertram Greenfield,male,C,1,23,0,1,6045.648986,1
+Mrs Leo David (Blanche Strouse) Greenfield,female,C,1,45,0,1,6045.648986,1
+Mr Benjamin Guggenheim,male,C,1,46,0,0,7557.264,0
+Mr George Achilles Harder,male,C,1,25,1,0,5290.247014,1
+Mrs George Achilles (Dorothy Annan) Harder,female,C,1,25,1,0,5290.247014,1
+Mr Henry Sleeper Harper,male,C,1,48,1,0,7321.500264,1
+Mrs Henry Sleeper (Myna Haxtun) Harper,female,C,1,49,1,0,7321.500264,1
+Mr Charles H Harrington,male,S,1,,0,0,4045.808,0
+Mr Henry Birkhardt Harris,male,S,1,45,1,0,7965.1845,0
+Mrs Henry Birkhardt (Irene Wallach) Harris,female,S,1,35,1,0,7965.1845,1
+Mr William Harrison,male,S,1,40,0,0,0,0
+Mr Hammad Hassab,male,C,1,27,0,0,7321.500264,1
+Mr Walter James Hawksford,male,S,1,,0,0,2862.6,1
+Miss Margaret Bechstein Hays,female,C,1,24,0,0,7934.964986,1
+Mr Charles Melville Hays,male,S,1,55,1,1,8921.77,0
+Mrs Charles Melville (Clara Jennings Gregg) Hays,female,S,1,52,1,1,8921.77,1
+Mr Christopher Head,male,S,1,42,0,0,4055.35,0
+Mr Herbert Henry Hilliard,male,S,1,,0,0,4948.71975,0
+Mr William Edward Hipkins,male,S,1,55,0,0,4771,0
+Miss Jean Gertrude Hippach,female,C,1,16,0,1,5532.375264,1
+Mrs Louis Albert (Ida Sophia Fischer) Hippach,female,C,1,44,0,1,5532.375264,1
+Mrs John C (Anna Andrews) Hogeboom,female,S,1,51,1,0,7438.780986,1
+Mr Alexander Oskar Holverson,male,S,1,42,1,0,4961.84,0
+Mrs Alexander Oskar (Mary Aline Towner) Holverson,female,S,1,35,1,0,4961.84,1
+"Mr Harry (""Mr E Haven"") Homer",male,C,1,35,0,0,2533.401,1
+Mr Frederick Maxfield Hoyt,male,S,1,38,1,0,8587.8,1
+Mr William Fisher Hoyt,male,C,1,,0,0,2928.993236,0
+Mrs Frederick Maxfield (Jane Anne Forby) Hoyt,female,S,1,35,1,0,8587.8,1
+Miss Amelie Icard,female,,1,38,0,0,7633.6,1
+Miss Ann Elizabeth Isham,female,C,1,50,0,0,2739.74675,0
+Mr Joseph Bruce Ismay,male,S,1,49,0,0,0,1
+Mr Charles Cresson Jones,male,S,1,46,0,0,2480.92,0
+Mr Henry Forbes Julian,male,S,1,50,0,0,2480.92,0
+Mr Edwin Keeping,male,C,1,32.5,0,0,20181.33,0
+Mr Edward Austin Kent,male,C,1,58,0,0,2833.974,0
+Mr Frederick R Kenyon,male,S,1,41,1,0,4948.71975,0
+Mrs Frederick R (Marion) Kenyon,female,S,1,,1,0,4948.71975,1
+Mr Edwin Nelson Jr Kimball,male,S,1,42,1,0,5014.721764,1
+Mrs Edwin Nelson Jr (Gertrude Parsons) Kimball,female,S,1,45,1,0,5014.721764,1
+Mr Herman Klaber,male,S,1,,0,0,2533.401,0
+Miss Emilie Kreuchen,female,S,1,39,0,0,20165.82425,1
+Dr Alice (Farnham) Leader,female,S,1,49,0,0,2474.164264,1
+Miss Bertha LeRoy,female,C,1,30,0,0,10155.0735,1
+Mr Gustave J Lesurer,male,C,1,35,0,0,48886.45226,1
+Mr Ervin G Lewy,male,C,1,,0,0,2645.118736,0
+"Mr Erik Gustaf (""Mr Edward Lingrey"") Lindeberg-Lind",male,S,1,42,0,0,2533.401,0
+Mrs Carl Johan (Sigrid Posse) Lindstrom,female,C,1,55,0,0,2645.118736,1
+Miss Mary Conover Lines,female,S,1,16,0,1,3759.548,1
+Mrs Ernest H (Elizabeth Lindsey James) Lines,female,S,1,51,0,1,3759.548,1
+Mr Milton Clyde Long,male,S,1,29,0,0,2862.6,0
+Miss Gretchen Fiske Longley,female,S,1,21,0,0,7438.780986,1
+Mr Joseph Holland Loring,male,S,1,30,0,0,4341.61,0
+Miss Elise Lurette,female,C,1,58,0,0,13981.01474,1
+Miss Georgette Alexandra Madill,female,S,1,15,0,1,20165.82425,1
+Mr John Edward Maguire,male,S,1,30,0,0,2480.92,0
+Miss Roberta Maioni,female,S,1,16,0,0,8253.83,1
+Mr Pierre Marechal,male,C,1,,0,0,2833.974,1
+Mr Daniel Warner Marvin,male,S,1,19,1,0,5066.802,0
+Mrs Daniel Warner (Mary Graham Carmichael Farquarson) Marvin,female,S,1,18,1,0,5066.802,1
+"Mlle Berthe Antonine (""Mrs de Villiers"") Mayne",female,C,1,24,0,0,4723.690764,1
+Mr Thomas Francis McCaffry,male,C,1,46,0,0,7179.563014,0
+Mr Timothy J McCarthy,male,S,1,54,0,0,4948.71975,0
+Mr James Robert McGough,male,S,1,36,0,0,2508.35325,1
+Mr Edgar Joseph Meyer,male,C,1,28,1,0,7840.737736,0
+Mrs Edgar Joseph (Leila Saks) Meyer,female,C,1,,1,0,7840.737736,1
+Mr Francis Davis Millet,male,S,1,65,0,0,2533.401,0
+Dr William Edward Minahan,male,Q,1,44,2,0,8587.8,0
+Miss Daisy E Minahan,female,Q,1,33,1,0,8587.8,1
+Mrs William Edward (Lillian E Thorpe) Minahan,female,Q,1,37,1,0,8587.8,1
+Mr Philipp Edmund Mock,male,C,1,30,1,0,5510.505,1
+Mr Harry Markland Molson,male,S,1,55,0,0,2910.31,0
+Mr Clarence Bloomfield Moore,male,S,1,47,0,0,4045.808,0
+Mr Charles H Natsch,male,C,1,37,0,1,2833.974,0
+Miss Madeleine Newell,female,C,1,31,1,0,10808.7005,1
+Miss Marjorie Newell,female,C,1,23,1,0,10808.7005,1
+Mr Arthur Webster Newell,male,C,1,58,0,2,10808.7005,0
+Miss Helen Monypeny Newsom,female,S,1,19,0,2,2507.952486,1
+Mr Arthur Ernest Nicholson,male,S,1,64,0,0,2480.92,0
+Dona Fermina Oliva y Ocana,female,C,1,39,0,0,10391.238,1
+Mr Alfred Fernand Omont,male,C,1,,0,0,2456.273014,1
+Miss Helene Ragnhild Ostby,female,C,1,22,0,1,5914.055264,1
+Mr Engelhart Cornelius Ostby,male,C,1,65,0,1,5914.055264,0
+Mr Servando Ovies y Rodriguez,male,C,1,28.5,0,0,2645.118736,0
+Mr William Henry Marsh Parr,male,S,1,,0,0,0,0
+Mr Austen Partner,male,S,1,45.5,0,0,2719.47,0
+Mr Vivian Ponsonby Payne,male,S,1,23,0,0,8921.77,0
+Mr Thomas Clinton Pears,male,S,1,29,1,0,6354.972,0
+Mrs Thomas (Edith Wearne) Pears,female,S,1,22,1,0,6354.972,1
+Mr Victor de Satode Penasco y Castellana,male,C,1,18,1,0,10391.238,0
+Mrs Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,female,C,1,17,1,0,10391.238,1
+Miss Anne Perreault,female,S,1,30,0,0,8921.77,1
+Major Arthur Godfrey Peuchen,male,S,1,52,0,0,2910.31,1
+Mr Walter Chamberlain Porter,male,S,1,47,0,0,4961.84,0
+Mrs Thomas Jr (Lily Alexenia Wilson) Potter,female,C,1,56,0,1,7934.964986,1
+Jonkheer John George Reuchlin,male,S,1,38,0,0,0,0
+Mr George Alexander Lucien Rheims,male,S,1,,0,0,3778.632,1
+Mr Sante Ringhini,male,C,1,22,0,0,12942.12949,0
+Mr Victor Robbins,male,C,1,,0,0,21710.4355,0
+Mrs Edward Scott (Elisabeth Walton McMillan) Robert,female,S,1,43,0,1,20165.82425,1
+Mr Washington Augustus II Roebling,male,S,1,31,0,0,4818.309236,0
+"Mr Charles Hallace (""Mr C Rolmane"") Romaine",male,S,1,45,0,0,2533.401,1
+Mr Hugh Roscoe Rood,male,S,1,,0,0,4771,0
+Miss Edith Louise Rosenbaum,female,C,1,33,0,0,2645.118736,1
+"Mr George (""Mr George Thorne"") Rosenshine",male,C,1,46,0,0,7557.264,0
+Mr John Hugo Ross,male,C,1,36,0,0,3828.7275,0
+the Countess of (Lucy Noel Martha Dyer-Edwards) Rothes,female,S,1,33,0,0,8253.83,1
+Mr Martin Rothschild,male,C,1,55,1,0,5667.948,0
+Mrs Martin (Elizabeth L Rothschild,female,C,1,54,1,0,5667.948,1
+Mr Alfred G Rowe,male,S,1,33,0,0,2533.401,0
+Master John Borie Ryerson,male,C,1,13,2,2,25035.8225,1
+Miss Emily Borie Ryerson,female,C,1,18,2,2,25035.8225,1
+"Miss Susan Parker ""Suzette"" Ryerson",female,C,1,21,2,2,25035.8225,1
+Mr Arthur Larned Ryerson,male,C,1,61,1,3,25035.8225,0
+Mrs Arthur Larned (Emily Maria Borie) Ryerson,female,C,1,48,1,3,25035.8225,1
+Mr Adolphe Saalfeld,male,S,1,,0,0,2910.31,1
+Mlle Emma Sagesser,female,C,1,24,0,0,6612.606,1
+Mr Abraham L Salomon,male,S,1,,0,0,2480.92,1
+Mrs Paul (Emma Mock) Schabert,female,C,1,35,1,0,5510.505,1
+Miss Augusta Serepeca,female,C,1,30,0,0,2958.02,1
+Mr Frederic Kimber Seward,male,S,1,34,0,0,2533.401,1
+Miss Elizabeth W Shutes,female,S,1,40,0,0,14643.39175,1
+Mr Spencer Victor Silverthorne,male,S,1,35,0,0,2508.35325,1
+Mr William Baird Silvey,male,S,1,50,1,0,5333.978,0
+Mrs William Baird (Alice Munger) Silvey,female,S,1,39,1,0,5333.978,1
+Col Oberst Alfons Simonius-Blumer,male,C,1,56,0,0,3387.41,1
+Mr William Thompson Sloper,male,S,1,28,0,0,3387.41,1
+Mr John Montgomery Smart,male,S,1,56,0,0,2533.401,0
+Mr James Clinch Smith,male,C,1,56,0,0,2928.993236,0
+Mr Lucien Philip Smith,male,S,1,24,1,0,5725.2,0
+Mr Richard William Smith,male,S,1,,0,0,2480.92,0
+Mrs Lucien Philip (Mary Eloise Hughes) Smith,female,S,1,18,1,0,5725.2,1
+Mr John Pillsbury Snyder,male,S,1,24,1,0,7849.888514,1
+Mrs John Pillsbury (Nelle Stevenson) Snyder,female,S,1,23,1,0,7849.888514,1
+Master Robert Douglas Spedden,male,C,1,6,0,2,12833.99,1
+Mr Frederic Oakley Spedden,male,C,1,45,1,1,12833.99,1
+Mrs Frederic Oakley (Margaretta Corning Stone) Spedden,female,C,1,40,1,1,12833.99,1
+Mr William Augustus Spencer,male,C,1,57,1,0,13981.01474,0
+Mrs William Augustus (Marie Eugenie) Spencer,female,C,1,,1,0,13981.01474,1
+Dr Max Stahelin-Maeglin,male,C,1,32,0,0,2910.31,1
+Mr William Thomas Stead,male,S,1,62,0,0,2533.401,0
+Mr Charles Emil Henry Stengel,male,C,1,54,1,0,5290.247014,1
+Mrs Charles Emil Henry (Annie May Morris) Stengel,female,C,1,43,1,0,5290.247014,1
+Mrs Walter Bertram (Martha Eustis) Stephenson,female,C,1,52,1,0,7468.208514,1
+Mr Albert A Stewart,male,C,1,,0,0,2645.118736,0
+Mrs George Nelson (Martha Evelyn) Stone,female,,1,62,0,0,7633.6,1
+Mr Isidor Straus,male,S,1,67,1,0,21162.17126,0
+Mrs Isidor (Rosalie Ida Blun) Straus,female,S,1,63,1,0,21162.17126,0
+Mr Frederick Sutton,male,S,1,61,0,0,3084.050736,0
+Mrs Frederick Joel (Margaret Welles Barron) Swift,female,S,1,48,0,0,2474.164264,1
+Miss Ruth Taussig,female,S,1,18,0,2,7600.203,1
+Mr Emil Taussig,male,S,1,52,1,1,7600.203,0
+Mrs Emil (Tillie Mandelbaum) Taussig,female,S,1,39,1,1,7600.203,1
+Mr Elmer Zebley Taylor,male,S,1,48,1,0,4961.84,1
+Mrs Elmer Zebley (Juliet Cummins Wright) Taylor,female,S,1,,1,0,4961.84,1
+Mr John Borland Thayer,male,C,1,49,1,1,10580.48449,0
+Mr John Borland Jr Thayer,male,C,1,17,0,2,10580.48449,1
+Mrs John Borland (Marian Longstreth Morris) Thayer,female,C,1,39,1,1,10580.48449,1
+Mrs Gertrude Maybelle Thorne,female,C,1,,0,0,7557.264,1
+Mr Gilbert Milligan Jr Tucker,male,C,1,31,0,0,2723.04825,1
+Don Manuel E Uruchurtu,male,C,1,40,0,0,2645.118736,0
+Mr Wyckoff Van der hoef,male,S,1,61,0,0,3196.57,0
+Mr William Anderson Walker,male,S,1,47,0,0,3246.264736,0
+Miss Anna Ward,female,C,1,35,0,0,48886.45226,1
+Mr Frank Manley Warren,male,C,1,64,1,0,7180.355,0
+Mrs Frank Manley (Anna Sophia Atkinson) Warren,female,C,1,60,1,0,7180.355,1
+Col John Weir,male,S,1,60,0,0,2533.401,0
+Mr Percival Wayland White,male,S,1,54,0,1,7374.77325,0
+Mr Richard Frasar White,male,S,1,21,0,1,7374.77325,0
+Mrs John Stuart (Ella Holmes) White,female,C,1,55,0,0,12942.12949,1
+Miss Mary Natalie Wick,female,S,1,31,0,2,15731.58051,1
+Mr George Dennick Wick,male,S,1,57,1,1,15731.58051,0
+Mrs George Dennick (Mary Hitchcock) Wick,female,S,1,45,1,1,15731.58051,1
+Mr George Dunton Widener,male,C,1,50,1,1,20181.33,0
+Mr Harry Elkins Widener,male,C,1,27,0,2,20181.33,0
+Mrs George Dunton (Eleanor Elkins) Widener,female,C,1,50,1,1,20181.33,1
+Miss Constance Willard,female,S,1,21,0,0,2533.401,1
+Mr Charles Duane Williams,male,C,1,51,0,1,5856.803264,0
+Mr Richard Norris II Williams,male,C,1,21,0,1,5856.803264,1
+Mr Fletcher Fellows Williams-Lambert,male,S,1,,0,0,3339.7,0
+Miss Helen Alice Wilson,female,C,1,31,0,0,12833.99,1
+Mr Hugh Woolner,male,S,1,,0,0,3387.41,1
+Mr George Wright,male,S,1,62,0,0,2533.401,0
+Miss Marie Grice Young,female,C,1,36,0,0,12942.12949,1
+Mr Samuel Abelson,male,C,2,30,1,0,2290.08,0
+Mrs Samuel (Hannah Wizosky) Abelson,female,C,2,28,1,0,2290.08,1
+Mr Charles Augustus Aldworth,male,S,2,30,0,0,1240.46,0
+Mr Edgardo Samuel Andrew,male,S,2,18,0,0,1097.33,0
+Mr Frank Thomas Andrew,male,S,2,25,0,0,1001.91,0
+Mr William A Angle,male,S,2,34,1,0,2480.92,0
+"Mrs William A (Florence ""Mary"" Agnes Hughes) Angle",female,S,2,36,1,0,2480.92,1
+Mr John Ashby,male,S,2,57,0,0,1240.46,0
+Mr Percy Andrew Bailey,male,S,2,18,0,0,1097.33,0
+Mr Charles Robert Baimbrigge,male,S,2,23,0,0,1001.91,0
+Mrs (Ada E Hall) Ball,female,S,2,36,0,0,1240.46,1
+Mr Frederick James Banfield,male,S,2,28,0,0,1001.91,0
+Rev Robert James Bateman,male,S,2,51,0,0,1195.1355,0
+Mr Edward Beane,male,S,2,32,1,0,2480.92,1
+Mrs Edward (Ethel Clarke) Beane,female,S,2,19,1,0,2480.92,1
+Mr Henry James Beauchamp,male,S,2,28,0,0,2480.92,0
+Master Richard F Becker,male,S,2,1,2,1,3721.38,1
+Miss Marion Louise Becker,female,S,2,4,2,1,3721.38,1
+Miss Ruth Elizabeth Becker,female,S,2,12,2,1,3721.38,1
+Mrs Allen Oliver (Nellie E Baumgardner) Becker,female,S,2,36,0,3,3721.38,1
+Mr Lawrence Beesley,male,S,2,34,0,0,1240.46,1
+Miss Lilian W Bentham,female,S,2,19,0,0,1240.46,1
+Mr William John Berriman,male,S,2,23,0,0,1240.46,0
+Mr William Hull Botsford,male,S,2,26,0,0,1240.46,0
+Mr Solomon Bowenur,male,S,2,42,0,0,1240.46,0
+Mr James H Bracken,male,S,2,27,0,0,1240.46,0
+"Miss Amelia ""Mildred"" Brown",female,S,2,24,0,0,1240.46,1
+Miss Edith Eileen Brown,female,S,2,15,0,2,3721.38,1
+Mr Thomas William Solomon Brown,male,S,2,60,1,1,3721.38,0
+Mrs Thomas William Solomon (Elizabeth Catherine Ford) Brown,female,S,2,40,1,1,3721.38,1
+Miss Dagmar Jenny Ingeborg Bryhl,female,S,2,20,1,0,2480.92,1
+Mr Kurt Arnold Gottfrid Bryhl,male,S,2,25,1,0,2480.92,0
+Miss Kate Buss,female,S,2,36,0,0,1240.46,1
+Mr Reginald Fenton Butler,male,S,2,25,0,0,1240.46,0
+Rev Thomas Roussel Davids Byles,male,S,2,42,0,0,1240.46,0
+Mrs (Karolina) Bystrom,female,S,2,42,0,0,1240.46,1
+Master Alden Gates Caldwell,male,S,2,0.8333,0,2,2767.18,1
+Mr Albert Francis Caldwell,male,S,2,26,1,1,2767.18,1
+Mrs Albert Francis (Sylvia Mae Harbaugh) Caldwell,female,S,2,22,1,1,2767.18,1
+Miss Clear Annie Cameron,female,S,2,35,0,0,2003.82,1
+Mr William Campbell,male,S,2,,0,0,0,0
+Mr William Carbines,male,S,2,19,0,0,1240.46,0
+Mrs Ernest Courtenay (Lilian Hughes) Carter,female,S,2,44,1,0,2480.92,0
+Rev Ernest Courtenay Carter,male,S,2,54,1,0,2480.92,0
+Mr Charles Henry Chapman,male,S,2,52,0,0,1288.17,0
+Mr John Henry Chapman,male,S,2,37,1,0,2480.92,0
+Mrs John Henry (Sara Elizabeth Lawry) Chapman,female,S,2,29,1,0,2480.92,0
+Miss Julie Rachel Christy,female,S,2,25,1,1,2862.6,1
+Mrs (Alice Frances) Christy,female,S,2,45,0,2,2862.6,1
+Mr Charles Valentine Clarke,male,S,2,29,1,0,2480.92,0
+Mrs Charles V (Ada Maria Winfield) Clarke,female,S,2,28,1,0,2480.92,1
+Mr Reginald Charles Coleridge,male,S,2,29,0,0,1001.91,0
+Mr Erik Gustaf Collander,male,S,2,28,0,0,1240.46,0
+Mr Sidney C Stuart Collett,male,S,2,24,0,0,1001.91,1
+"Miss Marjorie ""Lottie"" Collyer",female,S,2,8,0,2,2504.775,1
+Mr Harvey Collyer,male,S,2,31,1,1,2504.775,0
+Mrs Harvey (Charlotte Annie Tate) Collyer,female,S,2,31,1,1,2504.775,1
+Mrs (Selena Rogers) Cook,female,S,2,22,0,0,1001.91,1
+Mrs Walter H (Irene Colvin) Corbett,female,S,2,30,0,0,1240.46,0
+Mrs Percy C (Mary Phyllis Elizabeth Miller) Corey,female,S,2,,0,0,2003.82,0
+"Mr Henry ""Harry"" Cotterill",male,S,2,21,0,0,1097.33,0
+Mr Alfred Fleming Cunningham,male,S,2,,0,0,0,0
+Master John Morgan Jr Davies,male,S,2,8,1,1,3506.685,1
+Mr Charles Henry Davies,male,S,2,18,0,0,7013.37,0
+Mrs John Morgan (Elizabeth Agnes Mary White) Davies,female,S,2,48,0,2,3506.685,1
+Miss Mary Davis,female,S,2,28,0,0,1240.46,1
+Mr Jose Joaquim de Brito,male,S,2,32,0,0,1240.46,0
+Mr Percy William Deacon,male,S,2,17,0,0,7013.37,0
+Mr Sebastiano del Carlo,male,C,2,29,1,0,2645.118736,0
+Mrs Sebastiano (Argenia Genovesi) del Carlo,female,C,2,24,1,0,2645.118736,1
+Mr Herbert Denbury,male,S,2,25,0,0,3005.73,0
+Mr William Dibden,male,S,2,18,0,0,7013.37,0
+Miss Elsie Doling,female,S,2,18,0,1,2194.66,1
+Mrs John T (Ada Julia Bone) Doling,female,S,2,34,0,1,2194.66,1
+Mr William James Downton,male,S,2,54,0,0,2480.92,0
+Master Marshall Brines Drew,male,S,2,8,0,2,3101.15,1
+Mr James Vivian Drew,male,S,2,42,1,1,3101.15,0
+Mrs James Vivian (Lulu Thorne Christian) Drew,female,S,2,34,1,1,3101.15,1
+Miss Asuncion Duran y More,female,C,2,27,1,0,1322.358986,1
+Miss Florentina Duran y More,female,C,2,30,1,0,1322.358986,1
+Mr George Floyd Eitemiller,male,S,2,23,0,0,1240.46,0
+Mr Ingvar Enander,male,S,2,21,0,0,1240.46,0
+Mr Arne Jonas Fahlstrom,male,S,2,18,0,0,1240.46,0
+Mr Harry Faunthorpe,male,S,2,40,1,0,2480.92,0
+Mrs Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,female,S,2,29,1,0,2480.92,1
+Mr Joseph Charles Fillbrook,male,S,2,18,0,0,1001.91,0
+Mr Stanley Hubert Fox,male,S,2,36,0,0,1240.46,0
+"Mr Anthony Wood ""Archie"" Frost",male,S,2,,0,0,0,0
+Miss Annie Clemmer Funk,female,S,2,38,0,0,1240.46,0
+Mr Joseph J Fynney,male,S,2,35,0,0,2480.92,0
+Mr Harry Gale,male,S,2,38,1,0,2003.82,0
+Mr Shadrach Gale,male,S,2,34,1,0,2003.82,0
+Miss Ethel Garside,female,S,2,34,0,0,1240.46,1
+Mr Alfred Gaskell,male,S,2,16,0,0,2480.92,0
+Mr Lawrence Gavey,male,S,2,26,0,0,1001.91,0
+Mr William Gilbert,male,S,2,47,0,0,1001.91,0
+Mr Edgar Giles,male,S,2,21,1,0,1097.33,0
+Mr Frederick Edward Giles,male,S,2,21,1,0,1097.33,0
+Mr Ralph Giles,male,S,2,24,0,0,1288.17,0
+Mr John William Gill,male,S,2,24,0,0,1240.46,0
+Mr William Henry Gillespie,male,S,2,34,0,0,1240.46,0
+Mr Hans Kristensen Givard,male,S,2,30,0,0,1240.46,0
+Mr Samuel Greenberg,male,S,2,52,0,0,1240.46,0
+Mr Reginald Hale,male,S,2,30,0,0,1240.46,0
+Master Viljo Hamalainen,male,S,2,0.6667,1,1,1383.59,1
+Mrs William (Anna) Hamalainen,female,S,2,24,0,2,1383.59,1
+Mr William H Harbeck,male,S,2,44,0,0,1240.46,0
+"Miss Annie Jessie ""Nina"" Harper",female,S,2,6,0,1,3148.86,1
+Rev John Harper,male,S,2,28,0,1,3148.86,0
+Mr George Harris,male,S,2,62,0,0,1001.91,1
+Mr Walter Harris,male,S,2,30,0,0,1001.91,0
+Miss Eva Miriam Hart,female,S,2,7,0,2,2504.775,1
+Mr Benjamin Hart,male,S,2,43,1,1,2504.775,0
+Mrs Benjamin (Esther Ada Bloomfield) Hart,female,S,2,45,1,1,2504.775,1
+Miss Alice Herman,female,S,2,24,1,2,6202.3,1
+Miss Kate Herman,female,S,2,24,1,2,6202.3,1
+Mr Samuel Herman,male,S,2,49,1,2,6202.3,0
+Mrs Samuel (Jane Laver) Herman,female,S,2,48,1,2,6202.3,1
+Mrs (Mary D Kingcome) Hewlett,female,S,2,55,0,0,1526.72,1
+Mr Leonard Mark Hickman,male,S,2,24,2,0,7013.37,0
+Mr Lewis Hickman,male,S,2,32,2,0,7013.37,0
+Mr Stanley George Hickman,male,S,2,21,2,0,7013.37,0
+Miss Marta Hiltunen,female,S,2,18,1,1,1240.46,0
+"Miss Ellen ""Nellie"" Hocking",female,S,2,20,2,1,2194.66,1
+Mr Richard George Hocking,male,S,2,23,2,1,1097.33,0
+Mr Samuel James Metcalfe Hocking,male,S,2,36,0,0,1240.46,0
+Mrs Elizabeth (Eliza Needs) Hocking,female,S,2,54,1,3,2194.66,1
+Mr Henry Price Hodges,male,S,2,50,0,0,1240.46,0
+Mr Stephen Hold,male,S,2,44,1,0,2480.92,0
+Mrs Stephen (Annie Margaret Hill) Hold,female,S,2,29,1,0,2480.92,1
+Mr Ambrose Jr Hood,male,S,2,21,0,0,7013.37,0
+Mr Masabumi Hosono,male,S,2,42,0,0,1240.46,1
+Mr Benjamin Howard,male,S,2,63,1,0,2480.92,0
+Mrs Benjamin (Ellen Truelove Arman) Howard,female,S,2,60,1,0,2480.92,0
+Mr George Henry Hunt,male,S,2,33,0,0,1171.2805,0
+Miss Bertha Ilett,female,S,2,17,0,0,1001.91,1
+Mr Sidney Samuel Jacobsohn,male,S,2,42,1,0,2576.34,0
+Mrs Sidney Samuel (Amy Frances Christy) Jacobsohn,female,S,2,24,2,1,2576.34,1
+Mr John Denzil Jarvis,male,S,2,47,0,0,1431.3,0
+Mr Clifford Thomas Jefferys,male,S,2,24,2,0,3005.73,0
+Mr Ernest Wilfred Jefferys,male,S,2,22,2,0,3005.73,0
+Mr Stephen Curnow Jenkin,male,S,2,32,0,0,1001.91,0
+Mrs Amin S (Marie Marthe Thuillard) Jerwan,female,C,2,23,0,0,1316.004014,1
+Mr Sinai Kantor,male,S,2,34,1,0,2480.92,0
+Mrs Sinai (Miriam Sternin) Kantor,female,S,2,24,1,0,2480.92,1
+Mrs J Frank (Claire Bennett) Karnes,female,S,2,22,0,0,2003.82,0
+Miss Nora A Keane,female,Q,2,,0,0,1178.437,1
+Mr Daniel Keane,male,Q,2,35,0,0,1178.437,0
+"Mrs Florence ""Fannie"" Kelly",female,S,2,45,0,0,1288.17,1
+Rev Charles Leonard Kirkland,male,Q,2,57,0,0,1178.437,0
+Mr Robert J Knight,male,S,2,,0,0,0,0
+Mr Johan Henrik Johannesson Kvillner,male,S,2,31,0,0,1001.91,0
+Mrs William (Anna Sylfven) Lahtinen,female,S,2,26,1,1,2480.92,0
+Rev William Lahtinen,male,S,2,30,1,1,2480.92,0
+Mr John Joseph Lamb,male,Q,2,,0,0,1021.785986,0
+Miss Louise Laroche,female,C,2,1,1,2,3967.487264,1
+Miss Simonne Marie Anne Andree Laroche,female,C,2,3,1,2,3967.487264,1
+Mr Joseph Philippe Lemercier Laroche,male,C,2,25,1,2,3967.487264,0
+Mrs Joseph (Juliette Marie Louise Lafargue) Laroche,female,C,2,22,1,2,3967.487264,1
+Miss Bertha Lehmann,female,C,2,17,0,0,1145.04,1
+Miss Jessie Wills Leitch,female,S,2,,0,0,3148.86,1
+Mrs (Amelia Milley) Lemore,female,S,2,34,0,0,1001.91,1
+Mr Rene Jacques Levy,male,C,2,36,0,0,1228.5325,0
+Mr Robert William Norman Leyson,male,S,2,24,0,0,1001.91,0
+Mr John Lingane,male,Q,2,61,0,0,1178.437,0
+Mr Charles Alexander Louch,male,S,2,50,1,0,2480.92,0
+Mrs Charles Alexander (Alice Adelaide Slow) Louch,female,S,2,42,1,0,2480.92,1
+Mrs (Mary) Mack,female,S,2,57,0,0,1001.91,0
+Mr Noel Malachard,male,C,2,,0,0,1435.670236,0
+Master Andre Mallet,male,C,2,1,0,2,3530.940764,1
+Mr Albert Mallet,male,C,2,31,1,1,3530.940764,0
+Mrs Albert (Antoinette Magnin) Mallet,female,C,2,24,1,1,3530.940764,1
+Mr Serafino Emilio Mangiavacchi,male,C,2,,0,0,1486.567264,0
+Mr William John Matthews,male,S,2,30,0,0,1240.46,0
+Mr Frank Hubert Maybery,male,S,2,40,0,0,1526.72,0
+Mr Arthur Gordon McCrae,male,S,2,32,0,0,1288.17,0
+Mr James Matthew McCrie,male,S,2,30,0,0,1240.46,0
+Mr Peter David McKane,male,S,2,46,0,0,2480.92,0
+Miss Madeleine Violet Mellinger,female,S,2,13,0,1,1860.69,1
+Mrs (Elizabeth Anne Maidment) Mellinger,female,S,2,41,0,1,1860.69,1
+Mr William John Mellors,male,S,2,19,0,0,1001.91,1
+Mr August Meyer,male,S,2,39,0,0,1240.46,0
+Mr Jacob Christian Milling,male,S,2,48,0,0,1240.46,0
+Mr Henry Michael Mitchell,male,S,2,70,0,0,1001.91,0
+Rev Juozas Montvila,male,S,2,27,0,0,1240.46,0
+Dr Ernest Moraweck,male,S,2,54,0,0,1335.88,0
+"Mr Henry Samuel (""Mr Henry Marshall"") Morley",male,S,2,39,0,0,2480.92,0
+Mr Thomas Charles Mudd,male,S,2,16,0,0,1001.91,0
+Mr Thomas Francis Myles,male,Q,2,62,0,0,924.38125,0
+Mr Nicholas Nasser,male,C,2,32.5,1,0,2869.355736,0
+Mrs Nicholas (Adele Achem) Nasser,female,C,2,14,1,0,2869.355736,1
+Master Edmond Roger Navratil,male,S,2,2,1,1,2480.92,1
+Master Michel M Navratil,male,S,2,3,1,1,2480.92,1
+"Mr Michel (""Louis M Hoffman"") Navratil",male,S,2,36.5,0,2,2480.92,0
+Mr Israel Nesson,male,S,2,26,0,0,1240.46,0
+Mr Joseph Charles Nicholls,male,S,2,19,1,1,3506.685,0
+Mr Robert Douglas Norman,male,S,2,28,0,0,1288.17,0
+"Mr Alfred (""Baron von Drachstedt"") Nourney",male,C,2,20,0,0,1322.75975,1
+Mrs (Elizabeth Ramell) Nye,female,S,2,29,0,0,1001.91,1
+Mr Richard Otter,male,S,2,39,0,0,1240.46,0
+Mr Percy Thomas Oxenham,male,S,2,22,0,0,1001.91,1
+Mr Julian Padro y Manent,male,C,2,,0,0,1322.75975,1
+Dr Alfred Pain,male,S,2,23,0,0,1001.91,0
+Mr Emilio Pallas y Castello,male,C,2,29,0,0,1322.358986,1
+Mr Clifford Richard Parker,male,S,2,28,0,0,1001.91,0
+"Mr Francis ""Frank"" Parkes",male,S,2,,0,0,0,0
+Mrs (Lutie Davis) Parrish,female,S,2,50,0,1,2480.92,1
+Mr Frederick William Pengelly,male,S,2,19,0,0,1001.91,0
+Mr Rene Pernot,male,C,2,,0,0,1436.071,0
+Rev Joseph Maria Peruschitz,male,S,2,41,0,0,1240.46,0
+Miss Alice Frances Louisa Phillips,female,S,2,21,0,1,2003.82,1
+"Miss Kate Florence (""Mrs Kate Louise Phillips Marshall"") Phillips",female,S,2,19,0,0,2480.92,1
+Mr Escott Robert Phillips,male,S,2,43,0,1,2003.82,0
+Mrs (Rosa) Pinsky,female,S,2,32,0,0,1240.46,1
+Mr Martin Ponesell,male,S,2,34,0,0,1240.46,0
+Mr Emilio Ilario Giuseppe Portaluppi,male,C,2,30,0,0,1215.41225,1
+Mr Franz Pulbaum,male,C,2,27,0,0,1434.477486,0
+Miss Phyllis May Quick,female,S,2,2,1,1,2480.92,1
+Miss Winifred Vera Quick,female,S,2,8,1,1,2480.92,1
+Mrs Frederick Charles (Jane Richards) Quick,female,S,2,33,0,2,2480.92,1
+Mr David Reeves,male,S,2,36,0,0,1001.91,0
+Mr Peter Henry Renouf,male,S,2,34,1,0,2003.82,0
+Mrs Peter Henry (Lillian Jefferys) Renouf,female,S,2,30,3,0,2003.82,1
+Ms Encarnacion Reynaldo,female,S,2,28,0,0,1240.46,1
+Mr Emile Richard,male,C,2,23,0,0,1435.670236,0
+Master George Sibley Richards,male,S,2,0.8333,1,1,1789.125,1
+Master William Rowe Richards,male,S,2,3,1,1,1789.125,1
+Mrs Sidney (Emily Hocking) Richards,female,S,2,24,2,3,1789.125,1
+Miss Lucy Ridsdale,female,S,2,50,0,0,1001.91,1
+Mr Reginald Harry Rogers,male,S,2,19,0,0,1001.91,0
+Miss Emily Rugg,female,S,2,21,0,0,1001.91,1
+Mr August Schmidt,male,S,2,26,0,0,1240.46,0
+Mr Charles Frederick Waddington Sedgwick,male,S,2,25,0,0,1240.46,0
+Mr Percival James R Sharp,male,S,2,27,0,0,2480.92,0
+Mrs William (Imanita Parrish Hall) Shelley,female,S,2,25,0,1,2480.92,1
+Miss Lyyli Karoliina Silven,female,S,2,18,0,2,1240.46,1
+Miss Maude Sincock,female,S,2,20,0,0,3506.685,1
+Miss Anna Sinkkonen,female,S,2,30,0,0,1240.46,1
+Mr Ernst Adolf Sjostedt,male,S,2,59,0,0,1288.17,0
+Miss Hilda Mary Slayter,female,Q,2,30,0,0,1178.437,1
+Mr Richard James Slemen,male,S,2,35,0,0,1001.91,0
+Miss Marion Elsie Smith,female,S,2,40,0,0,1240.46,1
+Mr Samuel James Hayden Sobey,male,S,2,25,0,0,1240.46,0
+Mr Samuel Ward Stanton,male,C,2,41,0,0,1435.670236,0
+Mr Philip Joseph Stokes,male,S,2,25,0,0,1001.91,0
+Mr George Swane,male,S,2,18.5,0,0,1240.46,0
+Mr George Frederick Sweet,male,S,2,14,0,0,6202.3,0
+Miss Ellen Toomey,female,S,2,50,0,0,1001.91,1
+Mr Moses Aaron Troupiansky,male,S,2,23,0,0,1240.46,0
+Mrs William H (Jessie L) Trout,female,S,2,28,0,0,1207.063,1
+"Miss Edwina Celia ""Winnie"" Troutt",female,S,2,27,0,0,1001.91,1
+Mr William John Robert Turpin,male,S,2,29,1,0,2003.82,0
+Mrs William John Robert (Dorothy Ann Wonnacott) Turpin,female,S,2,27,1,0,2003.82,0
+Mr James Veal,male,S,2,40,0,0,1240.46,0
+Miss Nellie Walcroft,female,S,2,31,0,0,2003.82,1
+Mr John James Ware,male,S,2,30,1,0,2003.82,0
+Mr William Jeffery Ware,male,S,2,23,1,0,1001.91,0
+Mrs John James (Florence Louise Long) Ware,female,S,2,31,0,0,2003.82,1
+Mr Ennis Hastings Watson,male,S,2,,0,0,0,0
+Miss Bertha J Watt,female,S,2,12,0,0,1502.865,1
+"Mrs James (Elizabeth ""Bessie"" Inglis Milne) Watt",female,S,2,40,0,0,1502.865,1
+Miss Susan Webber,female,S,2,32.5,0,0,1240.46,1
+Mr Leopold Weisz,male,S,2,27,1,0,2480.92,0
+Mrs Leopold (Mathilde Francoise Pede) Weisz,female,S,2,29,1,0,2480.92,1
+Master Ralph Lester Wells,male,S,2,2,1,1,2194.66,1
+Miss Joan Wells,female,S,2,4,1,1,2194.66,1
+"Mrs Arthur Henry (""Addie"" Dart Trevaskis) Wells",female,S,2,29,0,2,2194.66,1
+Miss Barbara J West,female,S,2,0.9167,1,2,2647.905,1
+Miss Constance Mirium West,female,S,2,5,1,2,2647.905,1
+Mr Edwy Arthur West,male,S,2,36,1,2,2647.905,0
+Mrs Edwy Arthur (Ada Mary Worth) West,female,S,2,33,1,2,2647.905,1
+Mr Edward H Wheadon,male,S,2,66,0,0,1001.91,0
+"Mr Edwin ""Frederick"" Wheeler",male,S,2,,0,0,1228.5325,0
+Mr Charles Wilhelms,male,S,2,31,0,0,1240.46,1
+Mr Charles Eugene Williams,male,S,2,,0,0,1240.46,1
+Miss Marion Wright,female,S,2,26,0,0,1288.17,1
+"Miss Henriette (""Mrs Harbeck"") Yrois",female,S,2,24,0,0,1240.46,0
+Mr Anthony Abbing,male,S,3,42,0,0,720.421,0
+Master Eugene Joseph Abbott,male,S,3,13,0,2,1932.255,0
+Mr Rossmore Edward Abbott,male,S,3,16,1,1,1932.255,0
+Mrs Stanton (Rosa Hunt) Abbott,female,S,3,35,1,1,1932.255,1
+Miss Karen Marie Abelseth,female,S,3,16,0,0,729.963,1
+Mr Olaus Jorgensen Abelseth,male,S,3,25,0,0,729.963,1
+Mr Abraham August Johannes Abrahamsson,male,S,3,20,0,0,756.2035,1
+Mrs Joseph (Sophie Halaut Easu) Abrahim,female,C,3,18,0,0,689.810264,1
+Mr Mauritz Nils Martin Adahl,male,S,3,30,0,0,691.795,0
+Mr John Adams,male,S,3,26,0,0,768.131,0
+Mrs Johan (Johanna Persdotter Larsson) Ahlin,female,S,3,40,1,0,904.1045,0
+Master Philip Frank Aks,male,S,3,0.8333,0,1,892.177,1
+Mrs Sam (Leah Rosen) Aks,female,S,3,18,0,1,892.177,1
+Mr Nassef Cassem Albimona,male,C,3,26,0,0,1792.70325,1
+Mr William Alexander,male,S,3,26,0,0,752.62525,0
+Mr Ilmari Rudolf Alhomaki,male,S,3,20,0,0,756.2035,0
+Mr Ahmed Ali,male,S,3,24,0,0,672.711,0
+Mr William Ali,male,S,3,25,0,0,672.711,0
+Mr William Henry Allen,male,S,3,35,0,0,768.131,0
+Mr Owen George Allum,male,S,3,18,0,0,791.986,0
+Mr Albert Karvin Andersen,male,S,3,32,0,0,2149.3355,0
+Miss Carla Christine Nielsine Andersen-Jensen,female,S,3,19,1,0,749.447764,1
+Master Sigvard Harald Elias Andersson,male,S,3,4,4,2,2984.2605,0
+Miss Ebba Iris Alfrida Andersson,female,S,3,6,4,2,2984.2605,0
+Miss Ellis Anna Maria Andersson,female,S,3,2,4,2,2984.2605,0
+Miss Erna Alexandra Andersson,female,S,3,17,4,2,756.2035,1
+Miss Ida Augusta Margareta Andersson,female,S,3,38,4,2,741.8905,0
+Miss Ingeborg Constanzia Andersson,female,S,3,9,4,2,2984.2605,0
+Miss Sigrid Elisabeth Andersson,female,S,3,11,4,2,2984.2605,0
+Mr Anders Johan Andersson,male,S,3,39,1,5,2984.2605,0
+"Mr August Edvard (""Wennerstrom"") Andersson",male,S,3,27,0,0,743.875236,1
+Mr Johan Samuel Andersson,male,S,3,26,0,0,741.8905,0
+Mrs Anders Johan (Alfrida Konstantia Brogren) Andersson,female,S,3,39,1,5,2984.2605,0
+Mr Paul Edvin Andreasson,male,S,3,20,0,0,749.447764,0
+Mr Minko Angheloff,male,S,3,26,0,0,753.417236,0
+Mr Josef Arnold-Franchi,male,S,3,25,1,0,1698.476,0
+Mrs Josef (Josefine Franchi) Arnold-Franchi,female,S,3,18,1,0,1698.476,0
+Mr Ernst Axel Algot Aronsson,male,S,3,24,0,0,741.8905,0
+Mr Adola Asim,male,S,3,35,0,0,672.711,0
+Master Carl Edgar Asplund,male,S,3,5,4,2,2994.99525,0
+Master Clarence Gustaf Hugo Asplund,male,S,3,9,4,2,2994.99525,0
+Master Edvin Rojj Felix Asplund,male,S,3,3,4,2,2994.99525,1
+Master Filip Oscar Asplund,male,S,3,13,4,2,2994.99525,0
+Miss Lillian Gertrud Asplund,female,S,3,5,4,2,2994.99525,1
+Mr Carl Oscar Vilhelm Gustafsson Asplund,male,S,3,40,1,5,2994.99525,0
+Mr Johan Charles Asplund,male,S,3,23,0,0,743.875236,1
+Mrs Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,S,3,38,1,5,2994.99525,1
+"Mrs Mariana (""Miriam"") Assaf Khalil",female,C,3,45,0,0,689.4095,1
+Mr Gerios Assaf,male,C,3,21,0,0,689.4095,0
+Mr Ali Assam,male,S,3,23,0,0,672.711,0
+Miss Malake Attalah,female,C,3,17,0,0,1379.610986,0
+Mr Sleiman Attalah,male,C,3,30,0,0,689.4095,0
+Mr Albert Augustsson,male,S,3,23,0,0,749.447764,0
+Miss Banoura Ayoub,female,C,3,13,0,0,689.810264,1
+Mr Raffull Baccos,male,C,3,20,0,0,689.4095,0
+Mr Karl Alfred Backstrom,male,S,3,32,1,0,1512.407,0
+Mrs Karl Alfred (Maria Mathilda Gustafsson) Backstrom,female,S,3,33,3,0,1512.407,1
+Miss Eugenie Baclini,female,C,3,0.75,2,1,1837.626986,1
+Miss Helene Barbara Baclini,female,C,3,0.75,2,1,1837.626986,1
+Miss Marie Catherine Baclini,female,C,3,5,2,1,1837.626986,1
+Mrs Solomon (Latifa Qurban) Baclini,female,C,3,24,0,3,1837.626986,1
+Miss Emily Louisa Badman,female,S,3,18,0,0,768.131,1
+Mr Mohamed Badt,male,C,3,40,0,0,689.4095,0
+Mr Cerin Balkic,male,S,3,26,0,0,753.417236,0
+Mr Hanna Assi Barah,male,C,3,20,0,0,689.810264,1
+Miss Saiide Barbara,female,C,3,18,0,1,1379.219764,0
+Mrs (Catherine David) Barbara,female,C,3,45,0,1,1379.219764,0
+Miss Julia Barry,female,Q,3,27,0,0,751.833264,0
+Mr David John Barton,male,S,3,22,0,0,768.131,0
+Mr William Thomas Beavan,male,S,3,19,0,0,768.131,0
+Mr John Viktor Bengtsson,male,S,3,26,0,0,741.8905,0
+Mr Karl Ivar Sven Berglund,male,S,3,22,0,0,892.177,0
+Master Seman Betros,male,C,3,,0,0,689.810264,0
+Mr Tannous Betros,male,C,3,20,0,0,382.87275,0
+Mr Lee Bing,male,S,3,32,0,0,5390.829236,1
+Mr Hans Martin Monsen Birkeland,male,S,3,21,0,0,741.8905,0
+Mr Ernst Herbert Bjorklund,male,S,3,18,0,0,739.505,0
+Mr Guentcho Bostandyeff,male,S,3,26,0,0,753.417236,0
+Master Akar Boulos,male,C,3,6,1,1,1454.754236,0
+Miss Nourelain Boulos,female,C,3,9,1,1,1454.754236,0
+Mr Hanna Boulos,male,C,3,,0,0,689.4095,0
+Mrs Joseph (Sultana) Boulos,female,C,3,,0,2,1454.754236,0
+Miss Mary Bourke,female,Q,3,,0,2,739.505,0
+Mr John Bourke,male,Q,3,40,1,1,1479.01,0
+Mrs John (Catherine) Bourke,female,Q,3,32,1,1,1479.01,0
+"Mr David John ""Dai"" Bowen",male,S,3,21,0,0,1536.262,0
+Miss Bridget Delia Bradley,female,Q,3,22,0,0,737.1195,1
+Miss Elin Ester Maria Braf,female,S,3,20,0,0,749.447764,0
+Mr Lewis Richard Braund,male,S,3,29,1,0,672.310236,0
+Mr Owen Harris Braund,male,S,3,22,1,0,691.795,0
+Mr Karl Rudolf Brobeck,male,S,3,22,0,0,743.875236,0
+Mr William Alfred Brocklebank,male,S,3,35,0,0,768.131,0
+Miss Katherine Buckley,female,Q,3,18.5,0,0,694.972486,0
+Mr Daniel Buckley,male,Q,3,21,0,0,746.260736,1
+Mr Jeremiah Burke,male,Q,3,19,0,0,644.085,0
+Miss Mary Delia Burns,female,Q,3,18,0,0,751.833264,0
+Miss Manda Cacic,female,S,3,21,0,0,826.57575,0
+Miss Marija Cacic,female,S,3,30,0,0,826.57575,0
+Mr Jego Grga Cacic,male,S,3,18,0,0,826.57575,0
+Mr Luka Cacic,male,S,3,38,0,0,826.57575,0
+Mr Jovo Calic,male,S,3,17,0,0,826.57575,0
+Mr Petar Calic,male,S,3,17,0,0,826.57575,0
+Miss Mary Canavan,female,Q,3,21,0,0,739.505,0
+Mr Patrick Canavan,male,Q,3,21,0,0,739.505,0
+Mr Ernest Charles Cann,male,S,3,21,0,0,768.131,0
+Mr Joseph Caram,male,C,3,,1,0,1379.610986,0
+Mrs Joseph (Maria Elias) Caram,female,C,3,,1,0,1379.610986,0
+Mr August Sigfrid Carlsson,male,S,3,28,0,0,743.875236,0
+Mr Carl Robert Carlsson,male,S,3,24,0,0,749.447764,0
+"Miss Helen ""Ellen"" Carr",female,Q,3,16,0,0,739.505,1
+Miss Jeannie Carr,female,Q,3,37,0,0,739.505,0
+Mr Alfred John Carver,male,S,3,28,0,0,691.795,0
+Mr Francesco Celotti,male,S,3,24,0,0,768.131,0
+Mr David Charters,male,Q,3,21,0,0,737.911486,0
+Mr Chang Chip,male,S,3,32,0,0,5390.829236,1
+Mr Emil Christmann,male,S,3,29,0,0,768.131,0
+Mr Apostolos Chronopoulos,male,C,3,26,1,0,1379.219764,0
+Mr Demetrios Chronopoulos,male,C,3,18,1,0,1379.219764,0
+Mr Domingos Fernandeo Coelho,male,S,3,20,0,0,672.711,0
+"Mr Gurshon ""Gus"" Cohen",male,S,3,18,0,0,768.131,1
+Mr Patrick Colbert,male,Q,3,24,0,0,691.795,0
+Mr Peju Coleff,male,S,3,36,0,0,715.249236,0
+Mr Satio Coleff,male,S,3,24,0,0,715.249236,0
+Mr Thomas Henry Conlon,male,Q,3,31,0,0,737.911486,0
+Mr Michael Connaghton,male,Q,3,31,0,0,739.505,0
+Miss Kate Connolly,female,Q,3,22,0,0,739.505,1
+Miss Kate Connolly,female,Q,3,30,0,0,727.978264,0
+Mr Patrick Connors,male,Q,3,70.5,0,0,739.505,0
+Mr Jacob Cook,male,S,3,43,0,0,768.131,0
+Mr Bartol Cor,male,S,3,35,0,0,753.417236,0
+Mr Ivan Cor,male,S,3,27,0,0,753.417236,0
+Mr Liudevit Cor,male,S,3,19,0,0,753.417236,0
+Mr Harry Corn,male,S,3,30,0,0,768.131,0
+"Master Eden Leslie ""Neville"" Coutts",male,S,3,9,1,1,1517.178,1
+"Master William Loch ""William"" Coutts",male,S,3,3,1,1,1517.178,1
+"Mrs William (Winnie ""Minnie"" Treanor) Coutts",female,S,3,36,0,2,1517.178,1
+Mr Daniel Coxon,male,S,3,59,0,0,691.795,0
+Mr Ernest James Crease,male,S,3,19,0,0,778.464986,0
+Miss Laura Alice Cribb,female,S,3,17,0,1,1536.262,1
+Mr John Hatfield Cribb,male,S,3,44,0,1,1536.262,0
+Mr Jeso Culumovic,male,S,3,17,0,0,826.57575,0
+Mr Shedid Daher,male,C,3,22.5,0,0,689.4095,0
+Mr Karl Edwart Dahl,male,S,3,45,0,0,768.131,1
+Miss Gerda Ulrika Dahlberg,female,S,3,22,0,0,1003.503514,0
+Mr Branko Dakic,male,S,3,19,0,0,970.497736,0
+"Miss Margaret Marcella ""Maggie"" Daly",female,Q,3,30,0,0,663.169,1
+Mr Eugene Patrick Daly,male,Q,3,29,0,0,739.505,1
+Master Gilbert Sigvard Emanuel Danbom,male,S,3,0.3333,0,2,1374.048,0
+Mr Ernst Gilbert Danbom,male,S,3,34,1,1,1374.048,0
+Mrs Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,female,S,3,28,1,1,1374.048,0
+Mr Yoto Danoff,male,S,3,27,0,0,753.417236,0
+Mr Ristiu Dantcheff,male,S,3,25,0,0,753.417236,0
+Mr Alfred J Davies,male,S,3,24,2,0,2304.393,0
+Mr Evan Davies,male,S,3,22,0,0,768.131,0
+Mr John Samuel Davies,male,S,3,21,2,0,2304.393,0
+Mr Joseph Davies,male,S,3,17,2,0,768.131,0
+Mr Thomas Henry Davison,male,S,3,,1,0,1536.262,0
+Mrs Thomas Henry (Mary E Finck) Davison,female,S,3,,1,0,1536.262,1
+Mr Guillaume Joseph de Messemaeker,male,S,3,36.5,1,0,1660.308,1
+Mrs Guillaume Joseph (Emma) de Messemaeker,female,S,3,36,1,0,1660.308,1
+Mr Theodore de Mulder,male,S,3,30,0,0,906.49,1
+Mr Alfons de Pelsmaeker,male,S,3,16,0,0,906.49,0
+Master Bertram Vere Dean,male,S,3,1,1,2,1963.2665,1
+"Miss Elizabeth Gladys ""Millvina"" Dean",female,S,3,0.1667,1,2,1963.2665,1
+Mr Bertram Frank Dean,male,S,3,26,1,2,1963.2665,0
+Mrs Bertram (Eva Georgetta Light) Dean,female,S,3,33,1,2,1963.2665,1
+Mr Redjo Delalic,male,S,3,25,0,0,753.417236,0
+Mr Marinko Demetri,male,S,3,,0,0,753.417236,0
+Mr Mitto Denkoff,male,S,3,,0,0,753.417236,0
+Mr Samuel Dennis,male,S,3,22,0,0,691.795,0
+Mr William Dennis,male,S,3,36,0,0,691.795,0
+Miss Margaret Delia Devaney,female,Q,3,19,0,0,751.833264,1
+Mr Mirko Dika,male,S,3,17,0,0,753.417236,0
+Mr Jovan Dimic,male,S,3,42,0,0,826.57575,0
+Mr Valtcho Dintcheff,male,S,3,43,0,0,753.417236,0
+Mr Tannous Doharr,male,C,3,,0,0,689.810264,0
+Mr Patrick Dooley,male,Q,3,32,0,0,739.505,0
+Mr Edward Arthur Dorking,male,S,3,19,0,0,768.131,1
+Miss Elizabeth Dowdell,female,S,3,30,0,0,1190.3645,1
+Miss Elizabeth Doyle,female,Q,3,24,0,0,739.505,0
+Miss Jennie Drapkin,female,S,3,23,0,0,768.131,1
+Mr Jozef Drazenoic,male,C,3,33,0,0,753.417236,0
+Mr Frank Duane,male,Q,3,65,0,0,739.505,0
+Mr Joseph Duquemin,male,S,3,24,0,0,720.421,1
+Mr Adolf Fredrik Dyker,male,S,3,23,1,0,1326.338,0
+Mrs Adolf Fredrik (Anna Elisabeth Judith Andersson) Dyker,female,S,3,22,1,0,1326.338,1
+Mr Gustaf Hjalmar Edvardsson,male,S,3,18,0,0,741.8905,0
+Mr Hans Linus Eklund,male,S,3,16,0,0,741.8905,0
+Mr Johan Ekstrom,male,S,3,45,0,0,665.5545,0
+Mr Dibo Elias,male,C,3,,0,0,689.4095,0
+Mr Joseph Elias,male,C,3,39,0,2,689.810264,0
+Mr Joseph Jr Elias,male,C,3,17,1,1,689.810264,0
+Mr Tannous Elias,male,C,3,15,1,1,689.810264,0
+Mr William James Elsbury,male,S,3,47,0,0,691.795,0
+Miss Virginia Ethel Emanuel,female,S,3,5,0,0,1190.3645,1
+Mr Farred Chehab Emir,male,C,3,,0,0,689.4095,0
+Mr Thomas James Everett,male,S,3,40.5,0,0,1440.842,0
+Mr James Farrell,male,Q,3,40.5,0,0,739.505,0
+Mr Luigi Finoli,male,S,3,,0,0,672.711,1
+Mr Eberhard Thelander Fischer,male,S,3,18,0,0,743.875236,0
+Miss Honora Fleming,female,Q,3,,0,0,739.505,0
+Mr James Flynn,male,Q,3,,0,0,739.505,0
+Mr John Flynn,male,Q,3,,0,0,663.169,0
+Mr Joseph Foley,male,Q,3,26,0,0,751.833264,0
+Mr William Foley,male,Q,3,,0,0,739.505,0
+Mr Choong Foo,male,S,3,,0,0,5390.829236,1
+"Miss Doolina Margaret ""Daisy"" Ford",female,S,3,21,2,2,3280.0625,0
+"Miss Robina Maggie ""Ruby"" Ford",female,S,3,9,2,2,3280.0625,0
+Mr Arthur Ford,male,S,3,,0,0,768.131,0
+Mr Edward Watson Ford,male,S,3,18,2,2,3280.0625,0
+Mr William Neal Ford,male,S,3,16,1,3,3280.0625,0
+Mrs Edward (Margaret Ann Watson) Ford,female,S,3,48,1,3,3280.0625,0
+Mr Patrick Fox,male,Q,3,,0,0,739.505,0
+Mr Charles (Charles Fardon) Franklin,male,S,3,,0,0,691.795,0
+Mr Martin Gallagher,male,Q,3,25,0,0,738.713014,0
+Mr John Garfirth,male,S,3,,0,0,1383.59,0
+Mr Stanio Gheorgheff,male,C,3,,0,0,753.417236,0
+Mr Eliezer Gilinski,male,S,3,22,0,0,768.131,0
+"Miss Katherine ""Katie"" Gilnagh",female,Q,3,16,0,0,737.911486,1
+Miss Mary Agatha Glynn,female,Q,3,,0,0,739.505,1
+"Master Frank John William ""Frankie"" Goldsmith",male,S,3,9,0,2,1958.4955,1
+Mr Frank John Goldsmith,male,S,3,33,1,1,1958.4955,0
+Mr Nathan Goldsmith,male,S,3,41,0,0,749.047,0
+Mrs Frank John (Emily Alice Brown) Goldsmith,female,S,3,31,1,1,1958.4955,1
+Mr Manuel Estanslas Goncalves,male,S,3,38,0,0,672.711,0
+Master Harold Victor Goodwin,male,S,3,9,5,2,4475.198,0
+Master Sidney Leonard Goodwin,male,S,3,1,5,2,4475.198,0
+Master William Frederick Goodwin,male,S,3,11,5,2,4475.198,0
+Miss Jessie Allis Goodwin,female,S,3,10,5,2,4475.198,0
+Miss Lillian Amy Goodwin,female,S,3,16,5,2,4475.198,0
+Mr Charles Edward Goodwin,male,S,3,14,5,2,4475.198,0
+Mr Charles Frederick Goodwin,male,S,3,40,1,6,4475.198,0
+Mrs Frederick (Augusta Tyler) Goodwin,female,S,3,43,1,6,4475.198,0
+Mr George Henry Green,male,S,3,51,0,0,768.131,0
+Mr Daniel Danielsen Gronnestad,male,S,3,32,0,0,797.94975,0
+Mr Robert Guest,male,S,3,,0,0,768.131,0
+Mr Alfred Ossian Gustafsson,male,S,3,20,0,0,939.486236,0
+Mr Anders Vilhelm Gustafsson,male,S,3,37,2,0,756.2035,0
+Mr Johan Birger Gustafsson,male,S,3,28,2,0,756.2035,0
+Mr Karl Gideon Gustafsson,male,S,3,19,0,0,741.8905,0
+Miss Aloisia Haas,female,S,3,24,0,0,844.467,0
+Miss Kate Hagardon,female,Q,3,17,0,0,737.911486,0
+Mr Ingvald Olai Olsen Hagland,male,S,3,,1,0,1905.222514,0
+Mr Konrad Mathias Reiersen Hagland,male,S,3,,1,0,1905.222514,0
+Mr Pekka Pietari Hakkarainen,male,S,3,28,1,0,1512.407,0
+Mrs Pekka Pietari (Elin Matilda Dolck) Hakkarainen,female,S,3,24,1,0,1512.407,1
+Mr Leon Hampe,male,S,3,20,0,0,906.49,0
+Mr Mansour Hanna,male,C,3,23.5,0,0,689.810264,0
+Mr Claus Peter Hansen,male,S,3,41,2,0,1346.213986,0
+Mr Henrik Juul Hansen,male,S,3,26,1,0,749.447764,0
+Mr Henry Damsgaard Hansen,male,S,3,21,0,0,749.447764,0
+Mrs Claus Peter (Jennie L Howard) Hansen,female,S,3,45,1,0,1346.213986,1
+Miss Alice Phoebe Harknett,female,S,3,,0,0,720.421,0
+Mr Abraham (David Lishin) Harmer,male,S,3,25,0,0,691.795,0
+Mr Henry Hart,male,Q,3,,0,0,654.418986,0
+Mr Houssein G N Hassan,male,C,3,11,0,0,1792.70325,0
+"Miss Hanora ""Nora"" Healy",female,Q,3,,0,0,739.505,1
+Mr Oskar Arvid Hedman,male,S,3,27,0,0,665.5545,1
+Mr Ling Hee,male,S,3,,0,0,5390.829236,1
+"Miss Hanora ""Nora"" Hegarty",female,Q,3,18,0,0,644.085,0
+Miss Laina Heikkinen,female,S,3,26,0,0,756.2035,1
+Miss Wendla Maria Heininen,female,S,3,23,0,0,756.2035,0
+Miss Hilda Maria Hellstrom,female,S,3,22,0,0,855.20175,1
+Mr Ignjac Hendekovic,male,S,3,28,0,0,753.417236,0
+Miss Jenny Lovisa Henriksson,female,S,3,28,0,0,741.8905,0
+Miss Delia Henry,female,Q,3,,0,0,739.505,0
+Miss Hildur E Hirvonen,female,S,3,2,0,1,1172.47325,1
+Mrs Alexander (Helga E Lindqvist) Hirvonen,female,S,3,22,1,1,1172.47325,1
+Mr John Fredrik Alexander Holm,male,S,3,43,0,0,615.459,0
+Mr Johan Martin Holthen,male,S,3,28,0,0,2149.3355,0
+Miss Eliina Honkanen,female,S,3,27,0,0,756.2035,1
+Mr John Horgan,male,Q,3,,0,0,739.505,0
+Miss May Elizabeth Howard,female,S,3,,0,0,768.131,1
+Mr Adolf Mathias Nicolai Olsen Humblen,male,S,3,42,0,0,729.963,0
+Mr Abraham Hyman,male,S,3,,0,0,752.62525,1
+Mr Yousseff Ibrahim Shawah,male,C,3,30,0,0,689.810264,0
+Mr Ylio Ilieff,male,S,3,,0,0,753.417236,0
+Miss Ida Livija Ilmakangas,female,S,3,27,1,0,756.2035,0
+Miss Pieta Sofia Ilmakangas,female,S,3,25,1,0,756.2035,0
+Mr Kanio Ivanoff,male,S,3,,0,0,753.417236,0
+Mr Ivan Jalsevac,male,C,3,29,0,0,753.417236,1
+Mr Carl Olof Jansson,male,S,3,21,0,0,743.875236,1
+Mr Jose Neto Jardin,male,S,3,,0,0,672.711,0
+Mr Hans Peder Jensen,male,S,3,20,0,0,749.447764,0
+Mr Niels Peder Jensen,male,S,3,48,0,0,749.447764,0
+Mr Svend Lauritz Jensen,male,S,3,17,1,0,673.111764,0
+Miss Annie Jermyn,female,Q,3,,0,0,739.505,1
+Mr Bernt Johannesen-Bratthammer,male,S,3,,0,0,774.09475,1
+Mr Jakob Alfred Johanson,male,S,3,34,0,0,619.829236,0
+Mr Oskar Leander Johansson Palmquist,male,S,3,26,0,0,741.8905,1
+Mr Erik Johansson,male,S,3,22,0,0,743.875236,0
+Mr Gustaf Joel Johansson,male,S,3,33,0,0,825.783764,0
+Mr Karl Johan Johansson,male,S,3,31,0,0,741.8905,0
+Mr Nils Johansson,male,S,3,29,0,0,749.447764,0
+Master Harold Theodor Johnson,male,S,3,4,1,1,1062.339486,1
+Miss Eleanor Ileen Johnson,female,S,3,1,1,1,1062.339486,1
+Mr Alfred Johnson,male,S,3,49,0,0,0,0
+Mr Malkolm Joackim Johnson,male,S,3,33,0,0,741.8905,0
+Mr William Cahoone Jr Johnson,male,S,3,19,0,0,0,0
+Mrs Oscar W (Elisabeth Vilhelmina Berg) Johnson,female,S,3,27,0,2,1062.339486,1
+"Master William Arthur ""Willie"" Johnston",male,S,3,,1,2,2237.599,0
+"Miss Catherine Helen ""Carrie"" Johnston",female,S,3,,1,2,2237.599,0
+Mr Andrew G Johnston,male,S,3,,1,2,2237.599,0
+"Mrs Andrew G (Elizabeth ""Lily"" Watson) Johnston",female,S,3,,1,2,2237.599,0
+Mr Lalio Jonkoff,male,S,3,23,0,0,753.417236,0
+Mr Carl Jonsson,male,S,3,32,0,0,749.447764,1
+Mr Nils Hilding Jonsson,male,S,3,27,0,0,749.447764,0
+Miss Katriina Jussila,female,S,3,20,1,0,937.5015,0
+Miss Mari Aina Jussila,female,S,3,21,1,0,937.5015,0
+Mr Eiriik Jussila,male,S,3,32,0,0,756.2035,1
+Mr Nikolai Erland Kallio,male,S,3,17,0,0,679.8675,0
+Mr Johannes Halvorsen Kalvik,male,S,3,21,0,0,804.705486,0
+Mr Milan Karaic,male,S,3,30,0,0,753.417236,0
+Mr Einar Gervasius Karlsson,male,S,3,21,0,0,743.875236,1
+Mr Julius Konrad Eugen Karlsson,male,S,3,33,0,0,749.447764,0
+Mr Nils August Karlsson,male,S,3,22,0,0,717.634736,0
+Miss Manca Karun,female,C,3,4,0,1,1280.221514,1
+Mr Franz Karun,male,C,3,39,0,1,1280.221514,1
+Mr Fared Kassem,male,C,3,,0,0,689.810264,0
+"Mr Vassilios (""Catavelas Vassilios"") Katavelas",male,C,3,18.5,0,0,689.810264,0
+"Mr Andrew ""Andy"" Keane",male,Q,3,,0,0,739.505,0
+Mr Arthur Keefe,male,S,3,,0,0,691.795,0
+"Miss Anna Katherine ""Annie Kate"" Kelly",female,Q,3,,0,0,739.505,1
+Miss Mary Kelly,female,Q,3,,0,0,739.505,1
+Mr James Kelly,male,Q,3,34.5,0,0,747.062264,0
+Mr James Kelly,male,S,3,44,0,0,768.131,0
+Mr John Kennedy,male,Q,3,,0,0,739.505,1
+Mr Betros Khalil,male,C,3,,1,0,1379.219764,0
+"Mrs Betros (Zahie ""Maria"" Elias) Khalil",female,C,3,,1,0,1379.219764,0
+Mr John Kiernan,male,Q,3,,1,0,739.505,0
+Mr Philip Kiernan,male,Q,3,,1,0,739.505,0
+Mr Thomas J Kilgannon,male,Q,3,,0,0,738.31225,0
+Miss Maria Kink,female,S,3,22,2,0,826.57575,0
+Mr Vincenz Kink,male,S,3,26,2,0,826.57575,0
+Miss Luise Gretchen Kink-Heilmann,female,S,3,4,0,2,2101.6255,1
+Mr Anton Kink-Heilmann,male,S,3,29,3,1,2101.6255,1
+Mrs Anton (Luise Heilmann) Kink-Heilmann,female,S,3,26,1,1,2101.6255,1
+Miss Gertrud Emilia Klasen,female,S,3,1,1,1,1162.530486,0
+Mr Klas Albin Klasen,male,S,3,18,1,1,749.447764,0
+Mrs (Hulda Kristina Eugenia Lofqvist) Klasen,female,S,3,36,0,2,1162.530486,0
+Mr Theodor Kraeff,male,C,3,,0,0,753.417236,0
+Mr Neshan Krekorian,male,C,3,25,0,0,689.810264,1
+Mr Sarkis Lahoud,male,C,3,,0,0,689.4095,0
+Miss Kristina Sofia Laitinen,female,S,3,37,0,0,914.83925,0
+Mr Kristo Laleff,male,S,3,,0,0,753.417236,0
+Mr Ali Lam,male,S,3,,0,0,5390.829236,1
+Mr Len Lam,male,S,3,,0,0,5390.829236,0
+Miss Aurora Adelia Landergren,female,S,3,22,0,0,691.795,1
+Mr Patrick Lane,male,Q,3,,0,0,739.505,0
+Mr Fang Lang,male,S,3,26,0,0,5390.829236,1
+Mr August Viktor Larsson,male,S,3,29,0,0,904.896486,0
+Mr Bengt Edvin Larsson,male,S,3,29,0,0,741.8905,0
+Mr Edvard A Larsson-Rondberg,male,S,3,22,0,0,741.8905,0
+"Mr Fahim (""Philip Zenni"") Leeni",male,C,3,22,0,0,689.4095,1
+Master Henry Forbes Lefebre,male,S,3,,3,1,2430.032514,0
+Miss Ida Lefebre,female,S,3,,3,1,2430.032514,0
+Miss Jeannie Lefebre,female,S,3,,3,1,2430.032514,0
+Miss Mathilde Lefebre,female,S,3,,3,1,2430.032514,0
+Mrs Frank (Frances) Lefebre,female,S,3,,0,4,2430.032514,0
+Mr Antti Gustaf Leinonen,male,S,3,32,0,0,756.2035,0
+Mr Peter L Lemberopolous,male,C,3,34.5,0,0,614.26625,0
+Miss Mary Lennon,female,Q,3,,1,0,1479.01,0
+Mr Denis Lennon,male,Q,3,,1,0,1479.01,0
+Mr Lionel Leonard,male,S,3,36,0,0,0,0
+Mr James Lester,male,S,3,39,0,0,2304.393,0
+Mr Rene Aime Lievens,male,S,3,24,0,0,906.49,0
+Miss Agda Thorilda Viktoria Lindahl,female,S,3,25,0,0,741.8905,0
+Miss Augusta Charlotta Lindblom,female,S,3,45,0,0,739.505,0
+Mr Edvard Bengtsson Lindell,male,S,3,36,1,0,1483.781,0
+Mrs Edvard Bengtsson (Elin Gerda Persson) Lindell,female,S,3,30,1,0,1483.781,0
+Mr Eino William Lindqvist,male,S,3,20,1,0,756.2035,1
+Mr Michael Linehan,male,Q,3,,0,0,751.833264,0
+Mr Lee Ling,male,S,3,28,0,0,5390.829236,0
+Mr Simon Lithman,male,S,3,,0,0,720.421,0
+Mr William Arthur Lobb,male,S,3,30,1,0,1536.262,0
+Mrs William Arthur (Cordelia K Stanlick) Lobb,female,S,3,26,1,0,1536.262,0
+Mr Edward Lockyer,male,S,3,,0,0,751.833264,0
+"Mr John Hall (""Henry"") Lovell",male,S,3,20.5,0,0,691.795,0
+Mr Nikola Lulic,male,S,3,27,0,0,826.57575,1
+Mr Johan Svensson Lundahl,male,S,3,51,0,0,673.111764,0
+Miss Olga Elida Lundin,female,S,3,23,0,0,749.447764,1
+Mr Thure Edvin Lundstrom,male,S,3,32,0,0,723.207264,1
+Mr Stanko Lyntakoff,male,S,3,,0,0,753.417236,0
+Mr George William MacKay,male,S,3,,0,0,720.421,0
+"Miss Margaret ""Maggie"" Madigan",female,Q,3,,0,0,739.505,1
+Mr Fridtjof Arne Madsen,male,S,3,24,0,0,681.461014,1
+Mr Matti Alexanteri Maenpaa,male,S,3,22,0,0,679.8675,0
+Miss Bridget Delia Mahon,female,Q,3,,0,0,751.833264,0
+Mr John Mahon,male,Q,3,,0,0,739.505,0
+Mr Simon Maisner,male,S,3,,0,0,768.131,0
+Mr Kalle Edvard Makinen,male,S,3,29,0,0,756.2035,0
+Mr Hanna Mamee,male,C,3,,0,0,689.810264,1
+Miss Mary Mangan,female,Q,3,30.5,0,0,739.505,0
+Miss Margareth Mannion,female,Q,3,,0,0,738.31225,1
+Mr Sarkis Mardirosian,male,C,3,,0,0,689.810264,0
+Mr Marin Markoff,male,C,3,35,0,0,753.417236,0
+Mr Johann Markun,male,S,3,33,0,0,753.417236,0
+Mrs Fatima Masselmani,female,C,3,,0,0,689.4095,1
+Mr Nicola Matinoff,male,C,3,,0,0,753.417236,0
+"Miss Catherine ""Katie"" McCarthy",female,Q,3,,0,0,739.505,1
+Mr Thomas Joseph McCormack,male,Q,3,,0,0,739.505,1
+Miss Agnes McCoy,female,Q,3,,2,0,2218.515,1
+Miss Alicia McCoy,female,Q,3,,2,0,2218.515,1
+Mr Bernard McCoy,male,Q,3,,2,0,2218.515,1
+Miss Brigdet Delia McDermott,female,Q,3,,0,0,743.08325,1
+Mr Michael McEvoy,male,Q,3,,0,0,1479.01,0
+Miss Mary McGovern,female,Q,3,,0,0,751.833264,1
+"Miss Anna ""Annie"" McGowan",female,Q,3,15,0,0,766.146264,1
+Miss Katherine McGowan,female,Q,3,35,0,0,739.505,0
+Mr Martin McMahon,male,Q,3,,0,0,739.505,0
+Mr Neal McNamee,male,S,3,24,1,0,1536.262,0
+Mrs Neal (Eileen O'Leary) McNamee,female,S,3,19,1,0,1536.262,0
+Miss Bridget McNeill,female,Q,3,,0,0,739.505,0
+Miss (Marion Ogden) Meanwell,female,S,3,,0,0,768.131,0
+Mrs Thomas (Annie Louise Rowley) Meek,female,S,3,,0,0,768.131,0
+Mr Alfonzo Meo,male,S,3,55.5,0,0,768.131,0
+Mr Robert Mernagh,male,Q,3,,0,0,739.505,0
+Mr Karl Albert Midtsjo,male,S,3,21,0,0,741.8905,1
+Mr Frank Miles,male,S,3,,0,0,768.131,0
+Mr Ivan Mineff,male,S,3,24,0,0,753.417236,0
+Mr Lazar Minkoff,male,S,3,21,0,0,753.417236,0
+Mr Stoytcho Mionoff,male,S,3,28,0,0,753.417236,0
+Mr Mito Mitkoff,male,S,3,,0,0,753.417236,0
+"Miss Helen Mary ""Ellie"" Mockler",female,Q,3,,0,0,751.833264,1
+Mr Sigurd Hansen Moen,male,S,3,25,0,0,729.963,0
+Master Meier Moor,male,S,3,6,0,1,1190.3645,1
+Mrs (Beila) Moor,female,S,3,27,0,1,1190.3645,1
+Mr Leonard Charles Moore,male,S,3,,0,0,768.131,0
+Miss Bertha Moran,female,Q,3,,1,0,2304.393,1
+Mr Daniel J Moran,male,Q,3,,1,0,2304.393,0
+Mr James Moran,male,Q,3,,0,0,807.090986,0
+Mr William Morley,male,S,3,34,0,0,768.131,0
+Mr Thomas Rowan Morrow,male,Q,3,,0,0,739.505,0
+Mr Albert Johan Moss,male,S,3,,0,0,741.8905,1
+Master Gerios Moubarek,male,C,3,,1,1,1454.754236,1
+"Master Halim Gonios (""William George"") Moubarek",male,C,3,,1,1,1454.754236,1
+"Mrs George (Omine ""Amenia"" Alexander) Moubarek",female,C,3,,0,2,1454.754236,1
+Mrs (Mantoura Boulos) Moussa,female,C,3,,0,0,689.810264,1
+Mr Rahamin Haim Moutal,male,S,3,,0,0,768.131,0
+"Miss Katherine ""Katie"" Mullens",female,Q,3,,0,0,737.911486,1
+Miss Bertha E Mulvihill,female,Q,3,24,0,0,739.505,1
+Mr Joseph Murdlin,male,S,3,,0,0,768.131,0
+"Miss Katherine ""Kate"" Murphy",female,Q,3,,1,0,1479.01,1
+Miss Margaret Jane Murphy,female,Q,3,,1,0,1479.01,1
+Miss Nora Murphy,female,Q,3,,0,0,1479.01,1
+Mr Pehr Fabian Oliver Malkolm Myhrman,male,S,3,18,0,0,739.505,0
+Mr Penko Naidenoff,male,S,3,22,0,0,753.417236,0
+"Miss Adele Kiamie ""Jane"" Najib",female,C,3,15,0,0,689.4095,1
+"Miss Maria (""Mary"") Nakid",female,C,3,1,0,2,1502.073014,1
+Mr Sahid Nakid,male,C,3,20,1,1,1502.073014,1
+"Mrs Said (Waika ""Mary"" Mowad) Nakid",female,C,3,19,1,1,1502.073014,1
+Mr William Henry Nancarrow,male,S,3,33,0,0,768.131,0
+Mr Minko Nankoff,male,S,3,,0,0,753.417236,0
+Mr Mustafa Nasr,male,C,3,,0,0,689.810264,0
+Miss Hannah Naughton,female,Q,3,,0,0,739.505,0
+Mr Christo Nenkoff,male,S,3,,0,0,753.417236,0
+Master Elias Nicola-Yarred,male,C,3,12,1,0,1072.683014,1
+Miss Jamila Nicola-Yarred,female,C,3,14,1,0,1072.683014,1
+Miss Manta Josefina Nieminen,female,S,3,29,0,0,756.2035,0
+Mr Samuel Niklasson,male,S,3,28,0,0,768.131,0
+Miss Berta Olivia Nilsson,female,S,3,18,0,0,741.8905,1
+Miss Helmina Josefina Nilsson,female,S,3,26,0,0,749.447764,1
+Mr August Ferdinand Nilsson,male,S,3,21,0,0,749.447764,0
+Mr Iisakki Antino Aijo Nirva,male,S,3,41,0,0,679.8675,0
+Mr Juha Niskanen,male,S,3,39,0,0,756.2035,1
+Mr Richard Cater Nosworthy,male,S,3,21,0,0,744.276,0
+Mr Mansouer Novel,male,C,3,28.5,0,0,689.810264,0
+Miss Anna Sofia Nysten,female,S,3,22,0,0,739.505,1
+Mr Johan Hansen Nysveen,male,S,3,61,0,0,595.18225,0
+Mr Thomas O'Brien,male,Q,3,,1,0,1479.01,0
+Mr Timothy O'Brien,male,Q,3,,0,0,747.062264,0
+"Mrs Thomas (Johanna ""Hannah"" Godfrey) O'Brien",female,Q,3,,1,0,1479.01,1
+Mr Patrick D O'Connell,male,Q,3,,0,0,737.911486,0
+Mr Maurice O'Connor,male,Q,3,,0,0,739.505,0
+Mr Patrick O'Connor,male,Q,3,,0,0,739.505,0
+Mr Nils Martin Odahl,male,S,3,23,0,0,880.2495,0
+Ms Bridget O'Donoghue,female,Q,3,,0,0,739.505,0
+Miss Bridget O'Driscoll,female,Q,3,,0,0,739.505,1
+"Miss Ellen ""Nellie"" O'Dwyer",female,Q,3,,0,0,751.833264,1
+Miss Velin Ohman,female,S,3,22,0,0,741.8905,1
+Mr Patrick O'Keefe,male,Q,3,,0,0,739.505,1
+"Miss Hanora ""Norah"" O'Leary",female,Q,3,,0,0,747.062264,1
+Master Artur Karl Olsen,male,S,3,9,0,1,302.557736,1
+Mr Henry Margido Olsen,male,S,3,28,0,0,2149.3355,0
+Mr Karl Siegwart Andreas Olsen,male,S,3,42,0,1,801.928764,0
+Mr Ole Martin Olsen,male,S,3,,0,0,697.75875,0
+Miss Elina Olsson,female,S,3,31,0,0,749.447764,0
+Mr Nils Johan Goransson Olsson,male,S,3,28,0,0,749.447764,0
+Mr Oscar Wilhelm Olsson,male,S,3,32,0,0,741.8905,1
+Mr Thor Anderson Olsvigen,male,S,3,20,0,0,880.2495,0
+Miss Jelka Oreskovic,female,S,3,23,0,0,826.57575,0
+Miss Marija Oreskovic,female,S,3,20,0,0,826.57575,0
+Mr Luka Oreskovic,male,S,3,20,0,0,826.57575,0
+Mr Olaf Elon Osen,male,S,3,16,0,0,879.457514,0
+Mrs Mara Osman,female,S,3,31,0,0,828.560486,1
+Miss Bridget Mary O'Sullivan,female,Q,3,,0,0,727.978264,0
+Master Gosta Leonard Palsson,male,S,3,2,3,1,2010.9765,0
+Master Paul Folke Palsson,male,S,3,6,3,1,2010.9765,0
+Miss Stina Viola Palsson,female,S,3,3,3,1,2010.9765,0
+Miss Torborg Danira Palsson,female,S,3,8,3,1,2010.9765,0
+Mrs Nils (Alma Cornelia Berglund) Palsson,female,S,3,29,0,4,2010.9765,0
+Master Eino Viljami Panula,male,S,3,1,4,1,3786.98125,0
+Master Juha Niilo Panula,male,S,3,7,4,1,3786.98125,0
+Master Urho Abraham Panula,male,S,3,2,4,1,3786.98125,0
+Mr Ernesti Arvid Panula,male,S,3,16,4,1,3786.98125,0
+Mr Jaako Arnold Panula,male,S,3,14,4,1,3786.98125,0
+Mrs Juha (Maria Emilia Ojala) Panula,female,S,3,41,0,5,3786.98125,0
+Mr Jakob Pasic,male,S,3,21,0,0,826.57575,0
+Mr George Patchett,male,S,3,19,0,0,1383.59,0
+Mr Uscher Paulner,male,C,3,,0,0,831.34675,0
+Mr Stefo Pavlovic,male,S,3,32,0,0,753.417236,0
+Master Alfred Edward Peacock,male,S,3,0.75,1,1,1314.4105,0
+Miss Treasteall Peacock,female,S,3,3,1,1,1314.4105,0
+Mrs Benjamin (Edith Nile) Peacock,female,S,3,26,0,2,1314.4105,0
+Mr Ernest Pearce,male,S,3,,0,0,667.94,0
+Mr Olaf Pedersen,male,S,3,,0,0,741.8905,0
+Mr Joseph Peduzzi,male,S,3,,0,0,768.131,0
+Mr Edvard Pekoniemi,male,S,3,21,0,0,756.2035,0
+Mr Nikolai Johannes Peltomaki,male,S,3,25,0,0,756.2035,0
+Mr John Henry Perkin,male,S,3,22,0,0,691.795,0
+Mr Ernst Ulrik Persson,male,S,3,25,1,0,741.8905,1
+Master Michael J Peter,male,C,3,,1,1,2133.428986,1
+Miss Anna Peter,female,C,3,,1,1,2133.428986,1
+Mrs Catherine (Catherine Rizk) Peter,female,C,3,,0,2,2133.428986,1
+Miss Katie Peters,female,Q,3,,0,0,776.48025,0
+Mr Marius Petersen,male,S,3,24,0,0,768.131,0
+Miss Matilda Petranec,female,S,3,28,0,0,753.417236,0
+Mr Nedelio Petroff,male,S,3,19,0,0,753.417236,0
+"Mr Pastcho (""Pentcho"") Petroff",male,S,3,,0,0,753.417236,0
+Mr Johan Emil Petterson,male,S,3,25,1,0,741.8905,0
+Miss Ellen Natalia Pettersson,female,S,3,18,0,0,741.8905,0
+Mr Berk (Berk Trembisky) Pickard,male,S,3,32,0,0,768.131,1
+Mr Vasil Plotcharsky,male,S,3,,0,0,753.417236,0
+Mr Mate Pokrnic,male,S,3,17,0,0,826.57575,0
+Mr Tome Pokrnic,male,S,3,24,0,0,826.57575,0
+Mr Alexander Radeff,male,S,3,,0,0,753.417236,0
+Mrs (Lena Jacobsen Solvang) Rasmussen,female,S,3,,0,0,774.09475,0
+Mr Raihed Razi,male,C,3,,0,0,689.810264,0
+Mr James George Reed,male,S,3,,0,0,691.795,0
+Mr Tido Rekic,male,S,3,38,0,0,753.417236,0
+Mr Harold J Reynolds,male,S,3,21,0,0,768.131,0
+Master Albert Rice,male,Q,3,10,4,1,2779.1075,0
+Master Arthur Rice,male,Q,3,4,4,1,2779.1075,0
+Master Eric Rice,male,Q,3,7,4,1,2779.1075,0
+Master Eugene Rice,male,Q,3,2,4,1,2779.1075,0
+Master George Hugh Rice,male,Q,3,8,4,1,2779.1075,0
+Mrs William (Margaret Norton) Rice,female,Q,3,39,0,5,2779.1075,0
+"Miss Susanna Juhantytar ""Sanni"" Riihivouri",female,S,3,22,0,0,3786.98125,0
+Mr Matti Rintamaki,male,S,3,35,0,0,679.8675,0
+"Miss Johanna ""Hannah"" Riordan",female,Q,3,,0,0,736.718736,1
+Mr Samuel Beard Risien,male,S,3,,0,0,1383.59,0
+Mrs Samuel (Emma) Risien,female,S,3,,0,0,1383.59,0
+Mr Alexander A Robins,male,S,3,50,1,0,1383.59,0
+Mrs Alexander A (Grace Charity Laury) Robins,female,S,3,47,1,0,1383.59,0
+Mr William John Rogers,male,S,3,,0,0,768.131,0
+Mr Knud Paust Rommetvedt,male,S,3,,0,0,741.8905,0
+Miss Salli Helena Rosblom,female,S,3,2,1,1,1928.67675,0
+Mr Viktor Richard Rosblom,male,S,3,18,1,1,1928.67675,0
+Mrs Viktor (Helena Wilhelmina) Rosblom,female,S,3,41,0,2,1928.67675,0
+Miss Sarah A Roth,female,S,3,,0,0,768.131,1
+Mr Richard Henry Rouse,male,S,3,50,0,0,768.131,0
+Mr Alfred George John Rush,male,S,3,16,0,0,768.131,0
+Mr Edward Ryan,male,Q,3,,0,0,739.505,1
+Mr Patrick Ryan,male,Q,3,,0,0,2304.393,0
+Mr Amin Saad,male,C,3,,0,0,689.810264,0
+Mr Khalil Saad,male,C,3,25,0,0,689.4095,0
+Mr Jean Nassr Saade,male,C,3,,0,0,689.4095,0
+Mr Matthew Sadlier,male,Q,3,,0,0,737.520264,0
+Mr Harry Sadowitz,male,S,3,,0,0,722.8065,0
+Mr Simon Sivertsen Saether,male,S,3,38.5,0,0,691.795,0
+Master Thomas Henry Sage,male,S,3,,8,2,6636.461,0
+Master William Henry Sage,male,S,3,14.5,8,2,6636.461,0
+Miss Ada Sage,female,S,3,,8,2,6636.461,0
+Miss Constance Gladys Sage,female,S,3,,8,2,6636.461,0
+"Miss Dorothy Edith ""Dolly"" Sage",female,S,3,,8,2,6636.461,0
+Miss Stella Anna Sage,female,S,3,,8,2,6636.461,0
+Mr Douglas Bullen Sage,male,S,3,,8,2,6636.461,0
+Mr Frederick Sage,male,S,3,,8,2,6636.461,0
+Mr George John Jr Sage,male,S,3,,8,2,6636.461,0
+Mr John George Sage,male,S,3,,1,9,6636.461,0
+Mrs John (Annie Bullen) Sage,female,S,3,,1,9,6636.461,0
+Mr Karl Johan Salander,male,S,3,24,0,0,889.7915,0
+Miss Anna Kristine Salkjelsvik,female,S,3,21,0,0,729.963,1
+Mr Johan Werner Salonen,male,S,3,39,0,0,756.2035,0
+Mr Elias Samaan,male,C,3,,2,0,2068.629264,0
+Mr Hanna Samaan,male,C,3,,2,0,2068.629264,0
+Mr Youssef Samaan,male,C,3,,2,0,2068.629264,0
+Miss Beatrice Irene Sandstrom,female,S,3,1,1,1,1593.514,1
+Mrs Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,female,S,3,24,0,2,1593.514,1
+Miss Marguerite Rut Sandstrom,female,S,3,4,1,1,1593.514,1
+Mr Julius Sap,male,S,3,25,0,0,906.49,1
+Mr William Henry Saundercock,male,S,3,20,0,0,768.131,0
+Mr Frederick Charles Sawyer,male,S,3,24.5,0,0,768.131,0
+Mr James Scanlan,male,Q,3,,0,0,737.1195,0
+Mr Todor Sdycoff,male,S,3,,0,0,753.417236,0
+Mr Patrick Shaughnessy,male,Q,3,,0,0,739.505,0
+Mr Jan Baptist Sheerlinck,male,S,3,29,0,0,906.49,1
+Mr Frederick William Shellard,male,S,3,,0,0,1440.842,0
+Miss Ellen Natalia Shine,female,Q,3,,0,0,742.291264,1
+Mr Charles Joseph Shorney,male,S,3,,0,0,768.131,0
+Mr John Simmons,male,S,3,,0,0,768.131,0
+Mr Orsen Sirayanian,male,C,3,22,0,0,689.810264,0
+Mr Maurice Sirota,male,S,3,,0,0,768.131,0
+Mr Husein Sivic,male,S,3,40,0,0,753.417236,0
+Mr Antti Wilhelm Sivola,male,S,3,21,0,0,756.2035,0
+Miss Anna Sofia Sjoblom,female,S,3,18,0,0,715.249236,1
+Master Harald Skoog,male,S,3,4,3,2,2662.218,0
+Master Karl Thorsten Skoog,male,S,3,10,3,2,2662.218,0
+Miss Mabel Skoog,female,S,3,9,3,2,2662.218,0
+Miss Margit Elizabeth Skoog,female,S,3,2,3,2,2662.218,0
+Mr Wilhelm Skoog,male,S,3,40,1,4,2662.218,0
+Mrs William (Anna Bernhardina Karlsson) Skoog,female,S,3,45,1,4,2662.218,0
+Mr Petco Slabenoff,male,S,3,,0,0,753.417236,0
+Mr Selman Francis Slocovski,male,S,3,,0,0,768.131,0
+Mr Mile Smiljanic,male,S,3,,0,0,826.57575,0
+Mr Thomas Smith,male,Q,3,,0,0,739.505,0
+Miss Julia Smyth,female,Q,3,,0,0,737.911486,1
+Mr Peter Andreas Lauritz Andersen Soholt,male,S,3,19,0,0,729.963,0
+Mr Francis William Somerton,male,S,3,30,0,0,768.131,0
+Mr Woolf Spector,male,S,3,,0,0,768.131,0
+Mr Henry John Spinner,male,S,3,32,0,0,768.131,0
+Mr Ivan Staneff,male,S,3,,0,0,753.417236,0
+Mr Ivan Stankovic,male,C,3,33,0,0,826.57575,0
+Miss Amy Zillah Elsie Stanley,female,S,3,23,0,0,720.421,1
+Mr Edward Roland Stanley,male,S,3,21,0,0,768.131,0
+Mr Thomas Storey,male,S,3,60.5,0,0,0,0
+Mr Ilia Stoytcheff,male,S,3,19,0,0,753.417236,0
+Miss Ida Sofia Strandberg,female,S,3,22,0,0,938.69425,0
+Mr Juho Stranden,male,S,3,31,0,0,756.2035,1
+Mr Ivan Strilic,male,S,3,27,0,0,826.57575,0
+Miss Telma Matilda Strom,female,S,3,2,0,1,998.33175,0
+Mrs Wilhelm (Elna Matilda Persson) Strom,female,S,3,29,1,1,998.33175,0
+Mr Victor Francis Sunderland,male,S,3,16,0,0,768.131,1
+Mr Johan Julian Sundman,male,S,3,44,0,0,756.2035,1
+Mr Henry Jr Sutehall,male,S,3,25,0,0,672.711,0
+Mr Johan Svensson,male,S,3,74,0,0,741.8905,0
+Mr Johan Cervin Svensson,male,S,3,14,0,0,880.2495,1
+Mr Olof Svensson,male,S,3,24,0,0,743.875236,0
+Mr Gunnar Isidor Tenglin,male,S,3,25,0,0,743.875236,1
+Mr Thomas Leonard Theobald,male,S,3,34,0,0,768.131,0
+Master Assad Alexander Thomas,male,C,3,0.4167,0,1,812.663514,1
+Mr Charles P Thomas,male,C,3,,1,0,614.26625,0
+Mr John Thomas,male,C,3,,0,0,614.26625,0
+Mr Tannous Thomas,male,C,3,,0,0,689.4095,0
+"Mrs Alexander (Thamine ""Thelma"") Thomas",female,C,3,16,1,1,812.663514,1
+Mr Alexander Morrison Thomson,male,S,3,,0,0,768.131,0
+Mr Percival Thorneycroft,male,S,3,,1,0,1536.262,0
+Mrs Percival (Florence Kate White) Thorneycroft,female,S,3,,1,0,1536.262,1
+Mr Juho Tikkanen,male,S,3,32,0,0,756.2035,0
+Mr Roger Tobin,male,Q,3,,0,0,739.505,0
+Mr Lalio Todoroff,male,S,3,,0,0,753.417236,0
+Mr Ernest Portage Tomlin,male,S,3,30.5,0,0,768.131,0
+Mr Ernst William Torber,male,S,3,44,0,0,768.131,0
+Mr Assad Torfa,male,C,3,,0,0,689.810264,0
+Mr William Henry Tornquist,male,S,3,25,0,0,0,1
+Mr Nakli Toufik,male,C,3,,0,0,689.810264,0
+Master Georges Youssef Touma,male,C,3,7,1,1,1454.754236,1
+Miss Maria Youssef Touma,female,C,3,9,1,1,1454.754236,1
+Mrs Darwis (Hanne Youssef Razi) Touma,female,C,3,29,0,2,1454.754236,1
+Mr Stjepan Turcin,male,S,3,36,0,0,753.417236,0
+Miss Anna Sofia Turja,female,S,3,18,0,0,939.095014,1
+Mrs (Hedwig) Turkula,female,S,3,63,0,0,914.83925,1
+Master James William van Billiard,male,S,3,,1,1,1383.59,0
+Master Walter John van Billiard,male,S,3,11.5,1,1,1383.59,0
+Mr Austin Blyler van Billiard,male,S,3,40.5,0,2,1383.59,0
+Miss Catharina Van Impe,female,S,3,10,0,2,2304.393,0
+Mr Jean Baptiste Van Impe,male,S,3,36,1,1,2304.393,0
+Mrs Jean Baptiste (Rosalie Paula Govaert) Van Impe,female,S,3,30,1,1,2304.393,0
+Mr Philemon van Melkebeke,male,S,3,,0,0,906.49,0
+Mr Johannes Joseph Vande Velde,male,S,3,33,0,0,906.49,0
+Mr Nestor Cyriel Vande Walle,male,S,3,28,0,0,906.49,0
+Mr Leo Peter Vanden Steen,male,S,3,28,0,0,906.49,0
+Mr Victor Vander Cruyssen,male,S,3,47,0,0,858.78,0
+Miss Augusta Maria Vander Planke,female,S,3,18,2,0,1717.56,0
+Mr Julius Vander Planke,male,S,3,31,3,0,1717.56,0
+Mr Leo Edmondus Vander Planke,male,S,3,16,2,0,1717.56,0
+Mrs Julius (Emelia Maria Vandemoortele) Vander Planke,female,S,3,31,1,0,1717.56,0
+Mr David Vartanian,male,C,3,22,0,0,689.4095,1
+Mr Olof Edvin Vendel,male,S,3,20,0,0,749.447764,0
+Miss Hulda Amanda Adolfina Vestrom,female,S,3,14,0,0,749.447764,0
+Mr Janko Vovk,male,S,3,22,0,0,753.417236,0
+Mr Achille Waelens,male,S,3,22,0,0,858.78,0
+Mr Frederick Ware,male,S,3,,0,0,768.131,0
+Mr Charles William Warren,male,S,3,,0,0,720.421,0
+Mr James Webber,male,S,3,,0,0,768.131,0
+Mr Linhart Wenzel,male,S,3,32.5,0,0,906.49,0
+Mrs George Joseph (Shawneene Abi-Saab) Whabee,female,C,3,38,0,0,689.810264,1
+Mr Carl/Charles Peter Widegren,male,S,3,51,0,0,739.505,0
+Mr Jakob Alfred Wiklund,male,S,3,18,1,0,619.829236,0
+Mr Karl Johan Wiklund,male,S,3,21,1,0,619.829236,0
+Mrs James (Ellen Needs) Wilkes,female,S,3,47,1,0,667.94,1
+"Mr Aaron (""Abi Weller"") Willer",male,S,3,,0,0,831.34675,0
+Mr Edward Willey,male,S,3,,0,0,720.421,0
+"Mr Howard Hugh ""Harry"" Williams",male,S,3,,0,0,768.131,0
+Mr Leslie Williams,male,S,3,28.5,0,0,1536.262,0
+Mr Einar Windelov,male,S,3,21,0,0,691.795,0
+Mr Albert Wirz,male,S,3,27,0,0,826.57575,0
+Mr Phillippe Wiseman,male,S,3,,0,0,691.795,0
+Mr Camille Wittevrongel,male,S,3,36,0,0,906.49,0
+Mr Antoni Yasbeck,male,C,3,27,1,0,1379.219764,0
+Mrs Antoni (Selini Alexander) Yasbeck,female,C,3,15,1,0,1379.219764,1
+Mr Gerious Youseff,male,C,3,45.5,0,0,689.4095,0
+Mr Wazli Yousif,male,C,3,,0,0,689.4095,0
+Mr Gerious Yousseff,male,C,3,,0,0,1379.610986,0
+Miss Hileni Zabour,female,C,3,14.5,1,0,1379.219764,0
+Miss Thamine Zabour,female,C,3,,1,0,1379.219764,0
+Mr Mapriededer Zakarian,male,C,3,26.5,0,0,689.4095,0
+Mr Ortin Zakarian,male,C,3,27,0,0,689.4095,0
+Mr Leo Zimmerman,male,S,3,29,0,0,751.4325,0
